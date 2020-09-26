@@ -58,13 +58,14 @@ docker run \
 -v /root/os/www/wwwroot/study.economics:/www/wwwroot/study.economics \
 -v /root/os/www/wwwroot/mysql.economics:/www/wwwroot/mysql.economics \
 -v /root/os/www/backup:/www/backup \
+-v /root/os/www/server/panel/backup/panelBackup/:/www/server/panel/backup/panelBackup/ \
 1872220587/study:economics
 
 
 
 
-docker exec -it bt /bin/bash   #使用
-#kubectl exec -it cloud-centso-study /bin/sh
+#docker exec -it bt /bin/bash   #使用
+kubectl exec -it cloud-centso-study /bin/bash
 #yum install -y wget && wget -O install.sh http://download.bt.cn/install/install_6.0.sh && sh install.sh
 #服务启动
 /etc/init.d/bt start
