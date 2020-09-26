@@ -13,30 +13,58 @@ mount -a
 #卸载共享目录cd  /mnt/project
 umount /root/os
 
+#usb
+rm -rf /root/os/*
+docker cp bt:/www /root/os/
+/www/server/mysql
+/www/server/data
+
+
+kubectl cp -c  cloud-centso-study www:/root/os/
+kubectl cp -c  cloud-centso-study www/server/data/mysql:www:/root/zz
+
+#VM VirtualBox设置centos7共享文件夹
+
 
 #####################使用—>制作镜像->停止容器—>删除容器->上传镜像->运行镜像容器->  每天进步一点点
 docker run \
 --name bt \
 --privileged=true \
 --restart always \
+--net=host \
 -itd \
--p 21:21 \
--p 222:22 \
--p 80:80 \
--p 443:443 \
--p 888:888 \
--p 3306:3306 \
--p 8888:8888 \
--p 6379:6379 \
--v /root/os/www:/www \
-centos:7.8.2003
-docker exec -it bt /bin/bash   #使用
-yum install -y wget && wget -O install.sh http://download.bt.cn/install/install_6.0.sh && sh install.sh
+#-p 21:21 \
+#-p 222:22 \
+#-p 80:80 \
+#-p 443:443 \
+#-p 888:888 \
+#-p 3306:3306 \
+#-p 8888:8888 \
+#-p 6379:6379 \
+-v /root/www/wwwroot/:www/wwwroot/ \
 
+1872220587/study:economics
+#centos:7.8.2003 \
+#1872220587/study:economics.v1 \
+
+#USB
+docker run \
+--name bt \
 --privileged=true \
+--net=host \ #开放端口
 --restart always \
--v /root/www:/www \
-bt 1
+-itd \
+-v /root/os/www/server/data/study_economics:/www/server/data/study_economics \
+-v /root/os/www/wwwroot/study.economics:/www/wwwroot/study.economics \
+-v /root/os/www/wwwroot/mysql.economics:/www/wwwroot/mysql.economics \
+1872220587/study:economics
+
+
+
+
+docker exec -it bt /bin/bash   #使用
+#kubectl exec -it cloud-centso-study /bin/sh
+#yum install -y wget && wget -O install.sh http://download.bt.cn/install/install_6.0.sh && sh install.sh
 #服务启动
 /etc/init.d/bt start
 /etc/init.d/nginx start
@@ -47,11 +75,12 @@ bt 1
 /etc/init.d/redis restart
 
 #日常维护
-docker commit  -a "1872220587" -m "针对性学习" bt 1872220587/study:economics.v1  #提交
+docker commit  -a "1872220587" -m "针对性学习" bt 1872220587/study:economics  #提交
 docker restart bt #重启
 docker stop bt  #停止
 docker rm bt    #删除
 docker rm -f  bt #强制删除
+
 #删除锁定文件
 chattr -i .user.ini        #解除锁定
 chmod -R 777 .user.ini #赋777权限
@@ -61,16 +90,14 @@ chattr -i btwaf.conf       #解除锁定
 chmod -R 777 btwaf.conf #赋777权限
 rm -rf btwaf.conf    #删除文件
 
-docker push  1872220587/study:economics.v1   #上传
-docker pull  1872220587/study:economics.v1  #下载
+docker push  1872220587/study:economics  #上传
+docker pull  1872220587/study:economics  #下载
 
 
 #删除所有未被容器使用的镜像:
 docker image prune -a
-
 #删除所有停止运行的容器:
 docker container prune
-
 #删除所有未被挂载的卷:
 docker volume prune
 

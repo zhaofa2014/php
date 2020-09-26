@@ -10,8 +10,8 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
-      <webServer id="61bb6c3d-48c8-43b0-ba39-99fedb3e988a" name="docker" url="http://192.168.1.99">
-        <fileTransfer host="192.168.1.99" port="22" rootFolder="/root/www/wwwroot/study.economics" accessType="SFTP">
+      <webServer id="61bb6c3d-48c8-43b0-ba39-99fedb3e988a" name="docker" url="http://192.168.1.88">
+        <fileTransfer host="192.168.1.88" port="22" rootFolder="/root/os/www/wwwroot/study.economics" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
