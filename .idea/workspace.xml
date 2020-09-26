@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f89da9d6-ac46-44e1-a3d3-e4927505b598" name="默认更改列表" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/webServers.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/webServers.xml" afterDir="false" />
+    <list default="true" id="f89da9d6-ac46-44e1-a3d3-e4927505b598" name="默认更改列表" comment="宝塔 usb">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/study.economics.sh" beforeDir="false" afterPath="$PROJECT_DIR$/study.economics.sh" afterDir="false" />
     </list>
@@ -36,8 +35,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/study.economics.sh">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
+            <state relative-caret-position="497">
+              <caret line="64" lean-forward="true" selection-start-line="64" selection-end-line="64" />
             </state>
           </provider>
         </entry>
@@ -157,12 +156,20 @@
       <workItem from="1601017223999" duration="2288000" />
       <workItem from="1601021793655" duration="145000" />
       <workItem from="1601083978056" duration="8214000" />
-      <workItem from="1601103771513" duration="3555000" />
+      <workItem from="1601103771513" duration="5175000" />
     </task>
+    <task id="LOCAL-00001" summary="宝塔 usb">
+      <created>1601107531113</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1601107531113</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32200000" />
+    <option name="totallyTimeSpent" value="33820000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
@@ -179,7 +186,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3289183" />
       <window_info anchor="bottom" id="File Transfer" order="9" weight="0.3289183" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
       <window_info anchor="bottom" id="Terminal" order="11" />
@@ -188,13 +195,17 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info active="true" anchor="right" id="Remote Host" order="3" visible="true" weight="0.10501066" />
+      <window_info anchor="right" id="Remote Host" order="3" visible="true" weight="0.10501066" />
       <window_info anchor="right" id="Word Book" order="4" side_tool="true" />
       <window_info anchor="right" id="Database" order="5" weight="0.2228145" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="宝塔 usb" />
+    <option name="LAST_COMMIT_MESSAGE" value="宝塔 usb" />
   </component>
   <component name="editorHistoryManager">
     <entry file="das://482436ab-840e-4b22-80d7-2c1a474891b0/collation/armscii8_bin">
@@ -238,8 +249,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/study.economics.sh">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
+        <state relative-caret-position="497">
+          <caret line="64" lean-forward="true" selection-start-line="64" selection-end-line="64" />
         </state>
       </provider>
     </entry>

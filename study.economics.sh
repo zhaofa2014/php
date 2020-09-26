@@ -57,6 +57,7 @@ docker run \
 -v /root/os/www/server/data/study_economics:/www/server/data/study_economics \
 -v /root/os/www/wwwroot/study.economics:/www/wwwroot/study.economics \
 -v /root/os/www/wwwroot/mysql.economics:/www/wwwroot/mysql.economics \
+-v /root/os/www/backup:/www/backup \
 1872220587/study:economics
 
 
