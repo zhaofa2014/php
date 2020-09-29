@@ -104,3 +104,43 @@ docker container prune
 docker volume prune
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+yum -y install --enablerepo=remi --enablerepo=remi-php56 php php-opcache php-pecl-apcu php-devel php-mbstring php-mcrypt php-mysqlnd php-phpunit-PHPUnit php-pecl-xdebug php-pecl-xhprof php-pdo php-pear php-fpm php-cli php-xml php-bcmath php-process php-gd php-common --skip-broken
+
+
+
+
+lter user 'root'@'localhost' identified by '123456';
+
+
+
+mysql -u root -p5-Y8z3w=txl8
+alter user 'root'@'localhost' identified by '123456';
+
+grant all privileges on *.* to 'root'@'%' identified by '123456' with grant option;
+
+
+
+
+
+
+
+
+
