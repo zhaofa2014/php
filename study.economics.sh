@@ -54,18 +54,17 @@ docker run \
 -itd \
 --restart always \
 --net=host \
--v /root/os/www/server/data/study_economics:/www/server/data/study_economics \
 -v /root/os/www/wwwroot/study.economics:/www/wwwroot/study.economics \
 -v /root/os/www/wwwroot/mysql.economics:/www/wwwroot/mysql.economics \
 -v /root/os/www/backup:/www/backup \
 -v /root/os/www/server/panel/backup/panelBackup/:/www/server/panel/backup/panelBackup/ \
-1872220587/study:economics.
+1872220587/study:economics..
 
 
 
 
-#docker exec -it bt /bin/bash   #使用
-kubectl exec -it cloud-centso-study-0  /bin/bash
+docker exec -it bt /bin/bash   #使用
+#kubectl exec -it cloud-centso-study-0  /bin/bash
 #yum install -y wget && wget -O install.sh http://download.bt.cn/install/install_6.0.sh && sh install.sh
 #服务启动
 /etc/init.d/bt start
@@ -77,7 +76,7 @@ kubectl exec -it cloud-centso-study-0  /bin/bash
 /etc/init.d/redis restart
 
 #日常维护
-docker commit  -a "1872220587" -m "针对性学习" bt 1872220587/study:economics.  #提交
+docker commit  -a "1872220587" -m "针对性学习" bt 1872220587/study:economics..  #提交
 docker restart bt #重启
 docker stop bt  #停止
 docker rm bt    #删除
@@ -92,7 +91,7 @@ chattr -i btwaf.conf       #解除锁定
 chmod -R 777 btwaf.conf #赋777权限
 rm -rf btwaf.conf    #删除文件
 
-docker push  1872220587/study:economics.  #上传
+docker push  1872220587/study:economics..  #上传
 docker pull  1872220587/study:economics  #下载
 
 
