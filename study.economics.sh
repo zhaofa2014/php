@@ -54,6 +54,7 @@ docker run \
 -itd \
 --restart always \
 --net=host \
+-v /root/os/www/wwwroot:/www/wwwroot \
 -v /root/os/www/wwwroot/study.economics:/www/wwwroot/study.economics \
 -v /root/os/www/wwwroot/mysql.economics:/www/wwwroot/mysql.economics \
 -v /root/os/www/backup:/www/backup \
