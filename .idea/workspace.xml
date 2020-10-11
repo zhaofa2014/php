@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f89da9d6-ac46-44e1-a3d3-e4927505b598" name="默认更改列表" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/study.economics.sh" beforeDir="false" afterPath="$PROJECT_DIR$/study.economics.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,21 +33,12 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/study.economics.sh">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="49" selection-start-line="49" selection-end-line="62" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="837">
-              <caret line="36" selection-start-line="36" selection-end-line="36" selection-end-column="171" />
+            <state relative-caret-position="882">
+              <caret line="111" lean-forward="true" selection-start-line="111" selection-end-line="111" />
             </state>
           </provider>
         </entry>
@@ -56,10 +50,12 @@
       <find>/etc/init.d/nginx restart</find>
       <find>btwaf.conf</find>
       <find>.user.ini</find>
+      <find>create</find>
     </findStrings>
     <replaceStrings>
       <replace />
       <replace>.user.ini</replace>
+      <replace>delete</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -71,8 +67,9 @@
         <option value="$PROJECT_DIR$/目标.txt" />
         <option value="$PROJECT_DIR$/学习.sh" />
         <option value="$PROJECT_DIR$/Project Plan.mmd" />
-        <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/../../../../../ctl/30分钟部署一个Kubernetes集群【1.15版】.md" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/target.txt" />
         <option value="$PROJECT_DIR$/study.economics.sh" />
       </list>
     </option>
@@ -83,7 +80,7 @@
     <other-services-enabled>true</other-services-enabled>
     <auto-save>true</auto-save>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="1076" />
     <option name="y" value="131" />
     <option name="width" value="720" />
@@ -95,8 +92,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="NBKnowledgePane" />
       <pane id="Scope" />
+      <pane id="NBKnowledgePane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -165,7 +162,16 @@
       <workItem from="1601369254940" duration="4704000" />
       <workItem from="1602126861971" duration="6050000" />
       <workItem from="1602150150630" duration="446000" />
-      <workItem from="1602205946277" duration="2364000" />
+      <workItem from="1602205946277" duration="3810000" />
+      <workItem from="1602213178801" duration="11000" />
+      <workItem from="1602213660297" duration="606000" />
+      <workItem from="1602223036128" duration="1584000" />
+      <workItem from="1602295992529" duration="598000" />
+      <workItem from="1602309608718" duration="1661000" />
+      <workItem from="1602314445037" duration="221000" />
+      <workItem from="1602379658023" duration="542000" />
+      <workItem from="1602380666676" duration="5636000" />
+      <workItem from="1602400853571" duration="623000" />
     </task>
     <task id="LOCAL-00001" summary="宝塔 usb">
       <created>1601107531113</created>
@@ -206,13 +212,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="54054000" />
+    <option name="totallyTimeSpent" value="66982000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13166311" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1433902" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -232,7 +238,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info active="true" anchor="right" id="Remote Host" order="3" visible="true" weight="0.10501066" />
+      <window_info anchor="right" id="Remote Host" order="3" visible="true" weight="0.10501066" />
       <window_info anchor="right" id="Word Book" order="4" side_tool="true" />
       <window_info anchor="right" id="Database" order="5" weight="0.2228145" />
     </layout>
@@ -274,9 +280,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/学习.sh" />
     <entry file="file://$PROJECT_DIR$/目标.txt" />
-    <entry file="file://$PROJECT_DIR$/target.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/../../../../../ctl/k8s.sh">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1116" />
@@ -305,17 +308,24 @@
     <entry file="file://$PROJECT_DIR$/Project Plan.mmd">
       <provider selected="true" editor-type-id="com.igormaznitsa.ideamindmap.editor.MindMapDocumentEditor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/study.economics.sh">
+    <entry file="file://$PROJECT_DIR$/target.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="49" selection-start-line="49" selection-end-line="62" />
+        <state relative-caret-position="945">
+          <caret line="35" column="171" selection-start-line="35" selection-start-column="171" selection-end-line="35" selection-end-column="171" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="837">
-          <caret line="36" selection-start-line="36" selection-end-line="36" selection-end-column="171" />
+        <state relative-caret-position="297">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/study.economics.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="882">
+          <caret line="111" lean-forward="true" selection-start-line="111" selection-end-line="111" />
         </state>
       </provider>
     </entry>

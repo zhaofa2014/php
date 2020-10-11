@@ -111,36 +111,30 @@ docker volume prune
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-yum -y install --enablerepo=remi --enablerepo=remi-php56 php php-opcache php-pecl-apcu php-devel php-mbstring php-mcrypt php-mysqlnd php-phpunit-PHPUnit php-pecl-xdebug php-pecl-xhprof php-pdo php-pear php-fpm php-cli php-xml php-bcmath php-process php-gd php-common --skip-broken
-
-
-
-
-lter user 'root'@'localhost' identified by '123456';
-
-
-
-mysql -u root -p5-Y8z3w=txl8
-alter user 'root'@'localhost' identified by '123456';
-
-grant all privileges on *.* to 'root'@'%' identified by '123456' with grant option;
-
-
-
-
-
-
-
+dockerhub：https://hub.docker.com/u/1872220587
+github：https://github.com/zhaofa2014?tab=repositories
+gitee：https://gitee.com/zhaofafa/projects
+工作微信：18887142223
+生活微信：13114274876
+学习微信：18213520223
+工作 QQ：1872220587
+生活 QQ：1844480921
+游戏 QQ：1655592531
+facebook：18887142223
+twitter：Zhaofa142857
+line：zhaofa2014@hotmail.com
+QQ群：540457466
+百家号：https://baijiahao.baidu.com/u?app_id=1670732549254864
+头条号：https://www.toutiao.com/c/user/103768153980/#mid=1670731303068686
+微信公众号：https://mp.weixin.qq.com/s/_5QxA7ySiCNAyzofRdgHTQ
+企鹅号：https://media.om.qq.com/author?id=MZEXcM1irPYu7uTJilL6bXvQ0
+爱奇艺号：https://www.iqiyi.com/u/2000622273/feeds
+微博：https://weibo.com/5504212058/profile?topnav=1&amp;wvr=6&amp;is_all=1
+哔哩哔哩：https://space.bilibili.com/433162955/
+快手：https://v.kuaishou.com/8Yvk0T
+抖音：https://v.douyin.com/JjvY66V/
+优酷：https://i.youku.com/i/UMTc5ODYzNTkwNA==?spm=a2hbt.13141534.1_1.d_2_2
+腾讯视频：http://v.qq.com/s/videoplus/299369362
+知乎：https://www.zhihu.com/people/zhao-yi-79-22
 
 
