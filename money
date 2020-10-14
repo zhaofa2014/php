@@ -1,0 +1,11 @@
+docker run \
+--name bt \
+--privileged=true \
+--restart always \
+--net=host \
+-itd \
+#-v /www/:/www
+1872220587/bt:centos7.6.1810Bt6.9.9
+
+docker cp bt:/www /www
+docker rm -f  bt #强制删除
