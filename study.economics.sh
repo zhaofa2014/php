@@ -138,8 +138,8 @@ line：zhaofa2014@hotmail.com
 优酷：https://i.youku.com/i/UMTc5ODYzNTkwNA==?spm=a2hbt.13141534.1_1.d_2_2
 腾讯视频：http://v.qq.com/s/videoplus/299369362
 知乎：https://www.zhihu.com/people/zhao-yi-79-22﻿
-淘宝：
 天猫：
+淘宝：
 京东：
 
 
