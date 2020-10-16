@@ -1,12 +1,3 @@
-docker run \
---name bt \
---privileged=true \
---restart always \
---net=host \
--itd \
-#-v /www/wwwroot:/www/wwwroot \
-1872220587/study:money
-
 docker cp bt:/www /www
 docker rm -f  bt #强制删除
 
@@ -19,3 +10,7 @@ docker run \
 --restart always \
 --net=host \
 1872220587/study:money
+
+淘宝：
+天猫：
+京东：
