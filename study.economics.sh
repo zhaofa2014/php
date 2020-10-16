@@ -75,9 +75,11 @@ docker exec -it bt /bin/bash   #使用
 /etc/init.d/php-fpm-56 start
 /etc/init.d/php-fpm-73 start
 /etc/init.d/redis restart
+/usr/bin/btpython restart
 
 #日常维护
 docker commit  -a "1872220587" -m "针对性学习" bt 1872220587/study:economics..  #提交
+docker commit  -a "1872220587" -m "针对性学习" bt 1872220587/study:economics..  money
 docker restart bt #重启
 docker stop bt  #停止
 docker rm bt    #删除
@@ -92,7 +94,7 @@ chattr -i btwaf.conf       #解除锁定
 chmod -R 777 btwaf.conf #赋777权限
 rm -rf btwaf.conf    #删除文件
 
-docker push  1872220587/study:economics..  #上传
+docker push  1872220587/study:money  #上传
 docker pull  1872220587/study:economics  #下载
 
 
@@ -110,7 +112,8 @@ docker volume prune
 
 
 
-
+QQ群：540457466
+钉钉群：30711101
 dockerhub：https://hub.docker.com/u/1872220587
 github：https://github.com/zhaofa2014?tab=repositories
 gitee：https://gitee.com/zhaofafa/projects
@@ -123,7 +126,6 @@ gitee：https://gitee.com/zhaofafa/projects
 facebook：18887142223
 twitter：Zhaofa142857
 line：zhaofa2014@hotmail.com
-QQ群：540457466
 百家号：https://baijiahao.baidu.com/u?app_id=1670732549254864
 头条号：https://www.toutiao.com/c/user/103768153980/#mid=1670731303068686
 微信公众号：https://mp.weixin.qq.com/s/_5QxA7ySiCNAyzofRdgHTQ
@@ -131,10 +133,11 @@ QQ群：540457466
 爱奇艺号：https://www.iqiyi.com/u/2000622273/feeds
 微博：https://weibo.com/5504212058/profile?topnav=1&amp;wvr=6&amp;is_all=1
 哔哩哔哩：https://space.bilibili.com/433162955/
-快手：https://v.kuaishou.com/8Yvk0T
+快手：https://live.kuaishou.com/profile/zhaofa2014
 抖音：https://v.douyin.com/JjvY66V/
 优酷：https://i.youku.com/i/UMTc5ODYzNTkwNA==?spm=a2hbt.13141534.1_1.d_2_2
 腾讯视频：http://v.qq.com/s/videoplus/299369362
-知乎：https://www.zhihu.com/people/zhao-yi-79-22
+知乎：https://www.zhihu.com/people/zhao-yi-79-22﻿
+
 
 
