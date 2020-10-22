@@ -1,0 +1,12 @@
+docker cp bt:/www /www
+docker rm -f  bt #强制删除
+
+
+#USB
+docker run \
+--name bt \
+--privileged=true \
+-itd \
+--restart always \
+--net=host \
+1872220587/study:money

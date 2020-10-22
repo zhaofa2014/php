@@ -1,0 +1,552 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/mysql/money" line="0" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f89da9d6-ac46-44e1-a3d3-e4927505b598" name="默认更改列表" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="study_economics@120.24.252.169" type="feb32156:DbDataSourceImpl" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>/etc/init.d/nginx restart</find>
+      <find>btwaf.conf</find>
+      <find>.user.ini</find>
+      <find>create</find>
+      <find>pages/index/index.html?defaultUrl=https%3A%2F%2Fwww.shelimai.com%2Fsite%2Fproducts%2Fid%2F70189</find>
+      <find>index.html</find>
+      <find>class=&quot;nav_home on1&quot;</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+      <replace>.user.ini</replace>
+      <replace>delete</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/目标.txt" />
+        <option value="$PROJECT_DIR$/学习.sh" />
+        <option value="$PROJECT_DIR$/Project Plan.mmd" />
+        <option value="$PROJECT_DIR$/../../../../../ctl/30分钟部署一个Kubernetes集群【1.15版】.md" />
+        <option value="$PROJECT_DIR$/.htaccess" />
+        <option value="$PROJECT_DIR$/nfs" />
+        <option value="$PROJECT_DIR$/mysql.html" />
+        <option value="$PROJECT_DIR$/money" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/index.py" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/target.txt" />
+        <option value="$PROJECT_DIR$/index.css" />
+        <option value="$PROJECT_DIR$/index.js" />
+        <option value="$PROJECT_DIR$/study.economics.sh" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="720" />
+    <option name="height" value="852" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="NBKnowledgePane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="study.economics" type="b2602c69:ProjectViewProjectNode" />
+              <item name="study.economics" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last.edited.regexp" value="Sample Text" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\zhaofa\shelimai.vip\Job\project\工作一小时 休息10分钟 每天进步一点点\study.economics\mysql" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f89da9d6-ac46-44e1-a3d3-e4927505b598" name="默认更改列表" comment="" />
+      <created>1600847956571</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600847956571</updated>
+      <workItem from="1600847957932" duration="4201000" />
+      <workItem from="1600909144305" duration="605000" />
+      <workItem from="1600917169411" duration="700000" />
+      <workItem from="1600918118857" duration="5261000" />
+      <workItem from="1600995509193" duration="4957000" />
+      <workItem from="1601014931702" duration="2274000" />
+      <workItem from="1601017223999" duration="2288000" />
+      <workItem from="1601021793655" duration="145000" />
+      <workItem from="1601083978056" duration="8214000" />
+      <workItem from="1601103771513" duration="6468000" />
+      <workItem from="1601262881625" duration="606000" />
+      <workItem from="1601271922572" duration="4262000" />
+      <workItem from="1601363914927" duration="227000" />
+      <workItem from="1601368292738" duration="270000" />
+      <workItem from="1601369254940" duration="4704000" />
+      <workItem from="1602126861971" duration="6050000" />
+      <workItem from="1602150150630" duration="446000" />
+      <workItem from="1602205946277" duration="3810000" />
+      <workItem from="1602213178801" duration="11000" />
+      <workItem from="1602213660297" duration="606000" />
+      <workItem from="1602223036128" duration="1584000" />
+      <workItem from="1602295992529" duration="598000" />
+      <workItem from="1602309608718" duration="1661000" />
+      <workItem from="1602314445037" duration="221000" />
+      <workItem from="1602379658023" duration="542000" />
+      <workItem from="1602380666676" duration="5636000" />
+      <workItem from="1602400853571" duration="623000" />
+      <workItem from="1602468111964" duration="6751000" />
+      <workItem from="1602553678166" duration="1598000" />
+      <workItem from="1602579730728" duration="4339000" />
+      <workItem from="1602656393766" duration="4664000" />
+      <workItem from="1602725191310" duration="7781000" />
+      <workItem from="1602811775729" duration="2754000" />
+      <workItem from="1602827106332" duration="5161000" />
+      <workItem from="1602897720864" duration="1472000" />
+      <workItem from="1602904814817" duration="1059000" />
+      <workItem from="1602906807249" duration="708000" />
+      <workItem from="1603070459269" duration="4074000" />
+      <workItem from="1603157976722" duration="1226000" />
+      <workItem from="1603179604492" duration="1205000" />
+      <workItem from="1603247567506" duration="74000" />
+      <workItem from="1603265753728" duration="8000" />
+      <workItem from="1603265779494" duration="179000" />
+      <workItem from="1603330724430" duration="2433000" />
+      <workItem from="1603333249358" duration="977000" />
+      <workItem from="1603334438684" duration="2975000" />
+    </task>
+    <task id="LOCAL-00001" summary="宝塔 usb">
+      <created>1601107531113</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1601107531113</updated>
+    </task>
+    <task id="LOCAL-00002" summary="宝塔 usb">
+      <created>1601110090212</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1601110090212</updated>
+    </task>
+    <task id="LOCAL-00003" summary="宝塔 usb">
+      <created>1601111053030</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1601111053031</updated>
+    </task>
+    <task id="LOCAL-00004" summary="宝塔 usb">
+      <created>1601275998405</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1601275998405</updated>
+    </task>
+    <task id="LOCAL-00005" summary="宝塔 usb">
+      <created>1601374390941</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1601374390941</updated>
+    </task>
+    <task id="LOCAL-00006" summary="nfs">
+      <created>1602581191325</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1602581191325</updated>
+    </task>
+    <task id="LOCAL-00007" summary="nfs">
+      <created>1602582528068</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1602582528068</updated>
+    </task>
+    <task id="LOCAL-00008" summary="nfs">
+      <created>1602583593446</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1602583593446</updated>
+    </task>
+    <task id="LOCAL-00009" summary="money">
+      <created>1602667617821</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1602667617821</updated>
+    </task>
+    <task id="LOCAL-00010" summary="money">
+      <created>1602838274107</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1602838274107</updated>
+    </task>
+    <task id="LOCAL-00011" summary="money">
+      <created>1602838866526</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1602838866526</updated>
+    </task>
+    <task id="LOCAL-00012" summary="money">
+      <created>1602838881123</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1602838881123</updated>
+    </task>
+    <task id="LOCAL-00013" summary="money">
+      <created>1602839017522</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1602839017522</updated>
+    </task>
+    <task id="LOCAL-00014" summary="money">
+      <created>1602839331836</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1602839331836</updated>
+    </task>
+    <task id="LOCAL-00015" summary="money">
+      <created>1602904927385</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1602904927386</updated>
+    </task>
+    <task id="LOCAL-00016" summary="money">
+      <created>1603335521559</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1603335521559</updated>
+    </task>
+    <task id="LOCAL-00017" summary="money">
+      <created>1603335725442</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1603335725442</updated>
+    </task>
+    <task id="LOCAL-00018" summary="money">
+      <created>1603336109444</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1603336109444</updated>
+    </task>
+    <task id="LOCAL-00019" summary="money">
+      <created>1603336359898</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1603336359898</updated>
+    </task>
+    <task id="LOCAL-00020" summary="money">
+      <created>1603336389501</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1603336389501</updated>
+    </task>
+    <task id="LOCAL-00021" summary="money">
+      <created>1603337008607</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1603337008607</updated>
+    </task>
+    <task id="LOCAL-00022" summary="money">
+      <created>1603337053277</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1603337053277</updated>
+    </task>
+    <task id="LOCAL-00023" summary="money">
+      <created>1603337420800</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1603337420800</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="116420000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="7" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1380597" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3289183" />
+      <window_info anchor="bottom" id="File Transfer" order="9" weight="0.32832617" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32939914" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" weight="0.32781458" />
+      <window_info anchor="bottom" id="调试" order="13" />
+      <window_info anchor="bottom" id="Python Console" order="14" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Remote Host" order="3" weight="0.13219616" />
+      <window_info anchor="right" id="Word Book" order="4" side_tool="true" />
+      <window_info anchor="right" id="Database" order="5" weight="0.2228145" />
+      <window_info anchor="right" id="SciView" order="6" weight="0.32995737" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="宝塔 usb" />
+    <MESSAGE value="nfs" />
+    <MESSAGE value="money" />
+    <option name="LAST_COMMIT_MESSAGE" value="money" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="das://482436ab-840e-4b22-80d7-2c1a474891b0/collation/armscii8_bin" />
+    <entry file="das://482436ab-840e-4b22-80d7-2c1a474891b0/collation/armscii8_general_ci" />
+    <entry file="das://482436ab-840e-4b22-80d7-2c1a474891b0/collation/big5_bin" />
+    <entry file="das://482436ab-840e-4b22-80d7-2c1a474891b0/collation/ascii_bin" />
+    <entry file="das://482436ab-840e-4b22-80d7-2c1a474891b0/collation/utf8mb4_unicode_ci" />
+    <entry file="das://482436ab-840e-4b22-80d7-2c1a474891b0/collation/utf8mb4_swedish_ci" />
+    <entry file="das://482436ab-840e-4b22-80d7-2c1a474891b0/collation/utf8mb4_persian_ci" />
+    <entry file="das://482436ab-840e-4b22-80d7-2c1a474891b0/collation/utf8mb4_icelandic_ci" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/482436ab-840e-4b22-80d7-2c1a474891b0/console.sql" />
+    <entry file="file://$PROJECT_DIR$/学习.sh" />
+    <entry file="file://$PROJECT_DIR$/目标.txt" />
+    <entry file="file://$PROJECT_DIR$/../../../../../ctl/k8s.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1116" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../../ctl/30分钟部署一个Kubernetes集群【1.15版】.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="230">
+            <caret line="82" column="38" selection-start-line="82" selection-start-column="38" selection-end-line="82" selection-end-column="38" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../../1872220587/FileRecv/kuboard_default_2020_09_22_11_28_18.yaml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.user.ini">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HOSTS.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="12" column="28" lean-forward="true" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../10.20/config.php" />
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shelimai_com.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="24" column="124" selection-start-line="24" selection-start-column="124" selection-end-line="24" selection-end-column="124" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nfs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysql/mysql.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysql/money">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project Plan.mmd">
+      <provider selected="true" editor-type-id="com.igormaznitsa.ideamindmap.editor.MindMapDocumentEditor" />
+      <provider editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/study.economics.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-565">
+          <caret line="22" column="28" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
