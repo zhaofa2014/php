@@ -1,60 +1,38 @@
 后端框架tp5.1 6.0     laravel      学好基础php  mysql  redis            微服务  组件式开发   接口式开发
-
-
-
 前端框架vue     学好基础js  json 次要
-
-
-
-
 环境  K8S       学好基础docke git （我已经会用 ）   会用 CI/CD
-
 兴趣    shell      go    py  swoole
 
+QQ群：540457466
+钉钉群：30711101
+dockerhub：https://hub.docker.com/u/1872220587
+github：https://github.com/zhaofa2014?tab=repositories
+gitee：https://gitee.com/zhaofafa/projects
+工作微信：18887142223
+生活微信：13114274876
+学习微信：18213520223
+工作 QQ：1872220587
+生活 QQ：1844480921
+游戏 QQ：1655592531
+facebook：18887142223
+twitter：Zhaofa142857
+line：zhaofa2014@hotmail.com
+百家号：https://baijiahao.baidu.com/u?app_id=1670732549254864
+头条号：https://www.toutiao.com/c/user/103768153980/#mid=1670731303068686
+微信公众号：https://mp.weixin.qq.com/s/_5QxA7ySiCNAyzofRdgHTQ
+企鹅号：https://media.om.qq.com/author?id=MZEXcM1irPYu7uTJilL6bXvQ0
+爱奇艺号：https://www.iqiyi.com/u/2000622273/feeds
+微博：https://weibo.com/5504212058/profile?topnav=1&amp;wvr=6&amp;is_all=1
+哔哩哔哩：https://space.bilibili.com/433162955/
+快手：https://live.kuaishou.com/profile/zhaofa2014
+抖音：https://v.douyin.com/JjvY66V/
+优酷：https://i.youku.com/i/UMTc5ODYzNTkwNA==?spm=a2hbt.13141534.1_1.d_2_2
+腾讯视频：http://v.qq.com/s/videoplus/299369362
+知乎：https://www.zhihu.com/people/zhao-yi-79-22﻿
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
--javaagent:E:\JetBrains\PyCharm 2018.3.5\lib\JetbrainsIdesCrack-4.2.jar
-Deshun
-
-
-
-
-
-
-
-
-
-
-
+天猫：
+淘宝：
+京东：
 
 <?php
 class 工作之余 extends 生活
@@ -72,6 +50,8 @@ class 工作之余 extends 生活
     }
 
 
+-javaagent:E:\JetBrains\PyCharm 2018.3.5\lib\JetbrainsIdesCrack-4.2.jar
+Deshun
 
 
 
