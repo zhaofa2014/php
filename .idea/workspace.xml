@@ -4,10 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/mysql/money" line="0" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f89da9d6-ac46-44e1-a3d3-e4927505b598" name="默认更改列表" comment="money">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/curriculum vitae.psd" beforeDir="false" />
-    </list>
+    <list default="true" id="f89da9d6-ac46-44e1-a3d3-e4927505b598" name="默认更改列表" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,6 +110,17 @@
               <item name="study.economics" type="b2602c69:ProjectViewProjectNode" />
               <item name="study.economics" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="study.economics" type="b2602c69:ProjectViewProjectNode" />
+              <item name="study.economics" type="462c0819:PsiDirectoryNode" />
+              <item name="python" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="study.economics" type="b2602c69:ProjectViewProjectNode" />
+              <item name="study.economics" type="462c0819:PsiDirectoryNode" />
+              <item name="python" type="462c0819:PsiDirectoryNode" />
+              <item name="scrapy" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -209,7 +217,7 @@
       <workItem from="1603265779494" duration="179000" />
       <workItem from="1603330724430" duration="2433000" />
       <workItem from="1603333249358" duration="977000" />
-      <workItem from="1603334438684" duration="2465000" />
+      <workItem from="1603334438684" duration="2730000" />
     </task>
     <task id="LOCAL-00001" summary="宝塔 usb">
       <created>1601107531113</created>
@@ -351,16 +359,30 @@
       <option name="project" value="LOCAL" />
       <updated>1603336389501</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="money">
+      <created>1603337008607</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1603337008607</updated>
+    </task>
+    <task id="LOCAL-00022" summary="money">
+      <created>1603337053277</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1603337053277</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="115910000" />
+    <option name="totallyTimeSpent" value="116175000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1066" extended-state="7" />
+    <frame x="-8" y="-8" width="720" height="852" extended-state="1" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1380597" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.39242426" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
