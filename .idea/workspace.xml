@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/money" line="0" />
+    <bookmark url="file://$PROJECT_DIR$/mysql/money" line="0" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f89da9d6-ac46-44e1-a3d3-e4927505b598" name="默认更改列表" comment="">
+      <change afterPath="$PROJECT_DIR$/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/money" beforeDir="false" afterPath="$PROJECT_DIR$/mysql/money" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysql.txt" beforeDir="false" afterPath="$PROJECT_DIR$/mysql/mysql.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -41,6 +44,8 @@
       <list>
         <option value="HTML File" />
         <option value="Python Script" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -79,6 +84,8 @@
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/study.economics.sh" />
         <option value="$PROJECT_DIR$/target.txt" />
+        <option value="$PROJECT_DIR$/index.css" />
+        <option value="$PROJECT_DIR$/index.js" />
       </list>
     </option>
   </component>
@@ -126,11 +133,17 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
     <property name="last.edited.regexp" value="Sample Text" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="configurable.group.language" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\zhaofa\shelimai.vip\Job\project\工作一小时 休息10分钟 每天进步一点点\study.economics\mysql" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -199,7 +212,7 @@
       <workItem from="1603265779494" duration="179000" />
       <workItem from="1603330724430" duration="2433000" />
       <workItem from="1603333249358" duration="977000" />
-      <workItem from="1603334438684" duration="1244000" />
+      <workItem from="1603334438684" duration="1660000" />
     </task>
     <task id="LOCAL-00001" summary="宝塔 usb">
       <created>1601107531113</created>
@@ -313,11 +326,18 @@
       <option name="project" value="LOCAL" />
       <updated>1603335521559</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="money">
+      <created>1603335725442</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1603335725442</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="114689000" />
+    <option name="totallyTimeSpent" value="115105000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
@@ -445,10 +465,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mysql.txt">
+    <entry file="file://$PROJECT_DIR$/mysql/mysql.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/money">
+    <entry file="file://$PROJECT_DIR$/mysql/money">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="297">
           <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
@@ -468,6 +488,12 @@
           <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.css">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
   <component name="masterDetails">
