@@ -5,7 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f89da9d6-ac46-44e1-a3d3-e4927505b598" name="默认更改列表" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/study.economics.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/study.economics.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/webServers.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/webServers.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.py" beforeDir="false" afterPath="$PROJECT_DIR$/index.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/study.economics.sh" beforeDir="false" afterPath="$PROJECT_DIR$/study.economics.sh" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,18 +40,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/study.economics.sh">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1330">
-              <caret line="70" selection-start-line="70" selection-end-line="77" selection-end-column="25" />
+            <state relative-caret-position="20">
+              <caret line="67" selection-start-line="67" selection-end-line="80" selection-end-column="25" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Project Plan.mmd">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -54,6 +55,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -65,6 +67,7 @@
       <find>create</find>
       <find>pages/index/index.html?defaultUrl=https%3A%2F%2Fwww.shelimai.com%2Fsite%2Fproducts%2Fid%2F70189</find>
       <find>index.html</find>
+      <find>class=&quot;nav_home on1&quot;</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -87,8 +90,10 @@
         <option value="$PROJECT_DIR$/mysql.html" />
         <option value="$PROJECT_DIR$/target.txt" />
         <option value="$PROJECT_DIR$/money" />
-        <option value="$PROJECT_DIR$/study.economics.sh" />
         <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/index.py" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/study.economics.sh" />
       </list>
     </option>
   </component>
@@ -99,8 +104,8 @@
     <auto-save>true</auto-save>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1076" />
-    <option name="y" value="131" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
     <option name="width" value="720" />
     <option name="height" value="852" />
   </component>
@@ -110,6 +115,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="NBKnowledgePane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -121,8 +128,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="NBKnowledgePane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -140,7 +145,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -199,7 +204,17 @@
       <workItem from="1602811775729" duration="2754000" />
       <workItem from="1602827106332" duration="5161000" />
       <workItem from="1602897720864" duration="1472000" />
-      <workItem from="1602904814817" duration="54000" />
+      <workItem from="1602904814817" duration="1059000" />
+      <workItem from="1602906807249" duration="708000" />
+      <workItem from="1603070459269" duration="4074000" />
+      <workItem from="1603157976722" duration="1226000" />
+      <workItem from="1603179604492" duration="1205000" />
+      <workItem from="1603247567506" duration="74000" />
+      <workItem from="1603265753728" duration="8000" />
+      <workItem from="1603265779494" duration="179000" />
+      <workItem from="1603330724430" duration="2433000" />
+      <workItem from="1603333249358" duration="977000" />
+      <workItem from="1603334438684" duration="253000" />
     </task>
     <task id="LOCAL-00001" summary="宝塔 usb">
       <created>1601107531113</created>
@@ -299,19 +314,26 @@
       <option name="project" value="LOCAL" />
       <updated>1602839331836</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="money">
+      <created>1602904927385</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1602904927386</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="101556000" />
+    <option name="totallyTimeSpent" value="113698000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1663113" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1380597" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Python Console" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -321,18 +343,19 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.3289183" />
-      <window_info anchor="bottom" id="File Transfer" order="9" weight="0.3289183" />
+      <window_info anchor="bottom" id="File Transfer" order="9" weight="0.32832617" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
-      <window_info anchor="bottom" id="Terminal" order="11" />
-      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" weight="0.3289183" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32939914" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" weight="0.32781458" />
       <window_info anchor="bottom" id="调试" order="13" />
-      <window_info anchor="right" id="SciView" />
+      <window_info anchor="bottom" id="Python Console" order="14" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Remote Host" order="3" weight="0.13219616" />
       <window_info anchor="right" id="Word Book" order="4" side_tool="true" />
       <window_info anchor="right" id="Database" order="5" weight="0.2228145" />
+      <window_info anchor="right" id="SciView" order="6" weight="0.32995737" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -346,27 +369,13 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="das://482436ab-840e-4b22-80d7-2c1a474891b0/collation/armscii8_bin" />
-    <entry file="das://482436ab-840e-4b22-80d7-2c1a474891b0/collation/armscii8_general_ci">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="das://482436ab-840e-4b22-80d7-2c1a474891b0/collation/big5_bin">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="das://482436ab-840e-4b22-80d7-2c1a474891b0/collation/ascii_bin">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="das://482436ab-840e-4b22-80d7-2c1a474891b0/collation/utf8mb4_unicode_ci">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="das://482436ab-840e-4b22-80d7-2c1a474891b0/collation/utf8mb4_swedish_ci">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="das://482436ab-840e-4b22-80d7-2c1a474891b0/collation/utf8mb4_persian_ci">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="das://482436ab-840e-4b22-80d7-2c1a474891b0/collation/utf8mb4_icelandic_ci">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="das://482436ab-840e-4b22-80d7-2c1a474891b0/collation/armscii8_general_ci" />
+    <entry file="das://482436ab-840e-4b22-80d7-2c1a474891b0/collation/big5_bin" />
+    <entry file="das://482436ab-840e-4b22-80d7-2c1a474891b0/collation/ascii_bin" />
+    <entry file="das://482436ab-840e-4b22-80d7-2c1a474891b0/collation/utf8mb4_unicode_ci" />
+    <entry file="das://482436ab-840e-4b22-80d7-2c1a474891b0/collation/utf8mb4_swedish_ci" />
+    <entry file="das://482436ab-840e-4b22-80d7-2c1a474891b0/collation/utf8mb4_persian_ci" />
+    <entry file="das://482436ab-840e-4b22-80d7-2c1a474891b0/collation/utf8mb4_icelandic_ci" />
     <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/482436ab-840e-4b22-80d7-2c1a474891b0/console.sql" />
     <entry file="file://$PROJECT_DIR$/学习.sh" />
     <entry file="file://$PROJECT_DIR$/目标.txt" />
@@ -426,13 +435,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/target.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1512">
-          <caret line="56" lean-forward="true" selection-start-line="56" selection-end-line="56" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
@@ -443,15 +445,52 @@
     <entry file="file://$PROJECT_DIR$/mysql.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/study.economics.sh">
+    <entry file="file://$PROJECT_DIR$/target.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1330">
-          <caret line="70" selection-start-line="70" selection-end-line="77" selection-end-column="25" />
+        <state relative-caret-position="936">
+          <caret line="56" lean-forward="true" selection-start-line="56" selection-end-line="56" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../../../10.20/config.php" />
     <entry file="file://$PROJECT_DIR$/Project Plan.mmd">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/study.economics.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="67" selection-start-line="67" selection-end-line="80" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>

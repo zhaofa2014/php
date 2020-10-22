@@ -64,8 +64,8 @@ docker run \
 
 
 
-docker exec -it bt /bin/bash   #使用
-#kubectl exec -it cloud-centso-study-0  /bin/bash
+#docker exec -it bt /bin/bash   #使用
+kubectl exec -it  cloud-centos-study-0 /bin/bash
 #yum install -y wget && wget -O install.sh http://download.bt.cn/install/install_6.0.sh && sh install.sh
 #服务启动
 /etc/init.d/bt start
@@ -73,7 +73,10 @@ docker exec -it bt /bin/bash   #使用
 /etc/init.d/mysqld start
 /etc/init.d/pure-ftpd start
 /etc/init.d/php-fpm-56 start
+/etc/init.d/php-fpm-71 start
+/etc/init.d/php-fpm-72 start
 /etc/init.d/php-fpm-73 start
+/etc/init.d/php-fpm-74 start
 /etc/init.d/redis restart
 /usr/bin/btpython restart
 
