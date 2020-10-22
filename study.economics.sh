@@ -20,7 +20,7 @@ docker cp bt:/www /root/os/
 /www/server/data
 
 
-kubectl cp -c  cloud-centso-study www:/root/os/
+docker cp bt  /www:/root/www
 kubectl cp -c  cloud-centso-study www/server/data/mysql:www:/root/zz
 
 #VM VirtualBox设置centos7共享文件夹
