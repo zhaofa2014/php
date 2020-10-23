@@ -3,6 +3,16 @@
 环境  K8S       学好基础docke git （我已经会用 ）   会用 CI/CD
 兴趣    shell      go    py  swoole
 
+
+
+
+
+
+
+
+
+
+
 QQ群：540457466
 钉钉群：30711101
 微信群：
