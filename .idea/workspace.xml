@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/study.txt" description="&#10;周期" line="4" />
-  </component>
   <component name="ChangeListManager">
     <list default="true" id="f89da9d6-ac46-44e1-a3d3-e4927505b598" name="默认更改列表" comment="">
-      <change afterPath="$PROJECT_DIR$/study.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.htaccess" beforeDir="false" afterPath="$PROJECT_DIR$/.htaccess" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.user.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HOSTS.txt" beforeDir="false" afterPath="$PROJECT_DIR$/HOSTS.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -38,12 +39,12 @@
     <favorites_list name="study.economics" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/study.txt">
+        <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
+            <state relative-caret-position="1107">
+              <caret line="41" column="23" selection-start-line="41" selection-start-column="23" selection-end-line="41" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -92,12 +93,12 @@
         <option value="$PROJECT_DIR$/money" />
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/index.py" />
-        <option value="$PROJECT_DIR$/index.css" />
         <option value="$PROJECT_DIR$/index.js" />
         <option value="$PROJECT_DIR$/study.economics.sh" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/target.txt" />
         <option value="$PROJECT_DIR$/study.txt" />
+        <option value="$PROJECT_DIR$/index.css" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -119,7 +120,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="NBKnowledgePane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -131,7 +132,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="NBKnowledgePane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -232,7 +233,11 @@
       <workItem from="1603423689351" duration="3279000" />
       <workItem from="1603435392813" duration="617000" />
       <workItem from="1603442126687" duration="8000" />
-      <workItem from="1603442616520" duration="249000" />
+      <workItem from="1603442616520" duration="259000" />
+      <workItem from="1603501970242" duration="599000" />
+      <workItem from="1603507366389" duration="4982000" />
+      <workItem from="1603524050162" duration="2025000" />
+      <workItem from="1603674788739" duration="1139000" />
     </task>
     <task id="LOCAL-00001" summary="宝塔 usb">
       <created>1601107531113</created>
@@ -409,17 +414,24 @@
       <option name="project" value="LOCAL" />
       <updated>1603424678650</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="money">
+      <created>1603442872722</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1603442872722</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="126211000" />
+    <option name="totallyTimeSpent" value="134966000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49785408" visible="true" weight="0.2185501" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49785408" visible="true" weight="0.22707888" />
       <window_info id="Structure" order="1" sideWeight="0.50214595" side_tool="true" weight="0.141258" />
       <window_info id="Favorites" order="2" sideWeight="0.50110376" side_tool="true" weight="0.13965885" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -431,7 +443,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.3289183" />
-      <window_info anchor="bottom" id="File Transfer" order="9" weight="0.32832617" />
+      <window_info anchor="bottom" id="File Transfer" order="9" visible="true" weight="0.03311258" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.32939914" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" weight="0.32781458" />
@@ -492,17 +504,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.user.ini">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/.user.ini" />
     <entry file="file://$PROJECT_DIR$/../../../10.20/config.php" />
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/shelimai_com.sql">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
@@ -526,17 +529,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.js" />
-    <entry file="file://$PROJECT_DIR$/index.css" />
     <entry file="file://$PROJECT_DIR$/Project Plan.mmd">
       <provider editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" column="13" lean-forward="true" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/HOSTS.txt">
       <provider selected="true" editor-type-id="text-editor">
@@ -546,13 +540,6 @@
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/Desktop/update.sh" />
-    <entry file="file://$PROJECT_DIR$/study.economics.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="67" selection-start-line="67" selection-end-line="67" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/target.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
@@ -560,10 +547,41 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/study.txt">
+    <entry file="file://$PROJECT_DIR$/study.txt" />
+    <entry file="file://$PROJECT_DIR$/study.economics.sh">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
+        <state relative-caret-position="459">
+          <caret line="70" selection-start-line="70" selection-end-line="80" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index2.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index3.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="789">
+          <caret line="54" column="18" selection-start-line="54" selection-start-column="18" selection-end-line="54" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1107">
+          <caret line="41" column="23" selection-start-line="41" selection-start-column="23" selection-end-line="41" selection-end-column="23" />
         </state>
       </provider>
     </entry>
