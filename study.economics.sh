@@ -66,6 +66,8 @@ docker run \
 
 #docker exec -it bt /bin/bash   #使用
 kubectl exec -it  cloud-centos-study-0 /bin/bash
+kubectl exec -it cloud-centos-test-0  /bin/bash
+
 #yum install -y wget && wget -O install.sh http://download.bt.cn/install/install_6.0.sh && sh install.sh
 #服务启动
 /etc/init.d/bt start
@@ -78,11 +80,11 @@ kubectl exec -it  cloud-centos-study-0 /bin/bash
 /etc/init.d/php-fpm-73 start
 /etc/init.d/php-fpm-74 start
 /etc/init.d/redis restart
-/usr/bin/btpython restart
+
 
 #日常维护
 docker commit  -a "1872220587" -m "针对性学习" bt 1872220587/study:economics..  #提交
-docker commit  -a "1872220587" -m "针对性学习" bt 1872220587/study:economics..  money
+docker commit  -a "1872220587" -m "针对性学习" 6ad6d15b9903 1872220587/study:money.
 docker restart bt #重启
 docker stop bt  #停止
 docker rm bt    #删除
@@ -97,7 +99,7 @@ chattr -i btwaf.conf       #解除锁定
 chmod -R 777 btwaf.conf #赋777权限
 rm -rf btwaf.conf    #删除文件
 
-docker push  1872220587/study:money  #上传
+docker push  1872220587/study:money.  #上传
 docker pull  1872220587/study:economics  #下载
 
 
@@ -107,3 +109,9 @@ docker image prune -a
 docker container prune
 #删除所有未被挂载的卷:
 docker volume prune
+
+/www/server/panel
+unzip -r panel.zip panel
+unzip panel.zip
+
+mv -i panel /root/nfs_root/default-node2-pvc-00e141f3-df56-4869-9333-ea1c071c67e6/www/server

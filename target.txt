@@ -1,7 +1,11 @@
-后端框架tp5.1 6.0     laravel      学好基础php  mysql  redis            微服务  组件式开发   接口式开发
-前端框架vue     学好基础js  json 次要
-环境  K8S       学好基础docke git （我已经会用 ）   会用 CI/CD
-兴趣    shell      go    py  swoole
+招聘平台数据分析
+职位：PHP工程师
+技能书：
+后端框架tp5.1 6.0	laravel
+学好基础php	mysql	redis	微服务	组件式开发	接口式开发
+前端框架vue	学好基础js	json次要
+环境	K8S	学好基础docke git （我已经会用 ）   会用 CI/CD
+兴趣		赚钱		shell	py go	 swoole   
 
 
 
@@ -12,7 +16,7 @@
 
 
 
-
+新媒体
 QQ群：540457466
 钉钉群：30711101
 微信群：
@@ -45,6 +49,22 @@ youtube：https://www.youtube.com/channel/UCJVc5bPRemRCAVZskxpJTYw?view_as=subsc
 天猫：
 淘宝：
 京东：
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <?php
 class 工作之余 extends 生活

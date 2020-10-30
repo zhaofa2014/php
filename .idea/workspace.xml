@@ -1,14 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f89da9d6-ac46-44e1-a3d3-e4927505b598" name="默认更改列表" comment="">
-      <change beforePath="$PROJECT_DIR$/.htaccess" beforeDir="false" afterPath="$PROJECT_DIR$/.htaccess" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+    <list default="true" id="f89da9d6-ac46-44e1-a3d3-e4927505b598" name="默认更改列表" comment="money">
+      <change afterPath="$PROJECT_DIR$/imags/支付码.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jQueryAssets/SpryDOMUtils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/kubernetes/kuboard_default_2020_10_23_11_50_31.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux/nginx.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/482436ab-840e-4b22-80d7-2c1a474891b0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.user.ini" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/HOSTS.txt" beforeDir="false" afterPath="$PROJECT_DIR$/HOSTS.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Plan.mmd" beforeDir="false" afterPath="$PROJECT_DIR$/Project Plan.mmd" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/index.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysql/money" beforeDir="false" afterPath="$PROJECT_DIR$/mysql/money" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysql/mysql.txt" beforeDir="false" afterPath="$PROJECT_DIR$/mysql/mysql.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nfs" beforeDir="false" afterPath="$PROJECT_DIR$/linux/nfs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/php/shop/iwebshop技术开发.lnk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/scrapy/qx/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/scrapy/qx/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/scrapy/qx/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/scrapy/qx/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/scrapy/qx/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/scrapy/qx/.idea/php.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/scrapy/qx/.idea/qx.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/scrapy/qx/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/scrapy/qx/qx/items.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/scrapy/qx/qx/items.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shelimai_com.sql" beforeDir="false" afterPath="$PROJECT_DIR$/mysql/shelimai_com.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/study.economics.sh" beforeDir="false" afterPath="$PROJECT_DIR$/study.economics.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/study.txt" beforeDir="false" afterPath="$PROJECT_DIR$/study.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,7 +54,7 @@
     <expand>
       <path>
         <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="study_economics@120.24.252.169" type="feb32156:DbDataSourceImpl" />
+        <item name="study_economics@localhost" type="feb32156:DbDataSourceImpl" />
       </path>
     </expand>
     <select />
@@ -41,10 +65,28 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index.html">
+        <entry file="file://$PROJECT_DIR$/study.economics.sh">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1107">
-              <caret line="41" column="23" selection-start-line="41" selection-start-column="23" selection-end-line="41" selection-end-column="23" />
+            <state relative-caret-position="657">
+              <caret line="101" column="36" selection-start-line="101" selection-start-column="36" selection-end-line="101" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/linux/ctl/bt.dockerfile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="8" column="59" selection-start-line="8" selection-start-column="59" selection-end-line="8" selection-end-column="59" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/linux/ctl/centos.yaml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="432">
+              <caret line="16" column="50" lean-forward="true" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="50" />
             </state>
           </provider>
         </entry>
@@ -54,10 +96,10 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="Python Script" />
         <option value="CSS File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -85,7 +127,6 @@
       <list>
         <option value="$PROJECT_DIR$/目标.txt" />
         <option value="$PROJECT_DIR$/学习.sh" />
-        <option value="$PROJECT_DIR$/Project Plan.mmd" />
         <option value="$PROJECT_DIR$/../../../../../ctl/30分钟部署一个Kubernetes集群【1.15版】.md" />
         <option value="$PROJECT_DIR$/.htaccess" />
         <option value="$PROJECT_DIR$/nfs" />
@@ -94,11 +135,22 @@
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/index.py" />
         <option value="$PROJECT_DIR$/index.js" />
-        <option value="$PROJECT_DIR$/study.economics.sh" />
-        <option value="$PROJECT_DIR$/target.txt" />
-        <option value="$PROJECT_DIR$/study.txt" />
-        <option value="$PROJECT_DIR$/index.css" />
+        <option value="$PROJECT_DIR$/Project Plan.mmd" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/index.css" />
+        <option value="$PROJECT_DIR$/target.txt" />
+        <option value="$PROJECT_DIR$/python/scrapy/qx/qx/pipelines.py" />
+        <option value="$PROJECT_DIR$/python/pandas/Pandas.sh.html" />
+        <option value="$PROJECT_DIR$/python/pandas/Pandas.sh" />
+        <option value="$PROJECT_DIR$/linux/ctl/Git.txt" />
+        <option value="$PROJECT_DIR$/php/sh" />
+        <option value="$PROJECT_DIR$/study.txt" />
+        <option value="$PROJECT_DIR$/mysql/money" />
+        <option value="$PROJECT_DIR$/mysql/mysql.txt" />
+        <option value="$PROJECT_DIR$/mysql/sale.sql" />
+        <option value="$PROJECT_DIR$/linux/ctl/centos.yaml" />
+        <option value="$PROJECT_DIR$/linux/ctl/bt.dockerfile" />
+        <option value="$PROJECT_DIR$/study.economics.sh" />
       </list>
     </option>
   </component>
@@ -120,7 +172,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="NBKnowledgePane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -128,11 +180,22 @@
               <item name="study.economics" type="b2602c69:ProjectViewProjectNode" />
               <item name="study.economics" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="study.economics" type="b2602c69:ProjectViewProjectNode" />
+              <item name="study.economics" type="462c0819:PsiDirectoryNode" />
+              <item name="linux" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="study.economics" type="b2602c69:ProjectViewProjectNode" />
+              <item name="study.economics" type="462c0819:PsiDirectoryNode" />
+              <item name="linux" type="462c0819:PsiDirectoryNode" />
+              <item name="ctl" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="NBKnowledgePane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -146,6 +209,7 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
     <property name="last.edited.regexp" value="Sample Text" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -155,9 +219,13 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\zhaofa\shelimai.vip\Job\project\工作一小时 休息10分钟 每天进步一点点\study.economics\linux\kubernetes" />
       <recent name="D:\zhaofa\shelimai.vip\Job\project\工作一小时 休息10分钟 每天进步一点点\study.economics\linux" />
       <recent name="D:\zhaofa\shelimai.vip\Job\project\工作一小时 休息10分钟 每天进步一点点\study.economics\mysql" />
+      <recent name="D:\zhaofa\shelimai.vip\Job\project\工作一小时 休息10分钟 每天进步一点点\study.economics\imags" />
+      <recent name="D:\zhaofa\shelimai.vip\Job\project\工作一小时 休息10分钟 每天进步一点点\study.economics\linux\kubernetes" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Desktop" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -237,7 +305,20 @@
       <workItem from="1603501970242" duration="599000" />
       <workItem from="1603507366389" duration="4982000" />
       <workItem from="1603524050162" duration="2025000" />
-      <workItem from="1603674788739" duration="1139000" />
+      <workItem from="1603674788739" duration="4442000" />
+      <workItem from="1603694396082" duration="334000" />
+      <workItem from="1603701277095" duration="2043000" />
+      <workItem from="1603778508552" duration="3394000" />
+      <workItem from="1603848104102" duration="4711000" />
+      <workItem from="1603871336143" duration="3692000" />
+      <workItem from="1603936956758" duration="1441000" />
+      <workItem from="1603942627196" duration="3345000" />
+      <workItem from="1603951732390" duration="6473000" />
+      <workItem from="1603960510752" duration="263000" />
+      <workItem from="1603960883862" duration="192000" />
+      <workItem from="1603961334922" duration="510000" />
+      <workItem from="1603962331981" duration="3523000" />
+      <workItem from="1604025321049" duration="14807000" />
     </task>
     <task id="LOCAL-00001" summary="宝塔 usb">
       <created>1601107531113</created>
@@ -425,13 +506,40 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="134966000" />
+    <option name="totallyTimeSpent" value="182997000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49785408" visible="true" weight="0.22707888" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49785408" visible="true" weight="0.20895523" />
+      <window_info id="Structure" order="1" sideWeight="0.50214595" side_tool="true" weight="0.141258" />
+      <window_info id="Favorites" order="2" sideWeight="0.50110376" side_tool="true" weight="0.13965885" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3289183" />
+      <window_info anchor="bottom" id="File Transfer" order="9" weight="0.03311258" />
+      <window_info anchor="bottom" id="Database Changes" order="10" weight="0.3289183" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.48675495" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" weight="0.32781458" />
+      <window_info anchor="bottom" id="调试" order="13" />
+      <window_info anchor="bottom" id="Python Console" order="14" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Remote Host" order="3" weight="0.13219616" />
+      <window_info anchor="right" id="Word Book" order="4" side_tool="true" />
+      <window_info anchor="right" id="Database" order="5" weight="0.141258" />
+      <window_info anchor="right" id="SciView" order="6" weight="0.32995737" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49785408" visible="true" weight="0.20895523" />
       <window_info id="Structure" order="1" sideWeight="0.50214595" side_tool="true" weight="0.141258" />
       <window_info id="Favorites" order="2" sideWeight="0.50110376" side_tool="true" weight="0.13965885" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -444,8 +552,8 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.3289183" />
       <window_info anchor="bottom" id="File Transfer" order="9" visible="true" weight="0.03311258" />
-      <window_info anchor="bottom" id="Database Changes" order="10" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32939914" />
+      <window_info anchor="bottom" id="Database Changes" order="10" weight="0.3289183" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.48675495" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" weight="0.32781458" />
       <window_info anchor="bottom" id="调试" order="13" />
       <window_info anchor="bottom" id="Python Console" order="14" />
@@ -454,9 +562,9 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Remote Host" order="3" weight="0.13219616" />
       <window_info anchor="right" id="Word Book" order="4" side_tool="true" />
-      <window_info anchor="right" id="Database" order="5" weight="0.2228145" />
+      <window_info anchor="right" id="Database" order="5" weight="0.141258" />
       <window_info anchor="right" id="SciView" order="6" weight="0.32995737" />
-    </layout>
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -468,14 +576,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="money" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="das://482436ab-840e-4b22-80d7-2c1a474891b0/collation/armscii8_bin" />
-    <entry file="das://482436ab-840e-4b22-80d7-2c1a474891b0/collation/armscii8_general_ci" />
-    <entry file="das://482436ab-840e-4b22-80d7-2c1a474891b0/collation/big5_bin" />
-    <entry file="das://482436ab-840e-4b22-80d7-2c1a474891b0/collation/ascii_bin" />
-    <entry file="das://482436ab-840e-4b22-80d7-2c1a474891b0/collation/utf8mb4_unicode_ci" />
-    <entry file="das://482436ab-840e-4b22-80d7-2c1a474891b0/collation/utf8mb4_swedish_ci" />
-    <entry file="das://482436ab-840e-4b22-80d7-2c1a474891b0/collation/utf8mb4_persian_ci" />
-    <entry file="das://482436ab-840e-4b22-80d7-2c1a474891b0/collation/utf8mb4_icelandic_ci" />
     <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/482436ab-840e-4b22-80d7-2c1a474891b0/console.sql" />
     <entry file="file://$PROJECT_DIR$/学习.sh" />
     <entry file="file://$PROJECT_DIR$/目标.txt" />
@@ -497,6 +597,16 @@
     <entry file="file://$PROJECT_DIR$/../../../../../1872220587/FileRecv/kuboard_default_2020_09_22_11_28_18.yaml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/.user.ini" />
+    <entry file="file://$PROJECT_DIR$/../../../10.20/config.php" />
+    <entry file="file://$PROJECT_DIR$/linux/nfs" />
+    <entry file="file://$USER_HOME$/Desktop/update.sh" />
+    <entry file="file://$PROJECT_DIR$/index2.js" />
+    <entry file="file://$PROJECT_DIR$/index3.js" />
+    <entry file="file://$PROJECT_DIR$/imags/支付码.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysql/shelimai_com.sql" />
     <entry file="file://$PROJECT_DIR$/.htaccess">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -504,24 +614,39 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.user.ini" />
-    <entry file="file://$PROJECT_DIR$/../../../10.20/config.php" />
-    <entry file="file://$PROJECT_DIR$/shelimai_com.sql">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="24" column="124" selection-start-line="24" selection-start-column="124" selection-end-line="24" selection-end-column="124" />
+        <state relative-caret-position="441">
+          <caret line="59" column="7" selection-start-line="59" selection-start-column="7" selection-end-line="59" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/nfs">
+    <entry file="file://$PROJECT_DIR$/index.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+        <state relative-caret-position="-1023">
+          <caret line="76" column="17" lean-forward="true" selection-start-line="76" selection-start-column="17" selection-end-line="76" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mysql/mysql.txt" />
-    <entry file="file://$PROJECT_DIR$/mysql/money" />
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jQueryAssets/SpryDOMUtils.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-72">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="243">
@@ -529,59 +654,147 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/python/scrapy/qx/scrapy.cfg">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/scrapy/qx/qx/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/scrapy/qx/qx/middlewares.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/scrapy/qx/qx/spiders/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/scrapy/qx/qx/items.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/scrapy/qx/qx/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="9" column="54" selection-start-line="9" selection-start-column="54" selection-end-line="9" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/scrapy/qx/qx/settings.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/scrapy/qx/qx/spiders/qxs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+          <folding>
+            <element signature="e#24#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/pandas/Pandas.sh" />
+    <entry file="file://$PROJECT_DIR$/linux/ctl/Git.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="36" column="4" selection-start-line="36" selection-start-column="4" selection-end-line="36" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Project Plan.mmd">
       <provider editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="com.igormaznitsa.ideamindmap.editor.MindMapDocumentEditor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/linux/ctl/311ebh.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1188" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/linux/ctl/ceph.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-376" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/linux/ctl/composer.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="9" selection-start-column="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/57e75d4d-0230-4aea-8883-b8bf47a4d2be/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/study.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="49" selection-start-line="3" selection-start-column="49" selection-end-line="3" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/sale.sql" />
+    <entry file="file://$PROJECT_DIR$/mysql/money">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysql/mysql.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="531">
+          <caret line="21" selection-start-line="21" selection-end-line="28" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysql/sale.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/sale.sql" />
+    <entry file="file://$PROJECT_DIR$/linux/ctl/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/linux/ctl/Docker.txt">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/HOSTS.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="538">
-          <caret line="34" selection-start-line="34" selection-end-line="34" selection-end-column="14" />
+        <state relative-caret-position="813">
+          <caret line="38" column="1" selection-start-line="38" selection-start-column="1" selection-end-line="38" selection-end-column="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/update.sh" />
-    <entry file="file://$PROJECT_DIR$/target.txt">
+    <entry file="file://$USER_HOME$/Desktop/centos.yaml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/linux/ctl/bt.dockerfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        <state relative-caret-position="216">
+          <caret line="8" column="59" selection-start-line="8" selection-start-column="59" selection-end-line="8" selection-end-column="59" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/study.txt" />
+    <entry file="file://$PROJECT_DIR$/linux/ctl/centos.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="16" column="50" lean-forward="true" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/study.economics.sh">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="70" selection-start-line="70" selection-end-line="80" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index2.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index3.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="789">
-          <caret line="54" column="18" selection-start-line="54" selection-start-column="18" selection-end-line="54" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1107">
-          <caret line="41" column="23" selection-start-line="41" selection-start-column="23" selection-end-line="41" selection-end-column="23" />
+        <state relative-caret-position="657">
+          <caret line="101" column="36" selection-start-line="101" selection-start-column="36" selection-end-line="101" selection-end-column="36" />
         </state>
       </provider>
     </entry>

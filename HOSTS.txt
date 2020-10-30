@@ -2,21 +2,7 @@
 127.0.0.1 localhost
 #::1 localhost
 
-#K8S
-
-#120.24.252.169	k8s.shelimai.com
-#120.24.252.169	bt.shelimai.com
-#120.24.252.169	mysql.shelimai.com
-120.24.254.242 	mysql.18887142223.cn
-120.24.254.242	18887142223.cn
-#120.24.252.169	18887142223.cn
-#47.107.45.108	18887142223.cn
-
-#120.24.252.169	study.economics
-#120.24.252.169	mysql.economics
-#120.24.254.242	gitlab.economics
-
-#docker
+#vmware_centos_docker
 #192.168.1.88	study.economics
 192.168.1.88	mysql.economics
 #192.168.1.88	wq.economics
@@ -30,80 +16,28 @@
 #192.168.1.88	cms.economics
 #192.168.1.88	niushop.economics
 
+#phpstudy_pro
+127.0.0.1 		study.economic
+#127.0.0.1 	shop.shelimai.com
+#127.0.0.1	 	local.km311wgk.com
+#192.168.39.1	windows10.microdone.cn
+127.0.0.1 		study.economics
+
+#K8S
+#120.24.252.169	k8s.shelimai.com
+#120.24.252.169	bt.shelimai.com
+#120.24.252.169	mysql.shelimai.com
+#120.24.254.242 	mysql.18887142223.cn
+#120.24.254.242	18887142223.cn
+#120.24.252.169	18887142223.cn
+#47.107.45.108	18887142223.cn
+#120.24.252.169	study.economics
+#120.24.252.169	mysql.economics
+#120.24.254.242	gitlab.economics
+
 #K8S内网
 #172.18.225.254	k8s-master
 #172.18.170.65	k8s-node-1
 #172.18.77.122	k8s-node-2
 #172.18.205.47	k8s-node-3
 #172.18.5.145	k8s-node-4
-
-#自学
-127.0.0.1 		study.economics
-
-
-
-
-
-
-
-
-
-
-
-
-
-#127.0.0.1 shop.shelimai.com
-127.0.0.1 local.shelimai.com
-#127.0.0.1 local.km311wgk.com
-#192.168.39.1 windows10.microdone.cn
-
-#dockerhub：https://hub.docker.com/u/1872220587
-#github：https://github.com/zhaofa2014?tab=repositories
-#gitee：https://gitee.com/zhaofafa/projects
-#工作微信：18887142223
-#生活微信：13114274876
-#学习微信：18213520223
-#工作 QQ：1872220587
-#生活 QQ：1844480921
-#游戏 QQ：1655592531
-#facebook：18887142223
-#twitter：Zhaofa142857
-#line：zhaofa2014@hotmail.com
-#QQ群：540457466
-#百家号：https://baijiahao.baidu.com/u?app_id=1670732549254864
-#头条号：https://www.toutiao.com/c/user/103768153980/#mid=1670731303068686
-#微信公众号：https://mp.weixin.qq.com/s/_5QxA7ySiCNAyzofRdgHTQ
-#企鹅号：https://media.om.qq.com/author?id=MZEXcM1irPYu7uTJilL6bXvQ0
-#爱奇艺号：https://www.iqiyi.com/u/2000622273/feeds
-#微博：https://weibo.com/5504212058/profile?topnav=1&amp;wvr=6&amp;is_all=1
-#哔哩哔哩：https://space.bilibili.com/433162955/
-#快手：https://v.kuaishou.com/8Yvk0T
-#抖音：https://v.douyin.com/JjvY66V/
-#优酷：https://i.youku.com/i/UMTc5ODYzNTkwNA==?spm=a2hbt.13141534.1_1.d_2_2
-#腾讯视频：http://v.qq.com/s/videoplus/299369362
-#知乎：https://www.zhihu.com/people/zhao-yi-79-22
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-127.0.0.1 study.economics

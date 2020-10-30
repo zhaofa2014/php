@@ -1,5 +1,9 @@
 学习计划>>课程表
 周期:90天
+参考：
+https://mp.weixin.qq.com/s/qs6adJjbeIEKfIEA8bgmTA
+https://github.com/colinlet/PHP-Interview-QA
 https://www.easyswoole.com/Cn/NoobCourse/introduction.html
+
 
 
