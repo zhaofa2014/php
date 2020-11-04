@@ -4,26 +4,26 @@ apiVersion: apps/v1
 kind: StatefulSet
 metadata:
   namespace: default
-  name: cloud-centos-study
+  name: cloud-centos-smoney
   annotations:
-    k8s.kuboard.cn/workload: cloud-centos-study
-    k8s.kuboard.cn/displayName: centos-study
+    k8s.kuboard.cn/workload: cloud-centos-smoney
+    k8s.kuboard.cn/displayName: centos-smoney
     k8s.kuboard.cn/ingress: 'true'
     k8s.kuboard.cn/service: NodePort
   labels:
     k8s.kuboard.cn/layer: cloud
-    k8s.kuboard.cn/name: cloud-centos-study
+    k8s.kuboard.cn/name: cloud-centos-smoney
 spec:
   selector:
     matchLabels:
       k8s.kuboard.cn/layer: cloud
-      k8s.kuboard.cn/name: cloud-centos-study
+      k8s.kuboard.cn/name: cloud-centos-smoney
   revisionHistoryLimit: 10
   template:
     metadata:
       labels:
         k8s.kuboard.cn/layer: cloud
-        k8s.kuboard.cn/name: cloud-centos-study
+        k8s.kuboard.cn/name: cloud-centos-smoney
     spec:
       securityContext:
         seLinuxOptions: {}
@@ -33,7 +33,7 @@ spec:
       containers:
         - image: '1872220587/study:economics.'
           imagePullPolicy: IfNotPresent
-          name: centos-study
+          name: centos-smoney
           volumeMounts:
             - name: node1
               mountPath: /www/wwwroot/study.economics
@@ -65,24 +65,24 @@ spec:
       terminationGracePeriodSeconds: 30
   replicas: 1
   volumeClaimTemplates: []
-  serviceName: cloud-centos-study
+  serviceName: cloud-centos-smoney
 
 ---
 apiVersion: v1
 kind: Service
 metadata:
   namespace: default
-  name: cloud-centos-study
+  name: cloud-centos-smoney
   annotations:
-    k8s.kuboard.cn/workload: cloud-centos-study
-    k8s.kuboard.cn/displayName: centos-study
+    k8s.kuboard.cn/workload: cloud-centos-smoney
+    k8s.kuboard.cn/displayName: centos-smoney
   labels:
     k8s.kuboard.cn/layer: cloud
-    k8s.kuboard.cn/name: cloud-centos-study
+    k8s.kuboard.cn/name: cloud-centos-smoney
 spec:
   selector:
     k8s.kuboard.cn/layer: cloud
-    k8s.kuboard.cn/name: cloud-centos-study
+    k8s.kuboard.cn/name: cloud-centos-smoney
   type: NodePort
   ports:
     - port: 8888
@@ -102,13 +102,13 @@ apiVersion: networking.k8s.io/v1beta1
 kind: Ingress
 metadata:
   namespace: default
-  name: cloud-centos-study
+  name: cloud-centos-smoney
   annotations:
-    k8s.kuboard.cn/workload: cloud-centos-study
-    k8s.kuboard.cn/displayName: centos-study
+    k8s.kuboard.cn/workload: cloud-centos-smoney
+    k8s.kuboard.cn/displayName: centos-smoney
   labels:
     k8s.kuboard.cn/layer: cloud
-    k8s.kuboard.cn/name: cloud-centos-study
+    k8s.kuboard.cn/name: cloud-centos-smoney
 spec:
   rules:
     - host: bt.shelimai.com
@@ -116,7 +116,7 @@ spec:
         paths:
           - path: /
             backend:
-              serviceName: cloud-centos-study
+              serviceName: cloud-centos-smoney
               servicePort: bt
 
 ---

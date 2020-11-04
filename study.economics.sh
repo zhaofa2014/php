@@ -54,21 +54,15 @@ docker run \
 -itd \
 --restart always \
 --net=host \
--v /root/os/www/wwwroot:/www/wwwroot \
--v /root/os/www/wwwroot/study.economics:/www/wwwroot/study.economics \
--v /root/os/www/wwwroot/mysql.economics:/www/wwwroot/mysql.economics \
--v /root/os/www/backup:/www/backup \
--v /root/os/www/server/panel/backup/panelBackup/:/www/server/panel/backup/panelBackup/ \
-1872220587/study:economics..
-
-
-
+-v /root/www:/www \
+centos:7.8.2003
 
 #docker exec -it bt /bin/bash   #使用
-kubectl exec -it  cloud-centos-study-0 /bin/bash
-kubectl exec -it cloud-centos-test-0  /bin/bash
 
 #yum install -y wget && wget -O install.sh http://download.bt.cn/install/install_6.0.sh && sh install.sh
+
+#kubectl exec -it   cloud-centos-money-0 /bin/bash
+kubectl exec -it  cloud-centos-economics-0  /bin/bash
 #服务启动
 /etc/init.d/bt start
 /etc/init.d/nginx start
@@ -83,8 +77,7 @@ kubectl exec -it cloud-centos-test-0  /bin/bash
 
 
 #日常维护
-docker commit  -a "1872220587" -m "针对性学习" bt 1872220587/study:economics..  #提交
-docker commit  -a "1872220587" -m "针对性学习" 6ad6d15b9903 1872220587/study:money.
+docker commit  -a "1872220587" -m "针对性学习" bt 1872220587/study:economics #提交
 docker restart bt #重启
 docker stop bt  #停止
 docker rm bt    #删除
@@ -98,8 +91,8 @@ rm -rf .user.ini          #删除文件
 chattr -i btwaf.conf       #解除锁定
 chmod -R 777 btwaf.conf #赋777权限
 rm -rf btwaf.conf    #删除文件
-
-docker push  1872220587/study:money.  #上传
+docker tag 1872220587/study:economics 1872220587/study:economics.
+nohup docker push  1872220587/study:economics. &  #上传
 docker pull  1872220587/study:economics  #下载
 
 
@@ -110,8 +103,5 @@ docker container prune
 #删除所有未被挂载的卷:
 docker volume prune
 
-/www/server/panel
-unzip -r panel.zip panel
+#解压
 unzip panel.zip
-
-mv -i panel /root/nfs_root/default-node2-pvc-00e141f3-df56-4869-9333-ea1c071c67e6/www/server

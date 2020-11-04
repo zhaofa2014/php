@@ -27,7 +27,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="018f6bc1-7863-4747-bbaf-0a8a3397c8b1" name="node1" url="http://120.24.252.169">
-        <fileTransfer host="120.24.252.169" port="22" privateKey="D:\zhaofa\shelimai.vip\Job\key\alynode1.pem" rootFolder="/root/nfs_root/default-node1-pvc-a3093528-ad6f-4780-bc07-d4e7b3481d60/study.economics" accessType="SFTP" keyPair="true">
+        <fileTransfer host="120.24.252.169" port="22" privateKey="D:\zhaofa\shelimai.vip\Job\key\alynode1.pem" rootFolder="/root/nfs_root/default-node1-pvc-a3093528-ad6f-4780-bc07-d4e7b3481d60/www/wwwroot/economics.18887142223.cn" accessType="SFTP" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
