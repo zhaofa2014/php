@@ -1,0 +1,146 @@
+body {
+    width: 414px;
+    height: 736px;
+}
+
+.zhaofa {
+    height: 736px;
+    background-color: #F80007;
+}
+
+
+.zhaofa .head {
+    height: 45px;
+    background-color: #D2ED09;
+    display: inline-block;
+}
+
+.zhaofa .head input {
+    width: 365px;
+    height: 43px;
+    border-radius: 8px;
+}
+
+.zhaofa .head .tjiao {
+    width: 44px;
+}
+
+
+.zhaofa .Rotation {
+    height: 210px;
+    background-color: #211FE5;
+    position: relative;
+    top: 0px;
+}
+
+.zhaofa .Navigation {
+    height: 111px;
+    background-color: #33D040;
+    display: inline-block;
+}
+
+.zhaofa .gungao {
+    height: 86px;
+    background-color: #F0E224;
+}
+
+.zhaofa .Navigation .Navigation1 {
+    width: 79px;
+    height: 75px;
+    background-color: #03041E;
+    display: inline-block;
+    margin-top: 16px;
+
+}
+
+.Navigation .Navigation1 img {
+
+}
+
+.Navigation .Navigation1 span {
+    position: absolute;
+    top: 352px;
+    left: 13px;
+    display: inline-block;
+}
+
+
+.zhaofa .gungao1 {
+    width: 204px;
+    background-color: #6659A2;
+    height: 92px;
+    border-radius: 10px;
+    display: inline-block;
+}
+
+.zhaofa .gungao2 {
+    width: 207px;
+    background-color: #10A621;
+    position: relative;
+    height: 80px;
+    border-radius: 10px;
+    top: 0px;
+    left: 415px;
+    right: -25px;
+}
+
+.zhaofa .gungao3 {
+    width: 138px;
+    height: 60px;
+    background-color: #1ABADB;
+    position: fixed;
+    top: 487px;
+    border-radius: 10px;
+}
+
+.zhaofa .gungao4 {
+    width: 138px;
+    height: 60px;
+    position: fixed;
+    background-color: #D49E9F;
+    top: 489px;
+    left: 146px;
+    border-radius: 10px;
+}
+
+.zhaofa .gungao5 {
+    width: 138px;
+    height: 60px;
+    top: 489px;
+    position: fixed;
+    background-color: #2E70B5;
+    left: 285px;
+    border-radius: 10px;
+}
+
+.zhaofa .gungao6 {
+    width: 416px;
+    height: 50px;
+    background-color: #152303;
+    position: fixed;
+    top: 551px;
+    border-radius: 30px;
+}
+
+.zhaofa .gungao7 {
+    width: 134px;
+    height: 80px;
+    background-color: #0C32E1;
+    display: inline-block;
+    border-radius: 14px;
+}
+
+.zhaofa .gungao8 {
+    height: 42px;
+    background-color: #0FE9A9;
+}
+
+
+.zhaofa .bottom {
+    width: 414px;
+    height: 60px;
+    background-color: #23E714;
+    top: 685px;
+    position: fixed;
+    text-shadow: 0px 0px;
+}

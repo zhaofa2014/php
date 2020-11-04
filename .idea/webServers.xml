@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="6bea6176-3f40-4269-80cc-94056701a57d" name="master" url="http://120.24.254.242">
+        <fileTransfer host="120.24.254.242" port="22" privateKey="D:\zhaofa\shelimai.vip\Job\key\alymaster .pem" rootFolder="/root/nfs_root/default-master-pvc-9602d420-9bfc-44a3-b08f-90d8c6a00b25/study.economics" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="61bb6c3d-48c8-43b0-ba39-99fedb3e988a" name="vmware" url="http://192.168.1.88">
+        <fileTransfer host="192.168.1.88" port="22" rootFolder="/root/os/www/wwwroot/study.economics" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="86ef8fed-ae93-4eb6-955e-66e3d3dc7e59" name="VirtualBox" url="http://192.168.1.99">
+        <fileTransfer host="192.168.1.99" port="22" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="018f6bc1-7863-4747-bbaf-0a8a3397c8b1" name="node1" url="http://120.24.252.169">
+        <fileTransfer host="120.24.252.169" port="22" privateKey="D:\zhaofa\shelimai.vip\Job\key\alynode1.pem" rootFolder="/root/nfs_root/default-node1-pvc-a3093528-ad6f-4780-bc07-d4e7b3481d60/www/wwwroot/economics.18887142223.cn" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
