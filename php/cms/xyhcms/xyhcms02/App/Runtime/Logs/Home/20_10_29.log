@@ -1,0 +1,60 @@
+[ 2020-10-29T16:20:45+08:00 ] 127.0.0.1 /
+ERR: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+
+[ 2020-10-29T16:28:14+08:00 ] 127.0.0.1 /
+NOTIC: [8] Undefined variable: navlist D:\zhaofa\phpstudy_pro\WWW\xyhcms02\App\Runtime\Cache\Home\2e4beb93ad522d2e6e616c2879334b0f.php ç¬¬ 41 è¡Œ.
+NOTIC: [8] Undefined index: content D:\zhaofa\phpstudy_pro\WWW\xyhcms02\App\Runtime\Cache\Home\2e4beb93ad522d2e6e616c2879334b0f.php ç¬¬ 132 è¡Œ.
+
+[ 2020-10-29T16:28:17+08:00 ] 127.0.0.1 /
+NOTIC: [8] Undefined variable: navlist D:\zhaofa\phpstudy_pro\WWW\xyhcms02\App\Runtime\Cache\Home\2e4beb93ad522d2e6e616c2879334b0f.php ç¬¬ 41 è¡Œ.
+NOTIC: [8] Undefined index: content D:\zhaofa\phpstudy_pro\WWW\xyhcms02\App\Runtime\Cache\Home\2e4beb93ad522d2e6e616c2879334b0f.php ç¬¬ 132 è¡Œ.
+
+[ 2020-10-29T16:44:23+08:00 ] 127.0.0.1 /
+NOTIC: [8] Undefined variable: navlist D:\zhaofa\phpstudy_pro\WWW\xyhcms02\App\Runtime\Cache\Home\2e4beb93ad522d2e6e616c2879334b0f.php ç¬¬ 41 è¡Œ.
+ERR: SQLSTATE[HY000] [2002] ÓÉÓÚÄ¿±ê¼ÆËã»ú»ý¼«¾Ü¾ø£¬ÎÞ·¨Á¬½Ó¡£
+
+
+[ 2020-10-29T16:44:28+08:00 ] 127.0.0.1 /
+NOTIC: [8] Undefined variable: navlist D:\zhaofa\phpstudy_pro\WWW\xyhcms02\App\Runtime\Cache\Home\2e4beb93ad522d2e6e616c2879334b0f.php ç¬¬ 41 è¡Œ.
+ERR: SQLSTATE[HY000] [2002] ÓÉÓÚÄ¿±ê¼ÆËã»ú»ý¼«¾Ü¾ø£¬ÎÞ·¨Á¬½Ó¡£
+
+
+[ 2020-10-29T16:44:30+08:00 ] 127.0.0.1 /index.php?s=/List/index/cid/1.html
+ERR: SQLSTATE[HY000] [2002] ÓÉÓÚÄ¿±ê¼ÆËã»ú»ý¼«¾Ü¾ø£¬ÎÞ·¨Á¬½Ó¡£
+
+
+[ 2020-10-29T16:44:32+08:00 ] 127.0.0.1 /index.php?s=/List/index/cid/1.html
+ERR: SQLSTATE[HY000] [2002] ÓÉÓÚÄ¿±ê¼ÆËã»ú»ý¼«¾Ü¾ø£¬ÎÞ·¨Á¬½Ó¡£
+
+
+[ 2020-10-29T16:45:18+08:00 ] 127.0.0.1 /
+NOTIC: [8] Undefined variable: navlist D:\zhaofa\phpstudy_pro\WWW\xyhcms02\App\Runtime\Cache\Home\2e4beb93ad522d2e6e616c2879334b0f.php ç¬¬ 41 è¡Œ.
+ERR: SQLSTATE[HY000] [2002] ÓÉÓÚÄ¿±ê¼ÆËã»ú»ý¼«¾Ü¾ø£¬ÎÞ·¨Á¬½Ó¡£
+
+
+[ 2020-10-29T16:45:44+08:00 ] 127.0.0.1 /
+NOTIC: [8] Undefined variable: navlist D:\zhaofa\phpstudy_pro\WWW\xyhcms02\App\Runtime\Cache\Home\2e4beb93ad522d2e6e616c2879334b0f.php ç¬¬ 41 è¡Œ.
+ERR: SQLSTATE[HY000] [2002] ÓÉÓÚÄ¿±ê¼ÆËã»ú»ý¼«¾Ü¾ø£¬ÎÞ·¨Á¬½Ó¡£
+
+
+[ 2020-10-29T16:57:09+08:00 ] 127.0.0.1 /
+NOTIC: [8] Undefined variable: navlist D:\zhaofa\phpstudy_pro\WWW\xyhcms02\App\Runtime\Cache\Home\2e4beb93ad522d2e6e616c2879334b0f.php ç¬¬ 41 è¡Œ.
+ERR: SQLSTATE[HY000] [2002] ÓÉÓÚÄ¿±ê¼ÆËã»ú»ý¼«¾Ü¾ø£¬ÎÞ·¨Á¬½Ó¡£
+
+
+[ 2020-10-29T16:57:36+08:00 ] 127.0.0.1 /
+NOTIC: [8] Undefined variable: navlist D:\zhaofa\phpstudy_pro\WWW\xyhcms02\App\Runtime\Cache\Home\2e4beb93ad522d2e6e616c2879334b0f.php ç¬¬ 41 è¡Œ.
+NOTIC: [8] Undefined index: content D:\zhaofa\phpstudy_pro\WWW\xyhcms02\App\Runtime\Cache\Home\2e4beb93ad522d2e6e616c2879334b0f.php ç¬¬ 132 è¡Œ.
+
+[ 2020-10-29T16:57:49+08:00 ] 127.0.0.1 /index.php?s=/List/index/cid/1.html
+NOTIC: [8] Undefined variable: navlist D:\zhaofa\phpstudy_pro\WWW\xyhcms02\App\Runtime\Cache\Home\efd6f15f2ee3bb8d147cce5983727c00.php ç¬¬ 42 è¡Œ.
+
+[ 2020-10-29T16:57:50+08:00 ] 127.0.0.1 /index.php?s=/List/index/cid/11.html
+NOTIC: [8] Undefined variable: navlist D:\zhaofa\phpstudy_pro\WWW\xyhcms02\App\Runtime\Cache\Home\896a66351303591698e8194a62630f69.php ç¬¬ 42 è¡Œ.
+
+[ 2020-10-29T16:57:51+08:00 ] 127.0.0.1 /index.php?s=/List/index/cid/2.html
+NOTIC: [8] Undefined variable: navlist D:\zhaofa\phpstudy_pro\WWW\xyhcms02\App\Runtime\Cache\Home\4ddd8b8e3015b4c24f6600e90884d6e4.php ç¬¬ 41 è¡Œ.
+
+[ 2020-10-29T16:57:52+08:00 ] 127.0.0.1 /index.php?s=/List/index/cid/13.html
+NOTIC: [8] Undefined variable: navlist D:\zhaofa\phpstudy_pro\WWW\xyhcms02\App\Runtime\Cache\Home\22dd2232b880a0f215a04835281c0b59.php ç¬¬ 41 è¡Œ.
+

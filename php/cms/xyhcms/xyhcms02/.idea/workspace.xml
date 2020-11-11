@@ -1,0 +1,549 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="61d52390-16a6-4c1a-98a7-8e91a8730235" name="默认更改列表" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="xyhcms02" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/App/Common/Conf/db.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="81">
+              <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>__PUBLIC____PUBLIC__</find>
+      <find>__PUBLIC__/__PUBLIC__uploads</find>
+      <find>__PUBLIC__uploads</find>
+      <find>/__PUBLIC__/uploads/</find>
+      <find>&lt;img src=&quot;__PUBLIC__/skin/images/b1.jpg&quot;/&gt;</find>
+      <find>href=&quot;{$catlist.name}&quot;</find>
+      <find>{{$catlist.url}}</find>
+      <find>__PUBLIC__/skin/css/</find>
+      <find>__PUBLIC__/skin/js/</find>
+      <find>__PUBLIC__/uploads/</find>
+      <find>__PUBLIC__/images/</find>
+      <find>__PUBLIC__/skin/images/</find>
+      <find>__PUBLIC__/images/uploads/allimg/</find>
+      <find>skin/images/</find>
+      <find>__PUBLIC__/</find>
+      <find>__PUBLIC__/images</find>
+      <find>__PUBLIC__/images/uploads/</find>
+      <find>'/a/cp1/</find>
+      <find>/a/cp1/</find>
+      <find>/a/cp1/40.html</find>
+      <find>dede</find>
+      <find>58</find>
+      <find>/* 织梦58（yhcms.com）做最好的织梦整站模板下载网站 */</find>
+      <find>dede58.com</find>
+      <find>请输入正确的电话号码·</find>
+      <find>请输入正确的电话号码</find>
+      <find>{:date('d',time())}</find>
+      <find>{:date('Y-m',time())}</find>
+      <find>&lt;yang:position/&gt;</find>
+      <find>127</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>&lt;yang:copyright /&gt;</replace>
+      <replace>{$navlist.name}</replace>
+      <replace>{$vo|get_url}</replace>
+      <replace>{$vo.name}</replace>
+      <replace>{$navlist.url}</replace>
+      <replace>&lt;include file=&quot;Public:footer&quot; /&gt;</replace>
+      <replace>__PUBLIC__/skin</replace>
+      <replace>Public</replace>
+      <replace>__PUBLIC__/skin/</replace>
+      <replace>__PUBLIC__</replace>
+      <replace>__PUBLIC__uploads</replace>
+      <replace>__PUBLIC__/uploads</replace>
+      <replace>__PUBLIC__/uploads/</replace>
+      <replace>&lt;include file=&quot;Public:header&quot; /&gt;</replace>
+      <replace>yhcms.com</replace>
+      <replace>&lt;!--xyhcms--&gt;&lt;include file=&quot;Public:jscss&quot;/&gt;</replace>
+      <replace>href=&quot;{{$catlist.url}}&quot;</replace>
+      <replace>{$catlist.url}</replace>
+      <replace>__PUBLIC__/css/</replace>
+      <replace>__PUBLIC__/js/</replace>
+      <replace>__PUBLIC__/images/uploads/</replace>
+      <replace>__PUBLIC__/images/allimg/</replace>
+      <replace>__PUBLIC__/images/</replace>
+      <replace>__PUBLIC__/</replace>
+      <replace>#</replace>
+      <replace>#/* XYHCMS（xyhcms.com）做最好的行云海整站模板下载网站 */</replace>
+      <replace />
+      <replace>{$list.publish_time|get_date='d'}</replace>
+      <replace>{$list.publish_time|get_date='Y-m'}</replace>
+      <replace>&lt;yang:position /&gt;</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>G:\myphp_www\PHPTutorial\WWW\xyhcms02\Public</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/default/list_article.htm" />
+        <option value="$PROJECT_DIR$/default/footer.htm" />
+        <option value="$PROJECT_DIR$/default/index.htm" />
+        <option value="$PROJECT_DIR$/default/head.htm" />
+        <option value="$PROJECT_DIR$/templets/default/head.htm" />
+        <option value="$PROJECT_DIR$/templets/default/article_article.htm" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.haml" />
+        <option value="$PROJECT_DIR$/Public/Home/default/List_jscss .html" />
+        <option value="$PROJECT_DIR$/Public/Home/default/Pubic_index_index.html" />
+        <option value="$PROJECT_DIR$/Public/Home/default/Index_index.html" />
+        <option value="$PROJECT_DIR$/Public/Home/default/index.html" />
+        <option value="$PROJECT_DIR$/a/cp2/42.html" />
+        <option value="$PROJECT_DIR$/Public/Home/default/List_ytfg.html" />
+        <option value="$PROJECT_DIR$/Public/Home/default/Public_header.html" />
+        <option value="$PROJECT_DIR$/Public/Home/default/Public_jscss.html" />
+        <option value="$PROJECT_DIR$/Public/Home/default/List_lxwm.html" />
+        <option value="$PROJECT_DIR$/Public/Home/default/List_gywm.html" />
+        <option value="$PROJECT_DIR$/Public/Home/default/List_xwdt_gsxw.html" />
+        <option value="$PROJECT_DIR$/Public/Home/default/List_xwdt_hyxw.html" />
+        <option value="$PROJECT_DIR$/Public/Home/default/List_xwdt.html" />
+        <option value="$PROJECT_DIR$/Public/Home/default/List_alzs.html" />
+        <option value="$PROJECT_DIR$/Public/Home/default/List_alzs_osfg.html" />
+        <option value="$PROJECT_DIR$/Public/Home/default/List_alzs_xdfg.html" />
+        <option value="$PROJECT_DIR$/Public/Home/default/List_alzs_ytfg.html" />
+        <option value="$PROJECT_DIR$/Public/Home/default/List_alzs_zsfg.html" />
+        <option value="$PROJECT_DIR$/Public/Home/default/List_sjtd.html" />
+        <option value="$PROJECT_DIR$/Public/Home/default/Guestbook_index.html" />
+        <option value="$PROJECT_DIR$/a/team/39.html" />
+        <option value="$PROJECT_DIR$/a/gongsixinwen/26.html" />
+        <option value="$PROJECT_DIR$/a/gongsixinwen/27.html" />
+        <option value="$PROJECT_DIR$/Public/Home/default/css/sdf.css" />
+        <option value="$PROJECT_DIR$/Public/Home/default/Show_article.html" />
+        <option value="$PROJECT_DIR$/Public/Home/default/Public_index_index.html" />
+        <option value="$PROJECT_DIR$/Public/Home/default/List_gyfw.html" />
+        <option value="$PROJECT_DIR$/App/Common/Conf/db.php" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="929" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane" />
+      <pane id="NBKnowledgePane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New 临时文件" value="Haml" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../new.xyhcms.com" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\myphp_www\PHPTutorial\WWW\xyhcms02\Public\Home\default" />
+      <recent name="G:\myphp_www\PHPTutorial\WWW\xyhcms02\a\cp4" />
+      <recent name="G:\myphp_www\PHPTutorial\WWW\xyhcms02\a\gongyi" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\myphp_www\PHPTutorial\WWW\xyhcms02\Public\Home\default" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="AUTOSCROLL_FROM_SOURCE" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="61d52390-16a6-4c1a-98a7-8e91a8730235" name="默认更改列表" comment="" />
+      <created>1555395186782</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1555395186782</updated>
+      <workItem from="1555395188434" duration="7037000" />
+      <workItem from="1555404909462" duration="2857000" />
+      <workItem from="1555465401236" duration="2186000" />
+      <workItem from="1555471865031" duration="4000" />
+      <workItem from="1555472019251" duration="70000" />
+      <workItem from="1555483643970" duration="3588000" />
+      <workItem from="1555568767789" duration="10891000" />
+      <workItem from="1555637387335" duration="7395000" />
+      <workItem from="1555645183205" duration="3444000" />
+      <workItem from="1555658442146" duration="78000" />
+      <workItem from="1556085292051" duration="10354000" />
+      <workItem from="1556095746155" duration="3925000" />
+      <workItem from="1556156984259" duration="20248000" />
+      <workItem from="1556250153875" duration="91000" />
+      <workItem from="1556251359302" duration="910000" />
+      <workItem from="1556254013265" duration="764000" />
+      <workItem from="1603959713792" duration="791000" />
+      <workItem from="1603960775640" duration="105000" />
+      <workItem from="1603961077425" duration="256000" />
+      <workItem from="1603961846860" duration="483000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="75477000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="top" x="1493" y="97" width="397" height="922" id="Structure" order="0" sideWeight="0.50442475" side_tool="true" type="FLOATING" weight="0.18873994" />
+      <window_info id="Favorites" order="0" sideWeight="0.50333333" side_tool="true" weight="0.20343532" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.49557522" visible="true" weight="0.17643923" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="调试" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Key Promoter X" order="3" weight="0.32977587" />
+      <window_info anchor="right" id="Word Book" order="4" side_tool="true" />
+      <window_info anchor="right" id="Database" order="5" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Favorites" order="0" sideWeight="0.5011111" side_tool="true" weight="0.13472894" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.49888888" visible="true" weight="0.13472894" />
+      <window_info id="Structure" order="2" sideWeight="0.5011111" side_tool="true" visible="true" weight="0.13472894" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="1" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="3" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" />
+      <window_info anchor="bottom" id="Run" order="6" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="right" id="Key Promoter X" order="0" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Public/Home/default/List_xwdt_hyxw.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="66" column="35" selection-start-line="66" selection-start-column="35" selection-end-line="66" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/Home/default/List_xwdt_gsxw.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="864">
+          <caret line="66" column="35" selection-start-line="66" selection-start-column="35" selection-end-line="66" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/Home/default/List_xwdt.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="29" column="55" selection-start-line="29" selection-start-column="41" selection-end-line="29" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/Home/default/Member_index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/Home/default/Public_footer.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/Home/default/List_alzs_ytfg.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="433">
+          <caret line="65" column="33" selection-start-line="65" selection-start-column="33" selection-end-line="65" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/Home/default/List_alzs_zsfg.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="65" column="45" selection-start-line="65" selection-start-column="45" selection-end-line="65" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/Home/default/List_sjtd.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="661">
+          <caret line="77" column="94" selection-start-line="77" selection-start-column="93" selection-end-line="77" selection-end-column="94" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/Home/default/Guestbook_index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="7" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/a/team/39.html" />
+    <entry file="file://$PROJECT_DIR$/Public/Home/default/Public_header.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="29" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/a/gongsixinwen/26.html" />
+    <entry file="file://$PROJECT_DIR$/a/gongsixinwen/27.html" />
+    <entry file="file://$PROJECT_DIR$/Public/Home/default/List_alzs_osfg.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="12" selection-start-line="19" selection-start-column="12" selection-end-line="21" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/Manage/Controller/PublicController.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="88" column="49" lean-forward="true" selection-start-line="88" selection-start-column="23" selection-end-line="88" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/Home/default/List_alzs_xdfg.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="589">
+          <caret line="65" column="45" selection-start-line="65" selection-start-column="45" selection-end-line="65" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/Home/default/css/animate.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/Home/default/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/Home/default/css/sdf.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/Home/default/css/style.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/Home/default/css/swiper-3.3.1.min.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/Home/default/js/bds_s_v2.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/Home/default/js/bootstrap.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/Home/default/js/common.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/Home/default/js/funtion.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/Home/default/js/html5shiv.min.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/Home/default/js/jquery.superslide.2.1.1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/Home/default/js/jquery-1.11.3.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/Home/default/js/main.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/Home/default/js/map.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/Home/default/js/respond.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/Home/default/js/shell_v2.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/Home/default/js/swiper-3.3.1.jquery.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="15" column="1389" selection-start-line="15" selection-start-column="1389" selection-end-line="15" selection-end-column="1389" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/Home/default/js/wow.min.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/Home/default/List_alzs.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="589">
+          <caret line="69" column="59" selection-end-line="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/Home/default/Show_article01.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="426">
+          <caret line="84" column="132" selection-start-line="84" selection-start-column="118" selection-end-line="84" selection-end-column="132" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/head.htm" />
+    <entry file="file://$PROJECT_DIR$/Public/Home/default/Index_index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="7" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/Home/default/Public_jscss.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="15" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/Home/default/Show_article.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-453">
+          <caret line="48" column="31" lean-forward="true" selection-start-line="48" selection-start-column="31" selection-end-line="48" selection-end-column="31" />
+          <folding>
+            <element signature="n#style#0;n#span#0;n#div#0;n#div#1;n#div#2;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/Home/default/List_gyfw.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="24" column="55" selection-start-line="24" selection-start-column="48" selection-end-line="24" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/Home/default/Public_index_index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="210" column="70" selection-start-line="210" selection-start-column="35" selection-end-line="210" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xyhai.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/config/ueditor.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Include/Conf/convention.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-468" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Include/Conf/debug.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/favicon.ico">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/Api/Conf/config.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Include/Library/Think/Db/Lite.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="783">
+          <caret line="40" column="33" selection-start-line="40" selection-start-column="33" selection-end-line="40" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/Common/Conf/db.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
