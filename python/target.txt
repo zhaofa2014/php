@@ -8,6 +8,11 @@
 
 
 
+pip3 install pandas -i http://mirrors.aliyun.com/pypi/simple/
+
+
+
+
 
 
 

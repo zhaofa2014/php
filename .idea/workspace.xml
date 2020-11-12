@@ -2,7 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f89da9d6-ac46-44e1-a3d3-e4927505b598" name="默认更改列表" comment="scrapy">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/linux/ctl/Git.txt" beforeDir="false" afterPath="$PROJECT_DIR$/linux/ctl/Git.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/scrapy/ScrapyProject/ImageSpider/ImageSpider/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/scrapy/ScrapyProject/ImageSpider/ImageSpider/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/scrapy/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/scrapy/mingyan.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/scrapy/mingyan2/mingyan2/spiders/mingyan_spider.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/scrapy/mingyan2/mingyan2/spiders/mingyan_spider.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/scrapy/mingyanSpider.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/scrapy/slm/slm/items.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/scrapy/slm/slm/items.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/scrapy/target.txt" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,22 +43,7 @@
     <favorites_list name="study.economics" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Project Plan.mmd">
-          <provider selected="true" editor-type-id="com.igormaznitsa.ideamindmap.editor.MindMapDocumentEditor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/python/scrapy/mingyan2/mingyan2/spiders/mingyan_spider.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="11" column="87" lean-forward="true" selection-start-line="11" selection-start-column="87" selection-end-line="11" selection-end-column="87" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -71,6 +66,7 @@
       <find>class=&quot;nav_home on1&quot;</find>
       <find>centos-study</find>
       <find>os</find>
+      <find>D:\ImageSpider</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -126,8 +122,16 @@
         <option value="$PROJECT_DIR$/python/scrapy/mingyan/mingyan_spider.py" />
         <option value="$PROJECT_DIR$/python/scrapy/mingyan/mingyan/spiders/mingyan_spider.py" />
         <option value="&lt;61bb6c3d-48c8-43b0-ba39-99fedb3e988a&gt;/python/scrapy/mingyan2/mingyan2/spiders/mingyan_spider.py" />
-        <option value="$PROJECT_DIR$/linux/ctl/Git.txt" />
         <option value="$PROJECT_DIR$/python/scrapy/mingyan2/mingyan2/spiders/mingyan_spider.py" />
+        <option value="$PROJECT_DIR$/linux/ctl/Git.txt" />
+        <option value="$PROJECT_DIR$/python/scrapy/scrapyMysql/scrapyMysql/items.py" />
+        <option value="$PROJECT_DIR$/python/scrapy/scrapyMysql/scrapyMysql/spiders/inputMysql.py" />
+        <option value="&lt;61bb6c3d-48c8-43b0-ba39-99fedb3e988a&gt;/python/scrapy/ScrapyProject/scrapyMysql/scrapyMysql/MySQLPipline.py" />
+        <option value="&lt;61bb6c3d-48c8-43b0-ba39-99fedb3e988a&gt;/python/scrapy/ScrapyProject/ImagesRename/ImagesRename/settings.py" />
+        <option value="$PROJECT_DIR$/python/scrapy/ScrapyProject/ImageSpider/ImageSpider/settings.py" />
+        <option value="$PROJECT_DIR$/python/target.txt" />
+        <option value="$PROJECT_DIR$/python/scrapy/slm/slm/items.py" />
+        <option value="$PROJECT_DIR$/python/scrapy/slm/slm/spiders/douban_spider.py" />
       </list>
     </option>
   </component>
@@ -158,32 +162,6 @@
               <item name="study.economics" type="b2602c69:ProjectViewProjectNode" />
               <item name="study.economics" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="study.economics" type="b2602c69:ProjectViewProjectNode" />
-              <item name="study.economics" type="462c0819:PsiDirectoryNode" />
-              <item name="python" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="study.economics" type="b2602c69:ProjectViewProjectNode" />
-              <item name="study.economics" type="462c0819:PsiDirectoryNode" />
-              <item name="python" type="462c0819:PsiDirectoryNode" />
-              <item name="scrapy" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="study.economics" type="b2602c69:ProjectViewProjectNode" />
-              <item name="study.economics" type="462c0819:PsiDirectoryNode" />
-              <item name="python" type="462c0819:PsiDirectoryNode" />
-              <item name="scrapy" type="462c0819:PsiDirectoryNode" />
-              <item name="mingyan2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="study.economics" type="b2602c69:ProjectViewProjectNode" />
-              <item name="study.economics" type="462c0819:PsiDirectoryNode" />
-              <item name="python" type="462c0819:PsiDirectoryNode" />
-              <item name="scrapy" type="462c0819:PsiDirectoryNode" />
-              <item name="mingyan2" type="462c0819:PsiDirectoryNode" />
-              <item name="mingyan2" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -211,15 +189,15 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\zhaofa\shelimai.vip\Job\project\工作一小时 休息10分钟 每天进步一点点\study.economics\python" />
       <recent name="D:\zhaofa\shelimai.vip\Job\project\工作一小时 休息10分钟 每天进步一点点\study.economics\python\scrapy\mingyan\mingyan\spiders" />
       <recent name="D:\zhaofa\shelimai.vip\Job\project\工作一小时 休息10分钟 每天进步一点点\study.economics\python\scrapy\mingyan\mingyan" />
       <recent name="D:\zhaofa\shelimai.vip\Job\project\工作一小时 休息10分钟 每天进步一点点\study.economics\js" />
       <recent name="D:\zhaofa\shelimai.vip\Job\project\工作一小时 休息10分钟 每天进步一点点\study.economics\linux" />
-      <recent name="D:\zhaofa\shelimai.vip\Job\project\工作一小时 休息10分钟 每天进步一点点\study.economics\mysql" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\zhaofa\shelimai.vip\Job\project\工作一小时 休息10分钟 每天进步一点点\study.economics\python\scrapy" />
       <recent name="D:\zhaofa\shelimai.vip\Job\project\工作一小时 休息10分钟 每天进步一点点\study.economics" />
+      <recent name="D:\zhaofa\shelimai.vip\Job\project\工作一小时 休息10分钟 每天进步一点点\study.economics\python\scrapy" />
       <recent name="C:\Users\Administrator\Desktop" />
     </key>
   </component>
@@ -338,7 +316,7 @@
       <workItem from="1605062296951" duration="651000" />
       <workItem from="1605075472682" duration="3997000" />
       <workItem from="1605143204795" duration="3642000" />
-      <workItem from="1605150173754" duration="2405000" />
+      <workItem from="1605150173754" duration="10470000" />
     </task>
     <task id="LOCAL-00001" summary="宝塔 usb">
       <created>1601107531113</created>
@@ -564,15 +542,21 @@
       <option name="project" value="LOCAL" />
       <updated>1605152373385</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="scrapy">
+      <created>1605152598910</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1605152598910</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="256422000" />
+    <option name="totallyTimeSpent" value="264487000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49785408" visible="true" weight="0.19722815" />
       <window_info id="Structure" order="1" sideWeight="0.50214595" side_tool="true" weight="0.141258" />
@@ -585,7 +569,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3289183" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32832617" />
       <window_info anchor="bottom" id="File Transfer" order="9" sideWeight="0.4989339" visible="true" weight="0.03218884" />
       <window_info anchor="bottom" id="Database Changes" order="10" weight="0.3289183" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.48675495" />
@@ -679,34 +663,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="scrapy" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/linux/ctl/composer.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/57e75d4d-0230-4aea-8883-b8bf47a4d2be/console.sql" />
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/sale.sql" />
-    <entry file="file://$PROJECT_DIR$/mysql/money">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mysql/mysql.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="531">
-          <caret line="21" selection-start-line="21" selection-end-line="28" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mysql/sale.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/sale.sql" />
-    <entry file="file://$PROJECT_DIR$/linux/ctl/Dockerfile" />
     <entry file="file://$PROJECT_DIR$/linux/ctl/Docker.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -900,13 +856,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/python/scrapy/target.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="27" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/python/scrapy/mingyan/mingyan/spiders/mingyan_spider.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="292">
@@ -914,27 +863,84 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/linux/ctl/Git.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="576">
-          <caret line="36" column="3" selection-start-line="36" selection-start-column="3" selection-end-line="36" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/python/scrapy/mingyan2/mingyan2/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/scrapy/mingyan2/mingyan-1.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/thinkPHP/tp5/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/scrapy/mingyan2/mingyan2/spiders/mingyan_spider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="665">
+          <caret line="35" column="43" selection-start-line="35" selection-start-column="43" selection-end-line="35" selection-end-column="43" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Project Plan.mmd">
       <provider selected="true" editor-type-id="com.igormaznitsa.ideamindmap.editor.MindMapDocumentEditor" />
       <provider editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/python/scrapy/mingyan2/mingyan-1.html">
+    <entry file="file://$PROJECT_DIR$/python/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/python/scrapy/mingyan2/mingyan2/spiders/mingyan_spider.py">
+    <entry file="file://$PROJECT_DIR$/linux/ctl/Git.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="87" lean-forward="true" selection-start-line="11" selection-start-column="87" selection-end-line="11" selection-end-column="87" />
+        <state relative-caret-position="576">
+          <caret line="36" selection-start-line="36" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/scrapy/scrapyMysql/scrapyMysql/items.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/scrapy/scrapyMysql/scrapyMysql/spiders/inputMysql.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="24" column="83" selection-start-line="24" selection-start-column="83" selection-end-line="24" selection-end-column="83" />
+          <folding>
+            <element signature="e#24#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/scrapy/ScrapyProject/ImageSpider/ImageSpider/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/scrapy/slm/slm/spiders/douban_spider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/scrapy/slm/slm/items.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="30" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/target.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
         </state>
       </provider>
     </entry>
