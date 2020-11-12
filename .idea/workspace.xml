@@ -1,17 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f89da9d6-ac46-44e1-a3d3-e4927505b598" name="默认更改列表" comment="">
-      <change afterPath="$PROJECT_DIR$/lnmpr.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/webServers.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/webServers.xml" afterDir="false" />
+    <list default="true" id="f89da9d6-ac46-44e1-a3d3-e4927505b598" name="默认更改列表" comment="scrapy">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project Plan.mmd" beforeDir="false" afterPath="$PROJECT_DIR$/Project Plan.mmd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/job2.html" beforeDir="false" afterPath="$PROJECT_DIR$/job2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/linux/ctl/Git.txt" beforeDir="false" afterPath="$PROJECT_DIR$/linux/ctl/Git.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/scrapy/qx" beforeDir="false" afterPath="$PROJECT_DIR$/python/scrapy/qx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/scrapy/qx/qx/spiders/qxs.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/scrapy/qx/qx/spiders/qxs.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -51,8 +42,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/python/scrapy/mingyan2/mingyan2/spiders/mingyan_spider.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="665">
-              <caret line="35" column="43" selection-start-line="35" selection-start-column="43" selection-end-line="35" selection-end-column="43" />
+            <state relative-caret-position="209">
+              <caret line="11" column="87" lean-forward="true" selection-start-line="11" selection-start-column="87" selection-end-line="11" selection-end-column="87" />
             </state>
           </provider>
         </entry>
@@ -134,9 +125,9 @@
         <option value="$PROJECT_DIR$/python/scrapy/target.txt" />
         <option value="$PROJECT_DIR$/python/scrapy/mingyan/mingyan_spider.py" />
         <option value="$PROJECT_DIR$/python/scrapy/mingyan/mingyan/spiders/mingyan_spider.py" />
-        <option value="$PROJECT_DIR$/python/scrapy/mingyan2/mingyan2/spiders/mingyan_spider.py" />
         <option value="&lt;61bb6c3d-48c8-43b0-ba39-99fedb3e988a&gt;/python/scrapy/mingyan2/mingyan2/spiders/mingyan_spider.py" />
         <option value="$PROJECT_DIR$/linux/ctl/Git.txt" />
+        <option value="$PROJECT_DIR$/python/scrapy/mingyan2/mingyan2/spiders/mingyan_spider.py" />
       </list>
     </option>
   </component>
@@ -192,15 +183,6 @@
               <item name="scrapy" type="462c0819:PsiDirectoryNode" />
               <item name="mingyan2" type="462c0819:PsiDirectoryNode" />
               <item name="mingyan2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="study.economics" type="b2602c69:ProjectViewProjectNode" />
-              <item name="study.economics" type="462c0819:PsiDirectoryNode" />
-              <item name="python" type="462c0819:PsiDirectoryNode" />
-              <item name="scrapy" type="462c0819:PsiDirectoryNode" />
-              <item name="mingyan2" type="462c0819:PsiDirectoryNode" />
-              <item name="mingyan2" type="462c0819:PsiDirectoryNode" />
-              <item name="spiders" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -356,7 +338,7 @@
       <workItem from="1605062296951" duration="651000" />
       <workItem from="1605075472682" duration="3997000" />
       <workItem from="1605143204795" duration="3642000" />
-      <workItem from="1605150173754" duration="2159000" />
+      <workItem from="1605150173754" duration="2405000" />
     </task>
     <task id="LOCAL-00001" summary="宝塔 usb">
       <created>1601107531113</created>
@@ -575,16 +557,24 @@
       <option name="project" value="LOCAL" />
       <updated>1604994114327</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="scrapy">
+      <created>1605152373385</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1605152373385</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="256176000" />
+    <option name="totallyTimeSpent" value="256422000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49785408" visible="true" weight="0.18017058" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49785408" visible="true" weight="0.19722815" />
       <window_info id="Structure" order="1" sideWeight="0.50214595" side_tool="true" weight="0.141258" />
       <window_info id="Favorites" order="2" sideWeight="0.50110376" side_tool="true" weight="0.13965885" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -685,14 +675,10 @@
     <MESSAGE value="宝塔 usb" />
     <MESSAGE value="nfs" />
     <MESSAGE value="money" />
-    <option name="LAST_COMMIT_MESSAGE" value="money" />
+    <MESSAGE value="scrapy" />
+    <option name="LAST_COMMIT_MESSAGE" value="scrapy" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/linux/ctl/ceph.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-376" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/linux/ctl/composer.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -942,10 +928,13 @@
       <provider selected="true" editor-type-id="com.igormaznitsa.ideamindmap.editor.MindMapDocumentEditor" />
       <provider editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/python/scrapy/mingyan2/mingyan-1.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/python/scrapy/mingyan2/mingyan2/spiders/mingyan_spider.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="665">
-          <caret line="35" column="43" selection-start-line="35" selection-start-column="43" selection-end-line="35" selection-end-column="43" />
+        <state relative-caret-position="209">
+          <caret line="11" column="87" lean-forward="true" selection-start-line="11" selection-start-column="87" selection-end-line="11" selection-end-column="87" />
         </state>
       </provider>
     </entry>
