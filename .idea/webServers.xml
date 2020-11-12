@@ -13,7 +13,7 @@
       <webServer id="61bb6c3d-48c8-43b0-ba39-99fedb3e988a" name="vmware" url="http://192.168.1.88">
         <fileTransfer host="192.168.1.88" port="22" rootFolder="/var/lib/docker/overlay2/4c5999e61d3b31aa340dca785a79d540ca2a4e603b109a2267e00cc08fee6964/diff/www/wwwroot/study.economics" accessType="SFTP">
           <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+            <advancedOptions controlEncoding="utf-8" dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
           <option name="port" value="22" />
         </fileTransfer>

@@ -3,5 +3,6 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/python/scrapy/qx" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/python/scrapy/scrapyTest" vcs="Git" />
   </component>
 </project>
