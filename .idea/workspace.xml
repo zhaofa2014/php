@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f89da9d6-ac46-44e1-a3d3-e4927505b598" name="默认更改列表" comment="scrapy">
+    <list default="true" id="f89da9d6-ac46-44e1-a3d3-e4927505b598" name="默认更改列表" comment="">
+      <change afterPath="$PROJECT_DIR$/php/target.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project Plan.mmd" beforeDir="false" afterPath="$PROJECT_DIR$/Project Plan.mmd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/scrapy/scrapyTest" beforeDir="false" afterPath="$PROJECT_DIR$/python/scrapy/scrapyTest" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -37,25 +36,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Project Plan.mmd">
-          <provider selected="true" editor-type-id="com.igormaznitsa.ideamindmap.editor.MindMapDocumentEditor" />
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/python/target.txt">
+        <entry file="file://$PROJECT_DIR$/php/target.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/study.economics.sh">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="619">
-              <caret line="61" column="20" selection-start-line="57" selection-end-line="71" selection-end-column="25" />
+            <state relative-caret-position="285">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
             </state>
           </provider>
         </entry>
@@ -109,7 +94,6 @@
         <option value="$PROJECT_DIR$/money" />
         <option value="$PROJECT_DIR$/index.py" />
         <option value="$PROJECT_DIR$/index.js" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/index.css" />
         <option value="$PROJECT_DIR$/python/scrapy/qx/qx/pipelines.py" />
         <option value="$PROJECT_DIR$/python/pandas/Pandas.sh.html" />
@@ -149,6 +133,8 @@
         <option value="$PROJECT_DIR$/python/scrapy/slm/slm/spiders/douban_spider.py" />
         <option value="$PROJECT_DIR$/target.txt" />
         <option value="$PROJECT_DIR$/Project Plan.mmd" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/php/target.txt" />
       </list>
     </option>
   </component>
@@ -176,6 +162,11 @@
             <path>
               <item name="study.economics" type="b2602c69:ProjectViewProjectNode" />
               <item name="study.economics" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="study.economics" type="b2602c69:ProjectViewProjectNode" />
+              <item name="study.economics" type="462c0819:PsiDirectoryNode" />
+              <item name="php" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="study.economics" type="b2602c69:ProjectViewProjectNode" />
@@ -210,17 +201,18 @@
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\zhaofa\shelimai.vip\Job\project\工作一小时 休息10分钟 每天进步一点点\study.economics\php" />
+      <recent name="D:\zhaofa\shelimai.vip\Job\project\工作一小时 休息10分钟 每天进步一点点\study.economics" />
+      <recent name="D:\zhaofa\shelimai.vip\Job\project\工作一小时 休息10分钟 每天进步一点点\study.economics\python\scrapy" />
+      <recent name="C:\Users\Administrator\Desktop" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\zhaofa\shelimai.vip\Job\project\工作一小时 休息10分钟 每天进步一点点\study.economics\python" />
       <recent name="D:\zhaofa\shelimai.vip\Job\project\工作一小时 休息10分钟 每天进步一点点\study.economics\python\scrapy\mingyan\mingyan\spiders" />
       <recent name="D:\zhaofa\shelimai.vip\Job\project\工作一小时 休息10分钟 每天进步一点点\study.economics\python\scrapy\mingyan\mingyan" />
       <recent name="D:\zhaofa\shelimai.vip\Job\project\工作一小时 休息10分钟 每天进步一点点\study.economics\js" />
       <recent name="D:\zhaofa\shelimai.vip\Job\project\工作一小时 休息10分钟 每天进步一点点\study.economics\linux" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\zhaofa\shelimai.vip\Job\project\工作一小时 休息10分钟 每天进步一点点\study.economics" />
-      <recent name="D:\zhaofa\shelimai.vip\Job\project\工作一小时 休息10分钟 每天进步一点点\study.economics\python\scrapy" />
-      <recent name="C:\Users\Administrator\Desktop" />
     </key>
   </component>
   <component name="RunAnythingCache">
@@ -339,7 +331,7 @@
       <workItem from="1605075472682" duration="3997000" />
       <workItem from="1605143204795" duration="3642000" />
       <workItem from="1605150173754" duration="12764000" />
-      <workItem from="1605229736597" duration="4229000" />
+      <workItem from="1605229736597" duration="7486000" />
     </task>
     <task id="LOCAL-00001" summary="宝塔 usb">
       <created>1601107531113</created>
@@ -579,11 +571,18 @@
       <option name="project" value="LOCAL" />
       <updated>1605168797556</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="scrapy">
+      <created>1605240035250</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1605240035250</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="271010000" />
+    <option name="totallyTimeSpent" value="274267000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
@@ -694,13 +693,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="scrapy" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/linux/ctl/bt.dockerfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="8" column="59" selection-start-line="8" selection-start-column="59" selection-end-line="8" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/php/laravel/.env">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -724,13 +716,6 @@
         <state split_layout="SPLIT">
           <first_editor />
           <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1593">
-          <caret line="59" column="7" selection-end-line="67" />
         </state>
       </provider>
     </entry>
@@ -932,13 +917,6 @@
     <entry file="file://$PROJECT_DIR$/python/scrapy/scrapy学习笔记.xmind">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/study.economics.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="619">
-          <caret line="61" column="20" selection-start-line="57" selection-end-line="71" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/target.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1653">
@@ -950,10 +928,31 @@
       <provider editor-type-id="text-editor" />
       <provider selected="true" editor-type-id="com.igormaznitsa.ideamindmap.editor.MindMapDocumentEditor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="642">
+          <caret line="61" column="135" selection-start-line="61" selection-start-column="135" selection-end-line="61" selection-end-column="135" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/python/target.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
           <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/study.economics.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="632">
+          <caret line="56" selection-start-line="56" selection-end-line="71" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/target.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
