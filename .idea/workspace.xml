@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f89da9d6-ac46-44e1-a3d3-e4927505b598" name="默认更改列表" comment="一两个vmware虚拟机，三两个JetBrains 编辑器，三四个Adobe软件，用一堆工具加理论知识来创造价值，现在状态盲目学习＝假装努力......">
-      <change afterPath="$PROJECT_DIR$/js/js project.mmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/target.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/php project.mmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/python project.mmd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="f89da9d6-ac46-44e1-a3d3-e4927505b598" name="默认更改列表" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/linux/ctl.lnk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/php/target.txt" beforeDir="false" afterPath="$PROJECT_DIR$/php/target.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/target.txt" beforeDir="false" afterPath="$PROJECT_DIR$/python/target.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/study.txt" beforeDir="false" afterPath="$PROJECT_DIR$/study.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -109,7 +108,6 @@
         <option value="$PROJECT_DIR$/php/cms/xyhcms/xyhcms02/App/Common/Conf/db.php" />
         <option value="$PROJECT_DIR$/study.economics.sh" />
         <option value="$PROJECT_DIR$/python/scrapy/qx/qx/spiders/qxs.py" />
-        <option value="$PROJECT_DIR$/study.txt" />
         <option value="$PROJECT_DIR$/lnmpr.html" />
         <option value="$PROJECT_DIR$/job2.html" />
         <option value="$PROJECT_DIR$/python/scrapy/mingyanSpider.py" />
@@ -125,14 +123,15 @@
         <option value="&lt;61bb6c3d-48c8-43b0-ba39-99fedb3e988a&gt;/python/scrapy/ScrapyProject/scrapyMysql/scrapyMysql/MySQLPipline.py" />
         <option value="&lt;61bb6c3d-48c8-43b0-ba39-99fedb3e988a&gt;/python/scrapy/ScrapyProject/ImagesRename/ImagesRename/settings.py" />
         <option value="$PROJECT_DIR$/python/scrapy/ScrapyProject/ImageSpider/ImageSpider/settings.py" />
-        <option value="$PROJECT_DIR$/python/target.txt" />
         <option value="$PROJECT_DIR$/python/scrapy/slm/slm/items.py" />
         <option value="$PROJECT_DIR$/python/scrapy/slm/slm/spiders/douban_spider.py" />
         <option value="$PROJECT_DIR$/target.txt" />
         <option value="$PROJECT_DIR$/Project Plan.mmd" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/php/target.txt" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/php/target.txt" />
+        <option value="$PROJECT_DIR$/python/target.txt" />
+        <option value="$PROJECT_DIR$/study.txt" />
       </list>
     </option>
   </component>
@@ -163,11 +162,6 @@
             <path>
               <item name="study.economics" type="b2602c69:ProjectViewProjectNode" />
               <item name="study.economics" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="study.economics" type="b2602c69:ProjectViewProjectNode" />
-              <item name="study.economics" type="462c0819:PsiDirectoryNode" />
-              <item name="php" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -328,7 +322,7 @@
       <workItem from="1605143204795" duration="3642000" />
       <workItem from="1605150173754" duration="12764000" />
       <workItem from="1605229736597" duration="8304000" />
-      <workItem from="1605254837264" duration="518000" />
+      <workItem from="1605254837264" duration="894000" />
     </task>
     <task id="LOCAL-00001" summary="宝塔 usb">
       <created>1601107531113</created>
@@ -596,11 +590,18 @@
       <option name="project" value="LOCAL" />
       <updated>1605254745480</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="一两个vmware虚拟机，三两个JetBrains 编辑器，三四个Adobe软件，用一堆工具加理论知识来创造价值，现在状态盲目学习＝假装努力......">
+      <created>1605255398185</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1605255398185</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="275603000" />
+    <option name="totallyTimeSpent" value="275979000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
@@ -617,7 +618,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32832617" />
-      <window_info anchor="bottom" id="File Transfer" order="9" sideWeight="0.4989339" weight="0.03862661" />
+      <window_info anchor="bottom" id="File Transfer" order="9" sideWeight="0.4989339" visible="true" weight="0.03862661" />
       <window_info anchor="bottom" id="Database Changes" order="10" weight="0.3289183" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.48675495" />
       <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.5010661" side_tool="true" weight="0.03311258" />
@@ -874,16 +875,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/python/scrapy/slm/slm/spiders/douban_spider.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
-          <folding>
-            <element signature="e#0#33#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/python/scrapy/slm/slm/items.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
@@ -893,13 +884,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/vue/Hello uni-app/App.vue">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/study.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/python/scrapy/qx/qx/spiders/qxs.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -932,13 +916,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/python/target.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/study.economics.sh">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="632">
@@ -962,15 +939,39 @@
     <entry file="file://$PROJECT_DIR$/js/js project.mmd">
       <provider selected="true" editor-type-id="com.igormaznitsa.ideamindmap.editor.MindMapDocumentEditor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/php/target.txt">
+    <entry file="file://$PROJECT_DIR$/js/target.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/target.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" selection-start-line="15" selection-end-line="16" />
+        <state relative-caret-position="19">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/target.txt">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/php/target.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/scrapy/slm/slm/spiders/douban_spider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/study.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+        </state>
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">
