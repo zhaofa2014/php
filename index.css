@@ -5,7 +5,7 @@ body {
 
 .zhaofa {
     height: 736px;
-    background-color: #F80007;
+    background-color: #F6F6F6;
 }
 
 
@@ -13,16 +13,13 @@ body {
     height: 45px;
     background-color: #D2ED09;
     display: inline-block;
+    width: 414px;
 }
 
 .zhaofa .head input {
-    width: 365px;
+    width: 414px;
     height: 43px;
-    border-radius: 8px;
-}
-
-.zhaofa .head .tjiao {
-    width: 44px;
+    border-radius: 11px;
 }
 
 
@@ -32,36 +29,52 @@ body {
     position: relative;
     top: 0px;
 }
+.zhaofa .Rotation img {
+    width: 100%;
+    height: 100%;
+}
+
 
 .zhaofa .Navigation {
-    height: 111px;
-    background-color: #33D040;
+    background-color: #F6F6F6;
     display: inline-block;
 }
+
+.zhaofa .Navigation .Navigation1 {
+    width: 79px;
+    height: 110px;
+    background-color: #F6F6F6;
+    display: inline-block;
+    margin-top: 16px;
+
+}
+.zhaofa .Navigation .Navigation1 img {
+    width: 83px;
+    height: 83px;
+}
+.zhaofa .Navigation .Navigation1 span {
+    width: 102px;
+    position: relative;
+    display: inline-block;
+}
+
+
 
 .zhaofa .gungao {
     height: 86px;
     background-color: #F0E224;
 }
-
-.zhaofa .Navigation .Navigation1 {
-    width: 79px;
-    height: 75px;
-    background-color: #03041E;
-    display: inline-block;
-    margin-top: 16px;
-
+.gungao img {
+    width: 100%;
+    height: 100%;
 }
-
-.Navigation .Navigation1 img {
-
+.gungao1 img {
+    width: 100%;
+    height: 100%;
 }
-
-.Navigation .Navigation1 span {
-    position: absolute;
-    top: 352px;
-    left: 13px;
-    display: inline-block;
+.gungao7 img {
+    width: 100%;
+    height: 100%;
 }
 
 
@@ -131,16 +144,24 @@ body {
 }
 
 .zhaofa .gungao8 {
-    height: 42px;
     background-color: #0FE9A9;
 }
+.gungao8 img {
+    width: 100%;
+    height: 100%;
+}
+
 
 
 .zhaofa .bottom {
     width: 414px;
     height: 60px;
-    background-color: #23E714;
+    background-color: #F9F9F9;
     top: 685px;
     position: fixed;
     text-shadow: 0px 0px;
+}
+.bottom .bottom1 {
+    width: 99px;
+    display: inline-block;
 }

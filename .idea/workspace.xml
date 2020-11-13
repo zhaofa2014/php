@@ -3,10 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="f89da9d6-ac46-44e1-a3d3-e4927505b598" name="默认更改列表" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/linux/ctl.lnk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/php/target.txt" beforeDir="false" afterPath="$PROJECT_DIR$/php/target.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/target.txt" beforeDir="false" afterPath="$PROJECT_DIR$/python/target.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study.txt" beforeDir="false" afterPath="$PROJECT_DIR$/study.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -37,7 +35,7 @@
     <favorites_list name="study.economics" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -156,6 +154,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="NBKnowledgePane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -167,7 +166,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="NBKnowledgePane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -322,7 +320,8 @@
       <workItem from="1605143204795" duration="3642000" />
       <workItem from="1605150173754" duration="12764000" />
       <workItem from="1605229736597" duration="8304000" />
-      <workItem from="1605254837264" duration="894000" />
+      <workItem from="1605254837264" duration="904000" />
+      <workItem from="1605257167675" duration="1728000" />
     </task>
     <task id="LOCAL-00001" summary="宝塔 usb">
       <created>1601107531113</created>
@@ -597,16 +596,23 @@
       <option name="project" value="LOCAL" />
       <updated>1605255398185</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="一两个vmware虚拟机，三两个JetBrains 编辑器，三四个Adobe软件，用一堆工具加理论知识来创造价值，现在状态盲目学习＝假装努力......">
+      <created>1605255762761</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1605255762761</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="275979000" />
+    <option name="totallyTimeSpent" value="277717000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49785408" visible="true" weight="0.20149253" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49785408" visible="true" weight="0.20362474" />
       <window_info id="Structure" order="1" sideWeight="0.50214595" side_tool="true" weight="0.141258" />
       <window_info id="Favorites" order="2" sideWeight="0.50110376" side_tool="true" weight="0.13965885" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -618,7 +624,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32832617" />
-      <window_info anchor="bottom" id="File Transfer" order="9" sideWeight="0.4989339" visible="true" weight="0.03862661" />
+      <window_info anchor="bottom" id="File Transfer" order="9" sideWeight="0.4989339" visible="true" weight="0.037527595" />
       <window_info anchor="bottom" id="Database Changes" order="10" weight="0.3289183" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.48675495" />
       <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.5010661" side_tool="true" weight="0.03311258" />
@@ -720,37 +726,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/php/sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="9" selection-start-column="9" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/php/laravel/resources/views/welcome.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/php/laravel/app/Http/Controllers/Controller.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="4" column="4" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
-          <folding>
-            <element signature="e#40#97#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/php/cms/xyhcms/xyhcms02/App/Home/Conf/config.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="388">
-          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/php/sh" />
+    <entry file="file://$PROJECT_DIR$/php/laravel/resources/views/welcome.blade.php" />
+    <entry file="file://$PROJECT_DIR$/php/laravel/app/Http/Controllers/Controller.php" />
+    <entry file="file://$PROJECT_DIR$/php/cms/xyhcms/xyhcms02/App/Home/Conf/config.php" />
     <entry file="file://$PROJECT_DIR$/HOSTS.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
@@ -758,146 +737,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/php/cms/xyhcms/xyhcms02/App/Common/Conf/db.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="9" column="4" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mysql/mysql.txt___jb_old___">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mysql/mysql.txt___jb_tmp___">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/job.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="19" column="83" selection-start-line="19" selection-start-column="83" selection-end-line="19" selection-end-column="83" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python/scrapy/qx/scrapy.cfg">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python/scrapy/qx/qx/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python/scrapy/qx/qx/settings.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python/scrapy/qx/qx/spiders/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python/scrapy/qx/qx/middlewares.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python/scrapy/qx/qx/pipelines.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="9" column="54" selection-start-line="9" selection-start-column="54" selection-end-line="9" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python/scrapy/qx/qx/items.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/php/cms/xyhcms/xyhcms02/App/Common/Conf/db.php" />
+    <entry file="file://$PROJECT_DIR$/mysql/mysql.txt___jb_old___" />
+    <entry file="file://$PROJECT_DIR$/mysql/mysql.txt___jb_tmp___" />
+    <entry file="file://$PROJECT_DIR$/job.html" />
+    <entry file="file://$PROJECT_DIR$/python/scrapy/qx/scrapy.cfg" />
+    <entry file="file://$PROJECT_DIR$/python/scrapy/qx/qx/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/python/scrapy/qx/qx/settings.py" />
+    <entry file="file://$PROJECT_DIR$/python/scrapy/qx/qx/spiders/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/python/scrapy/qx/qx/middlewares.py" />
+    <entry file="file://$PROJECT_DIR$/python/scrapy/qx/qx/pipelines.py" />
+    <entry file="file://$PROJECT_DIR$/python/scrapy/qx/qx/items.py" />
     <entry file="file://$PROJECT_DIR$/desktop.ini" />
-    <entry file="file://$PROJECT_DIR$/lnmpr.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/job2.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/job1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python/scrapy/slm/slm/spiders/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/lnmpr.html" />
+    <entry file="file://$PROJECT_DIR$/job2.html" />
+    <entry file="file://$PROJECT_DIR$/job1.html" />
+    <entry file="file://$PROJECT_DIR$/python/scrapy/slm/slm/spiders/__init__.py" />
     <entry file="file://$PROJECT_DIR$/python/scrapy/mingyanSpider.py" />
     <entry file="file://$PROJECT_DIR$/python/scrapy/mingyan.json" />
     <entry file="file://$PROJECT_DIR$/python/scrapy/mingyan/mingyan/spiders/mingyan_spider.py" />
-    <entry file="file://$PROJECT_DIR$/python/scrapy/mingyan2/mingyan2/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python/scrapy/mingyan2/mingyan-1.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/php/thinkPHP/tp5/.gitignore">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python/scrapy/mingyan2/mingyan2/spiders/mingyan_spider.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="665">
-          <caret line="35" column="43" selection-start-line="35" selection-start-column="43" selection-end-line="35" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/python/scrapy/mingyan2/mingyan2/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/python/scrapy/mingyan2/mingyan-1.html" />
+    <entry file="file://$PROJECT_DIR$/php/thinkPHP/tp5/.gitignore" />
+    <entry file="file://$PROJECT_DIR$/python/scrapy/mingyan2/mingyan2/spiders/mingyan_spider.py" />
     <entry file="file://$PROJECT_DIR$/python/__init__.py" />
-    <entry file="file://$PROJECT_DIR$/linux/ctl/Git.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="576">
-          <caret line="36" selection-start-line="36" selection-end-line="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python/scrapy/scrapyMysql/scrapyMysql/items.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python/scrapy/scrapyMysql/scrapyMysql/spiders/inputMysql.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="24" column="83" selection-start-line="24" selection-start-column="83" selection-end-line="24" selection-end-column="83" />
-          <folding>
-            <element signature="e#24#37#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python/scrapy/ScrapyProject/ImageSpider/ImageSpider/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="292">
-          <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python/scrapy/slm/slm/items.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="30" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/vue/Hello uni-app/App.vue">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python/scrapy/qx/qx/spiders/qxs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="624">
-          <caret line="46" column="35" selection-start-line="46" selection-start-column="8" selection-end-line="46" selection-end-column="35" />
-          <folding>
-            <element signature="e#24#37#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python/scrapy/scrapy学习笔记.xmind">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/linux/ctl/Git.txt" />
+    <entry file="file://$PROJECT_DIR$/python/scrapy/scrapyMysql/scrapyMysql/items.py" />
+    <entry file="file://$PROJECT_DIR$/python/scrapy/scrapyMysql/scrapyMysql/spiders/inputMysql.py" />
+    <entry file="file://$PROJECT_DIR$/python/scrapy/ScrapyProject/ImageSpider/ImageSpider/settings.py" />
+    <entry file="file://$PROJECT_DIR$/python/scrapy/slm/slm/items.py" />
+    <entry file="file://$PROJECT_DIR$/js/vue/Hello uni-app/App.vue" />
+    <entry file="file://$PROJECT_DIR$/python/scrapy/qx/qx/spiders/qxs.py" />
+    <entry file="file://$PROJECT_DIR$/python/scrapy/scrapy学习笔记.xmind" />
     <entry file="file://$PROJECT_DIR$/target.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1653">
@@ -923,49 +794,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="5" lean-forward="true" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/php/php project.mmd">
-      <provider selected="true" editor-type-id="com.igormaznitsa.ideamindmap.editor.MindMapDocumentEditor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python/python project.mmd">
-      <provider selected="true" editor-type-id="com.igormaznitsa.ideamindmap.editor.MindMapDocumentEditor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/js project.mmd">
-      <provider selected="true" editor-type-id="com.igormaznitsa.ideamindmap.editor.MindMapDocumentEditor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/target.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python/target.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/php/target.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python/scrapy/slm/slm/spiders/douban_spider.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
-          <folding>
-            <element signature="e#0#33#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore" />
+    <entry file="file://$PROJECT_DIR$/php/php project.mmd" />
+    <entry file="file://$PROJECT_DIR$/python/python project.mmd" />
+    <entry file="file://$PROJECT_DIR$/js/js project.mmd" />
+    <entry file="file://$PROJECT_DIR$/js/target.txt" />
+    <entry file="file://$PROJECT_DIR$/python/target.txt" />
+    <entry file="file://$PROJECT_DIR$/php/target.txt" />
+    <entry file="file://$PROJECT_DIR$/python/scrapy/slm/slm/spiders/douban_spider.py" />
     <entry file="file://$PROJECT_DIR$/study.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
