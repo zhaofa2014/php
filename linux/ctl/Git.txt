@@ -35,7 +35,7 @@ cat ~/.ssh/id_rsa.pub
 
     git clone http://zhaofagitlab.io/root/demo.git
     git clone https://github.com/cuanboy/ScrapyProject.git ScrapyProject
-
+    git clone https://github.com/colinlet/PHP-Interview-QA.git
 
 查看状态
 	git status

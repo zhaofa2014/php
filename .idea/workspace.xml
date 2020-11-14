@@ -1,10 +1,253 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f89da9d6-ac46-44e1-a3d3-e4927505b598" name="默认更改列表" comment="">
+    <list default="true" id="f89da9d6-ac46-44e1-a3d3-e4927505b598" name="默认更改列表" comment="一两个vmware虚拟机，三两个JetBrains 编辑器，三四个Adobe软件，用一堆工具加理论知识来创造价值，现在状态盲目学习＝假装努力......">
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/01.网络.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/01.网络/01.计算机网络体系结构.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/01.网络/02.用户数据报协议UDP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/01.网络/03.传输控制协议TCP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/01.网络/04.TCP粘包拆包.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/01.网络/05.HTTP状态码.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/01.网络/06.HTTP方法详解.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/01.网络/07.HTTPS细节介绍.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/01.网络/08.SSL-TLS协议运行机制的概述.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/01.网络/assets/network-architecture-01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/01.网络/assets/network-architecture-02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/01.网络/assets/network-architecture-03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/01.网络/assets/network-architecture-04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/01.网络/assets/network-architecture-05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/01.网络/assets/network-architecture-06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/01.网络/assets/network-architecture-07.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/01.网络/assets/network-http-message.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/01.网络/assets/network-http-method-01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/01.网络/assets/network-http-method-02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/01.网络/assets/network-http-method-03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/01.网络/assets/network-http-method-04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/01.网络/assets/network-http-method-05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/01.网络/assets/network-http-method-06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/01.网络/assets/network-http-method-07.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/01.网络/assets/network-http-method-08.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/01.网络/assets/network-http-method.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/01.网络/assets/network-https-01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/01.网络/assets/network-https-02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/01.网络/assets/network-https-03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/01.网络/assets/network-https-04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/01.网络/assets/network-https-05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/01.网络/assets/network-https.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/01.网络/assets/network-tcp-01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/01.网络/assets/network-tcp-02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/01.网络/assets/network-tcp-03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/01.网络/assets/network-tcp-04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/01.网络/assets/network-tcp-05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/01.网络/assets/network-tcp-06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/01.网络/assets/network-tcp-07.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/01.网络/assets/network-tcp-08.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/01.网络/assets/network-tcp-09.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/01.网络/assets/network-tcp-10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/01.网络/assets/network-tcp-11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/01.网络/assets/network-tcp-12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/01.网络/assets/network-tcp-13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/01.网络/assets/network-tcp-14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/01.网络/assets/network-tcp-15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/01.网络/assets/network-tcp-16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/01.网络/assets/network-tcp-17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/01.网络/assets/network-tcp-18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/01.网络/assets/network-tcp-19.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/01.网络/assets/network-udp-01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/01.网络/assets/network-udp-02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/01.网络/assets/network-udp-03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/01.网络/assets/network-websocket.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/02.数据结构与算法.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/02.数据结构与算法/01.数据结构与算法概述.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/02.数据结构与算法/02.数据结构实现基础.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/02.数据结构与算法/03.线性结构.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/02.数据结构与算法/04.树.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/02.数据结构与算法/07.排序.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/02.数据结构与算法/08.算法补充.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/02.数据结构与算法/09.经典算法题.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/02.数据结构与算法/assets/DSA-double-link.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/02.数据结构与算法/assets/DSA-double-link2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/02.数据结构与算法/assets/DSA-single-link.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/02.数据结构与算法/assets/DSA-stack.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/02.数据结构与算法/assets/DSA-线性表的链表表示.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/02.数据结构与算法/assets/DSA-线性表的顺序存储示意.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/02.数据结构与算法/assets/数据结构.sketch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/03.PHP/01.PHP数组.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/03.PHP/02.PHP反射详解.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/03.PHP/03.echo、print、print_r、var_dump区别.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/03.PHP/QA.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/03.PHP/assets/php-base64.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/03.PHP/assets/php-ip2long.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/04.Web/01.初探SEO.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/04.Web/02.CSS选择器的分类.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/04.Web/03.CSS-Sprite的应用.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/04.Web/04.CSS盒模型.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/04.Web/05.CSS水平居中设置.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/04.Web/06.CSS垂直居中设置.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/04.Web/07.flex布局的基本概念.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/04.Web/08.CSS-Position学习.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/04.Web/09.JavaScript的性能优化-加载和执行.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/04.Web/10.JavaScript数据类型和数据结构.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/04.Web/11.JavaScript操作DOM常用的API.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/04.Web/12.浏览器的同源策略.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/04.Web/13.前端常见跨域解决方案.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/04.Web/14.JavaScript闭包.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/04.Web/15.jsonp的原理与简单实现.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/04.Web/16.vue的双向绑定原理及实现.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/04.Web/QA.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/04.Web/assets/css-文档树结构.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/04.Web/assets/css-规则的结构.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/04.Web/assets/seo-搜索引擎抓取页面简单流程.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/04.Web/assets/seo-查询处理流程.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/04.Web/assets/seo-网站优化流程.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/04.Web/assets/seo-网页分析处理流程.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/04.Web/assets/web-css-CSS框模型.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/04.Web/assets/web-css-CSS选择器.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/04.Web/assets/web-css-position-01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/04.Web/assets/web-css-position-02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/04.Web/assets/web-css-position-03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/04.Web/assets/web-css-position-04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/04.Web/assets/web-css-雪碧图1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/04.Web/assets/web-css-雪碧图2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/04.Web/assets/web-css-雪碧图3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/04.Web/assets/web-flex-01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/04.Web/assets/web-flex-02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/04.Web/assets/web-flex-03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/04.Web/assets/web-flex-04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/04.Web/assets/web-flex-05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/04.Web/assets/web-flex-06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/04.Web/assets/web-flex-07.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/04.Web/assets/web-javascript-TypedArray-objects.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/04.Web/assets/web-javascript-dom-01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/04.Web/assets/web-javascript-dom-02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/04.Web/assets/web-javascript-dom-03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/04.Web/assets/web-javascript-dom-04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/04.Web/assets/web-javascript-dom-05.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/04.Web/assets/web-javascript-dom-06.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/04.Web/assets/web-javascript-dom-07.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/04.Web/assets/web-javascript-dom-08.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/04.Web/assets/web-javascript-dom-09.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/04.Web/assets/web-javascript-dom-10.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/04.Web/assets/web-javascript-dom-11.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/04.Web/assets/web-javascript-dom-12.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/04.Web/assets/web-javascript-dom-13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/04.Web/assets/web-javascript-dom-14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/04.Web/assets/web-javascript-dom-15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/04.Web/assets/web-javascript-性能01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/04.Web/assets/web-javascript-数据类型.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/04.Web/assets/web-vue-bind-01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/04.Web/assets/web-vue-bind-02.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/04.Web/assets/web-vue-bind-03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/04.Web/assets/web-vue-bind-04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/04.Web/assets/web-vue-bind-05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/04.Web/assets/web-vue-bind-06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/04.Web/assets/web-vue-bind-07.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/05.MySQL/01.MySQL连接的使用.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/05.MySQL/02.MySQL体系结构.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/05.MySQL/03.MySQL常用函数.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/05.MySQL/QA.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/05.MySQL/assets/Optimistic-Pessimistic-Locks.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/05.MySQL/assets/index.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/05.MySQL/assets/mysql-join-01.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/05.MySQL/assets/mysql-join-02.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/05.MySQL/assets/mysql-join-03.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/05.MySQL/assets/mysql-system-01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/05.MySQL/assets/mysql-system-02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/05.MySQL/assets/mysql-system-03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/05.MySQL/assets/mysql-system-04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/05.MySQL/assets/mysql-system-05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/05.MySQL/assets/mysql-system-06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/05.MySQL/assets/mysql-system-07.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/05.MySQL/assets/mysql-system-08.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/05.MySQL/assets/mysql-system-09.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/05.MySQL/assets/mysql-system-10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/05.MySQL/assets/mysql-system-11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/05.MySQL/assets/mysql-system-12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/06.Redis/QA.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/07.Linux/01.GNU-Linux分支图.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/07.Linux/02.Linux基础.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/07.Linux/QA.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/07.Linux/assets/linux-branches-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/07.Linux/assets/linux-branches-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/08.安全/QA.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/08.安全/assets/ddos.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/09.设计模式/QA.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/10.架构/QA.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/10.架构/assets/PHP业务架构图.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/10.架构/assets/consistent-hash.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/10.架构/assets/lvs-architecture.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/10.架构/assets/lvs-web-cluster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/10.架构/assets/mo-middleware.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/10.架构/assets/reverse-proxy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/11.业务/QA.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/12.非技术/QA.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/13.面试/QA.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/assets/interview.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/assets/network-architecture-02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/assets/network-http-message.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/assets/network-http-method.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/assets/network-https.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/assets/network-websocket.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/assets/wechat.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/参考资料.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/技能树.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/术语对照表.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redis/target.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/index.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/linux/ctl/Git.txt" beforeDir="false" afterPath="$PROJECT_DIR$/linux/ctl/Git.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysql/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/mysql/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/php/target.txt" beforeDir="false" afterPath="$PROJECT_DIR$/php/target.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/php/thinkPHP/tp/.example.env" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/php/thinkPHP/tp/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/php/thinkPHP/tp/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/php/thinkPHP/tp/.user.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/php/thinkPHP/tp/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/php/thinkPHP/tp/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/php/thinkPHP/tp/app/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/php/thinkPHP/tp/app/AppService.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/php/thinkPHP/tp/app/BaseController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/php/thinkPHP/tp/app/ExceptionHandle.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/php/thinkPHP/tp/app/Request.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/php/thinkPHP/tp/app/common.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/php/thinkPHP/tp/app/controller/Index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/php/thinkPHP/tp/app/event.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/php/thinkPHP/tp/app/middleware.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/php/thinkPHP/tp/app/provider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/php/thinkPHP/tp/app/service.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/php/thinkPHP/tp/composer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/php/thinkPHP/tp/composer.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/php/thinkPHP/tp/config/app.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/php/thinkPHP/tp/config/cache.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/php/thinkPHP/tp/config/console.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/php/thinkPHP/tp/config/cookie.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/php/thinkPHP/tp/config/database.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/php/thinkPHP/tp/config/filesystem.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/php/thinkPHP/tp/config/lang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/php/thinkPHP/tp/config/log.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/php/thinkPHP/tp/config/middleware.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/php/thinkPHP/tp/config/route.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/php/thinkPHP/tp/config/session.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/php/thinkPHP/tp/config/view.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/php/thinkPHP/tp/extend/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/php/thinkPHP/tp/public/.htaccess" beforeDir="false" afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/02.数据结构与算法/05.散列查找.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/php/thinkPHP/tp/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/php/thinkPHP/tp/public/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/php/thinkPHP/tp/public/nginx.htaccess" beforeDir="false" afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/02.数据结构与算法/06.图.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/php/thinkPHP/tp/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/php/thinkPHP/tp/public/router.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/php/thinkPHP/tp/public/static/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/php/thinkPHP/tp/route/app.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/php/thinkPHP/tp/runtime/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/php/thinkPHP/tp/think" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/php/thinkPHP/tp/view/README.md" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -35,7 +278,17 @@
     <favorites_list name="study.economics" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="2" column="2" lean-forward="true" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -60,6 +313,7 @@
       <find>centos-study</find>
       <find>os</find>
       <find>D:\ImageSpider</find>
+      <find>CREATE</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -79,7 +333,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/目标.txt" />
         <option value="$PROJECT_DIR$/学习.sh" />
         <option value="$PROJECT_DIR$/../../../../../ctl/30分钟部署一个Kubernetes集群【1.15版】.md" />
         <option value="$PROJECT_DIR$/.htaccess" />
@@ -88,7 +341,6 @@
         <option value="$PROJECT_DIR$/money" />
         <option value="$PROJECT_DIR$/index.py" />
         <option value="$PROJECT_DIR$/index.js" />
-        <option value="$PROJECT_DIR$/index.css" />
         <option value="$PROJECT_DIR$/python/scrapy/qx/qx/pipelines.py" />
         <option value="$PROJECT_DIR$/python/pandas/Pandas.sh.html" />
         <option value="$PROJECT_DIR$/python/pandas/Pandas.sh" />
@@ -97,14 +349,12 @@
         <option value="$PROJECT_DIR$/mysql/mysql.txt" />
         <option value="$PROJECT_DIR$/mysql/sale.sql" />
         <option value="$PROJECT_DIR$/linux/ctl/bt.dockerfile" />
-        <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/linux/ctl/centos.yaml" />
         <option value="$PROJECT_DIR$/HOSTS.txt" />
         <option value="$PROJECT_DIR$/job1.html" />
         <option value="$PROJECT_DIR$/php/laravel/resources/views/welcome.blade.php" />
         <option value="$PROJECT_DIR$/job.html" />
         <option value="$PROJECT_DIR$/php/cms/xyhcms/xyhcms02/App/Common/Conf/db.php" />
-        <option value="$PROJECT_DIR$/study.economics.sh" />
         <option value="$PROJECT_DIR$/python/scrapy/qx/qx/spiders/qxs.py" />
         <option value="$PROJECT_DIR$/lnmpr.html" />
         <option value="$PROJECT_DIR$/job2.html" />
@@ -115,7 +365,6 @@
         <option value="$PROJECT_DIR$/python/scrapy/mingyan/mingyan/spiders/mingyan_spider.py" />
         <option value="&lt;61bb6c3d-48c8-43b0-ba39-99fedb3e988a&gt;/python/scrapy/mingyan2/mingyan2/spiders/mingyan_spider.py" />
         <option value="$PROJECT_DIR$/python/scrapy/mingyan2/mingyan2/spiders/mingyan_spider.py" />
-        <option value="$PROJECT_DIR$/linux/ctl/Git.txt" />
         <option value="$PROJECT_DIR$/python/scrapy/scrapyMysql/scrapyMysql/items.py" />
         <option value="$PROJECT_DIR$/python/scrapy/scrapyMysql/scrapyMysql/spiders/inputMysql.py" />
         <option value="&lt;61bb6c3d-48c8-43b0-ba39-99fedb3e988a&gt;/python/scrapy/ScrapyProject/scrapyMysql/scrapyMysql/MySQLPipline.py" />
@@ -125,11 +374,16 @@
         <option value="$PROJECT_DIR$/python/scrapy/slm/slm/spiders/douban_spider.py" />
         <option value="$PROJECT_DIR$/target.txt" />
         <option value="$PROJECT_DIR$/Project Plan.mmd" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/php/target.txt" />
         <option value="$PROJECT_DIR$/python/target.txt" />
         <option value="$PROJECT_DIR$/study.txt" />
+        <option value="$PROJECT_DIR$/php/target.txt" />
+        <option value="$PROJECT_DIR$/study.economics.sh" />
+        <option value="$PROJECT_DIR$/php/PHP-Interview-QA/README.md" />
+        <option value="$PROJECT_DIR$/linux/ctl/Git.txt" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/index.css" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -154,7 +408,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="NBKnowledgePane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -166,6 +419,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="NBKnowledgePane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -188,19 +442,19 @@
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\zhaofa\shelimai.vip\Job\project\工作一小时 休息10分钟 每天进步一点点\study.economics\redis" />
+      <recent name="D:\zhaofa\shelimai.vip\Job\project\工作一小时 休息10分钟 每天进步一点点\study.economics\js" />
+      <recent name="D:\zhaofa\shelimai.vip\Job\project\工作一小时 休息10分钟 每天进步一点点\study.economics\php" />
+      <recent name="D:\zhaofa\shelimai.vip\Job\project\工作一小时 休息10分钟 每天进步一点点\study.economics" />
+      <recent name="D:\zhaofa\shelimai.vip\Job\project\工作一小时 休息10分钟 每天进步一点点\study.economics\python\scrapy" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\zhaofa\shelimai.vip\Job\project\工作一小时 休息10分钟 每天进步一点点\study.economics\python" />
       <recent name="D:\zhaofa\shelimai.vip\Job\project\工作一小时 休息10分钟 每天进步一点点\study.economics\python\scrapy\mingyan\mingyan\spiders" />
       <recent name="D:\zhaofa\shelimai.vip\Job\project\工作一小时 休息10分钟 每天进步一点点\study.economics\python\scrapy\mingyan\mingyan" />
       <recent name="D:\zhaofa\shelimai.vip\Job\project\工作一小时 休息10分钟 每天进步一点点\study.economics\js" />
       <recent name="D:\zhaofa\shelimai.vip\Job\project\工作一小时 休息10分钟 每天进步一点点\study.economics\linux" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\zhaofa\shelimai.vip\Job\project\工作一小时 休息10分钟 每天进步一点点\study.economics\js" />
-      <recent name="D:\zhaofa\shelimai.vip\Job\project\工作一小时 休息10分钟 每天进步一点点\study.economics\php" />
-      <recent name="D:\zhaofa\shelimai.vip\Job\project\工作一小时 休息10分钟 每天进步一点点\study.economics" />
-      <recent name="D:\zhaofa\shelimai.vip\Job\project\工作一小时 休息10分钟 每天进步一点点\study.economics\python\scrapy" />
-      <recent name="C:\Users\Administrator\Desktop" />
     </key>
   </component>
   <component name="RunAnythingCache">
@@ -321,7 +575,9 @@
       <workItem from="1605150173754" duration="12764000" />
       <workItem from="1605229736597" duration="8304000" />
       <workItem from="1605254837264" duration="904000" />
-      <workItem from="1605257167675" duration="1728000" />
+      <workItem from="1605257167675" duration="2989000" />
+      <workItem from="1605316228506" duration="927000" />
+      <workItem from="1605319491750" duration="13530000" />
     </task>
     <task id="LOCAL-00001" summary="宝塔 usb">
       <created>1601107531113</created>
@@ -603,20 +859,27 @@
       <option name="project" value="LOCAL" />
       <updated>1605255762761</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="一两个vmware虚拟机，三两个JetBrains 编辑器，三四个Adobe软件，用一堆工具加理论知识来创造价值，现在状态盲目学习＝假装努力......">
+      <created>1605260985683</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1605260985684</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="277717000" />
+    <option name="totallyTimeSpent" value="293435000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="7" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49785408" visible="true" weight="0.20362474" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49785408" visible="true" weight="0.20788912" />
       <window_info id="Structure" order="1" sideWeight="0.50214595" side_tool="true" weight="0.141258" />
       <window_info id="Favorites" order="2" sideWeight="0.50110376" side_tool="true" weight="0.13965885" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3289183" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -624,7 +887,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32832617" />
-      <window_info anchor="bottom" id="File Transfer" order="9" sideWeight="0.4989339" visible="true" weight="0.037527595" />
+      <window_info anchor="bottom" id="File Transfer" order="9" sideWeight="0.4989339" visible="true" weight="0.03642384" />
       <window_info anchor="bottom" id="Database Changes" order="10" weight="0.3289183" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.48675495" />
       <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.5010661" side_tool="true" weight="0.03311258" />
@@ -633,7 +896,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Remote Host" order="3" weight="0.23027718" />
+      <window_info active="true" anchor="right" id="Remote Host" order="3" visible="true" weight="0.23027718" />
       <window_info anchor="right" id="Word Book" order="4" side_tool="true" />
       <window_info anchor="right" id="Database" order="5" weight="0.141258" />
       <window_info anchor="right" id="SciView" order="6" weight="0.32995737" />
@@ -718,50 +981,7 @@
     <option name="LAST_COMMIT_MESSAGE" value="一两个vmware虚拟机，三两个JetBrains 编辑器，三四个Adobe软件，用一堆工具加理论知识来创造价值，现在状态盲目学习＝假装努力......" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../../../../../1872220587/FileRecv/scrapy 图片下载 (1).md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/php/sh" />
-    <entry file="file://$PROJECT_DIR$/php/laravel/resources/views/welcome.blade.php" />
-    <entry file="file://$PROJECT_DIR$/php/laravel/app/Http/Controllers/Controller.php" />
-    <entry file="file://$PROJECT_DIR$/php/cms/xyhcms/xyhcms02/App/Home/Conf/config.php" />
-    <entry file="file://$PROJECT_DIR$/HOSTS.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" column="14" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/php/cms/xyhcms/xyhcms02/App/Common/Conf/db.php" />
-    <entry file="file://$PROJECT_DIR$/mysql/mysql.txt___jb_old___" />
-    <entry file="file://$PROJECT_DIR$/mysql/mysql.txt___jb_tmp___" />
-    <entry file="file://$PROJECT_DIR$/job.html" />
-    <entry file="file://$PROJECT_DIR$/python/scrapy/qx/scrapy.cfg" />
-    <entry file="file://$PROJECT_DIR$/python/scrapy/qx/qx/__init__.py" />
-    <entry file="file://$PROJECT_DIR$/python/scrapy/qx/qx/settings.py" />
-    <entry file="file://$PROJECT_DIR$/python/scrapy/qx/qx/spiders/__init__.py" />
-    <entry file="file://$PROJECT_DIR$/python/scrapy/qx/qx/middlewares.py" />
-    <entry file="file://$PROJECT_DIR$/python/scrapy/qx/qx/pipelines.py" />
-    <entry file="file://$PROJECT_DIR$/python/scrapy/qx/qx/items.py" />
-    <entry file="file://$PROJECT_DIR$/desktop.ini" />
-    <entry file="file://$PROJECT_DIR$/lnmpr.html" />
-    <entry file="file://$PROJECT_DIR$/job2.html" />
-    <entry file="file://$PROJECT_DIR$/job1.html" />
-    <entry file="file://$PROJECT_DIR$/python/scrapy/slm/slm/spiders/__init__.py" />
-    <entry file="file://$PROJECT_DIR$/python/scrapy/mingyanSpider.py" />
-    <entry file="file://$PROJECT_DIR$/python/scrapy/mingyan.json" />
-    <entry file="file://$PROJECT_DIR$/python/scrapy/mingyan/mingyan/spiders/mingyan_spider.py" />
-    <entry file="file://$PROJECT_DIR$/python/scrapy/mingyan2/mingyan2/__init__.py" />
-    <entry file="file://$PROJECT_DIR$/python/scrapy/mingyan2/mingyan-1.html" />
-    <entry file="file://$PROJECT_DIR$/php/thinkPHP/tp5/.gitignore" />
-    <entry file="file://$PROJECT_DIR$/python/scrapy/mingyan2/mingyan2/spiders/mingyan_spider.py" />
     <entry file="file://$PROJECT_DIR$/python/__init__.py" />
-    <entry file="file://$PROJECT_DIR$/linux/ctl/Git.txt" />
     <entry file="file://$PROJECT_DIR$/python/scrapy/scrapyMysql/scrapyMysql/items.py" />
     <entry file="file://$PROJECT_DIR$/python/scrapy/scrapyMysql/scrapyMysql/spiders/inputMysql.py" />
     <entry file="file://$PROJECT_DIR$/python/scrapy/ScrapyProject/ImageSpider/ImageSpider/settings.py" />
@@ -769,43 +989,277 @@
     <entry file="file://$PROJECT_DIR$/js/vue/Hello uni-app/App.vue" />
     <entry file="file://$PROJECT_DIR$/python/scrapy/qx/qx/spiders/qxs.py" />
     <entry file="file://$PROJECT_DIR$/python/scrapy/scrapy学习笔记.xmind" />
-    <entry file="file://$PROJECT_DIR$/target.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1653">
-          <caret line="87" column="8" selection-start-line="87" selection-start-column="8" selection-end-line="87" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Project Plan.mmd">
       <provider selected="true" editor-type-id="com.igormaznitsa.ideamindmap.editor.MindMapDocumentEditor" />
       <provider editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/.gitignore" />
+    <entry file="file://$PROJECT_DIR$/python/python project.mmd" />
+    <entry file="file://$PROJECT_DIR$/js/js project.mmd" />
+    <entry file="file://$PROJECT_DIR$/js/target.txt" />
+    <entry file="file://$PROJECT_DIR$/python/target.txt" />
+    <entry file="file://$PROJECT_DIR$/python/scrapy/slm/slm/spiders/douban_spider.py" />
+    <entry file="file://$PROJECT_DIR$/redis/target.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/php project.mmd">
+      <provider selected="true" editor-type-id="com.igormaznitsa.ideamindmap.editor.MindMapDocumentEditor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/target.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="642">
-          <caret line="61" column="135" selection-start-line="61" selection-start-column="135" selection-end-line="61" selection-end-column="135" />
+        <state relative-caret-position="54">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/PHP-Interview-QA/.gitattributes">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/PHP-Interview-QA/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/PHP-Interview-QA/docs/技能树.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SECOND">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/PHP-Interview-QA/docs/术语对照表.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SECOND">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/PHP-Interview-QA/docs/01.网络/01.计算机网络体系结构.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SECOND">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/PHP-Interview-QA/docs/01.网络/02.用户数据报协议UDP.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SECOND">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/PHP-Interview-QA/docs/01.网络/03.传输控制协议TCP.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SECOND">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/PHP-Interview-QA/docs/01.网络/04.TCP粘包拆包.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SECOND">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/PHP-Interview-QA/docs/01.网络/05.HTTP状态码.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SECOND">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/PHP-Interview-QA/docs/01.网络/06.HTTP方法详解.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SECOND">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/PHP-Interview-QA/docs/01.网络/07.HTTPS细节介绍.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SECOND">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/PHP-Interview-QA/docs/01.网络/08.SSL-TLS协议运行机制的概述.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SECOND">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/PHP-Interview-QA/docs/02.数据结构与算法/02.数据结构实现基础.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SECOND">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/PHP-Interview-QA/docs/02.数据结构与算法/03.线性结构.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SECOND">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/PHP-Interview-QA/docs/02.数据结构与算法/06.图.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/PHP-Interview-QA/docs/02.数据结构与算法/07.排序.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/PHP-Interview-QA/docs/02.数据结构与算法/08.算法补充.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/PHP-Interview-QA/docs/02.数据结构与算法/09.经典算法题.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/study.economics.sh">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="632">
-          <caret line="56" selection-start-line="56" selection-end-line="71" selection-end-column="25" />
+        <state relative-caret-position="578">
+          <caret line="52" column="1" selection-start-line="52" selection-start-column="1" selection-end-line="52" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore" />
-    <entry file="file://$PROJECT_DIR$/php/php project.mmd" />
-    <entry file="file://$PROJECT_DIR$/python/python project.mmd" />
-    <entry file="file://$PROJECT_DIR$/js/js project.mmd" />
-    <entry file="file://$PROJECT_DIR$/js/target.txt" />
-    <entry file="file://$PROJECT_DIR$/python/target.txt" />
-    <entry file="file://$PROJECT_DIR$/php/target.txt" />
-    <entry file="file://$PROJECT_DIR$/python/scrapy/slm/slm/spiders/douban_spider.py" />
+    <entry file="file://$PROJECT_DIR$/target.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="24" selection-start-line="24" selection-end-line="51" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/study.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+        <state relative-caret-position="108">
+          <caret line="4" selection-start-line="4" selection-end-line="4" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/PHP-Interview-QA/docs/02.数据结构与算法/04.树.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SECOND">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/PHP-Interview-QA/docs/02.数据结构与算法/05.散列查找.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SECOND">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/PHP-Interview-QA/docs/02.数据结构与算法/01.数据结构与算法概述.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SECOND">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/PHP-Interview-QA/docs/03.PHP/01.PHP数组.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SECOND">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/linux/ctl/Git.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="37" column="62" lean-forward="true" selection-start-line="37" selection-start-column="14" selection-end-line="37" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/PHP-Interview-QA-master/docs/05.MySQL/01.MySQL连接的使用.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SECOND">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/PHP-Interview-QA-master/docs/05.MySQL/02.MySQL体系结构.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SECOND">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/PHP-Interview-QA-master/docs/05.MySQL/03.MySQL常用函数.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SECOND">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/zhaofa.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="24" column="38" lean-forward="true" selection-start-line="24" selection-start-column="38" selection-end-line="24" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="1" selection-start-column="1" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="699">
+          <caret line="57" column="24" selection-start-line="57" selection-start-column="24" selection-end-line="57" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="2" lean-forward="true" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
         </state>
       </provider>
     </entry>
