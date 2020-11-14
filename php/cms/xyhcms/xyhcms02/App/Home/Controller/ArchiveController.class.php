@@ -27,7 +27,7 @@
 namespace Home\Controller;
 
 class ArchiveController extends HomeCommonController {
-	//方法：index
+	//方法:index
 	Public function index() {
 
 		$cid      = I('cid', 0, 'intval');

@@ -157,7 +157,7 @@ class  Template {
         // 获取需要引入的标签库列表
         // 标签库只需要定义一次，允许引入多个一次
         // 一般放在文件的最前面
-        // 格式：<taglib name="html,mytag..." />
+        // 格式:<taglib name="html,mytag..." />
         // 当TAGLIB_LOAD配置为true时才会进行检测
         if(C('TAGLIB_LOAD')) {
             $this->getIncludeTagLib($content);
@@ -452,7 +452,7 @@ class  Template {
 
     /**
      * 模板标签解析
-     * 格式： {TagName:args [|content] }
+     * 格式: {TagName:args [|content] }
      * @access Public
      * @param string $tagStr 标签内容
      * @return string
@@ -483,7 +483,7 @@ class  Template {
 
     /**
      * 模板变量解析,支持使用函数
-     * 格式： {$varname|function1|function2=arg1,arg2}
+     * 格式: {$varname|function1|function2=arg1,arg2}
      * @access Public
      * @param string $varStr 变量数据
      * @return string

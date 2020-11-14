@@ -10,11 +10,12 @@
 // +----------------------------------------------------------------------
 namespace Think\Cache\Driver;
 use Think\Cache;
+
 defined('THINK_PATH') or exit();
 
 /**
  * Redis缓存驱动 
- * 要求安装phpredis扩展：https://github.com/nicolasff/phpredis
+ * 要求安装phpredis扩展:https://github.com/nicolasff/phpredis
  */
 class Redis extends Cache {
 	 /**

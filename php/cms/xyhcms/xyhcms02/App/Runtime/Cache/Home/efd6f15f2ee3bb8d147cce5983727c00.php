@@ -135,13 +135,13 @@
   <div class="container">
     <div class="row">
       <div class="foot col-md-12 col-sm-12 col-xs-12 tc">
-        <div class="link hidden-xs">友情链接：
+        <div class="link hidden-xs">友情链接:
 			<?php
  $_type = intval('-1'); if ($_type == 0) { $where = array('is_check'=> 0); }else if ($_type == 1) { $where = array('is_check'=> 1); } else { $where = array('id' => array('gt',0)); } if (0 > 0) { $count = M('link')->where($where)->count(); $thisPage = new \Common\Lib\Page($count, 0); $thisPage->rollPage = 5; $thisPage->setConfig('theme'," %FIRST% %UP_PAGE% %LINK_PAGE% %DOWN_PAGE% %END%"); $limit = $thisPage->firstRow. ',' .$thisPage->listRows; $page = $thisPage->show(); }else { $limit = "10"; } $_flink = M('link')->where($where)->order("sort ASC")->limit($limit)->select(); if (empty($_flink)) { $_flink = array(); } foreach($_flink as $autoindex => $flink): ?><a href="<?php echo ($flink["url"]); ?>" target="_blank">
                     <?php echo ($flink["name"]); ?>
                 </a><?php endforeach;?> 
 		  </div>
-        <div class="copy">  6666666666666666666    备案号：666666666666666666 <br>
+        <div class="copy">  6666666666666666666    备案号:666666666666666666 <br>
         </div>
         <div id="back_top" class="n_top hidden-xs"><img src="/Public/Home/default/images/top.png"></div>
       </div>

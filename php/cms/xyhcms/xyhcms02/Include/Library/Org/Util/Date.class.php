@@ -518,7 +518,7 @@ class Date {
 
     /**
      *  判断日期 所属 干支 生肖 星座
-     *  type 参数：XZ 星座 GZ 干支 SX 生肖
+     *  type 参数:XZ 星座 GZ 干支 SX 生肖
      *
      * @static
      * @access Public

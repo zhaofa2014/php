@@ -51,7 +51,7 @@ background-image: linear-gradient(top , #2b9ee4, #4fb7fe );}
 			</present>
 			<p class="detail"></p>
 			<p class="jump">
-			页面自动 <a id="href" href="<?php echo($jumpUrl); ?>">跳转</a> 等待时间： <b id="wait"><?php echo($waitSecond); ?></b>
+			页面自动 <a id="href" href="<?php echo($jumpUrl); ?>">跳转</a> 等待时间: <b id="wait"><?php echo($waitSecond); ?></b>
 			</p>
 			</div>
 			<script type="text/javascript">

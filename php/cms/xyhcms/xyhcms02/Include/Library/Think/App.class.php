@@ -64,7 +64,7 @@ class App {
         if(!preg_match('/^[A-Za-z](\/|\w)*$/',CONTROLLER_NAME)){ // 安全检测
             $module  =  false;
         }elseif(C('ACTION_BIND_CLASS')){
-            // 操作绑定到类：模块\Controller\控制器\操作
+            // 操作绑定到类:模块\Controller\控制器\操作
             $layer  =   C('DEFAULT_C_LAYER');
             if(is_dir(MODULE_PATH.$layer.'/'.CONTROLLER_NAME)){
                 $namespace  =   MODULE_NAME.'\\'.$layer.'\\'.CONTROLLER_NAME.'\\';

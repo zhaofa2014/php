@@ -43,20 +43,20 @@
 							<label for="" class="col-sm-2 control-label">URL模式</label>
 							<div class="col-sm-9">
 								<label class="radio-inline"><input type="radio" name="config[HOME_URL_MODEL]" value="0" <if condition="$vo['HOME_URL_MODEL'] eq 0">checked="checked"</if>>普通模式</label>
-								<div>URL参数模式：http://www.xyhcms.com/index.php?m=List&a=index&id=1</div> 
+								<div>URL参数模式:http://www.xyhcms.com/index.php?m=List&a=index&id=1</div>
 								<label class="radio-inline"><input type="radio" name="config[HOME_URL_MODEL]" value="1" <if condition="$vo['HOME_URL_MODEL'] eq 1">checked="checked"</if>>PATHINFO模式</label>
-								<div>PATHINFO模式：http://www.xyhcms.com/index.php/List/index/id/1</div> 
+								<div>PATHINFO模式:http://www.xyhcms.com/index.php/List/index/id/1</div>
 								<label class="radio-inline"><input type="radio" name="config[HOME_URL_MODEL]" value="2" <if condition="$vo['HOME_URL_MODEL'] eq 2">checked="checked"</if>>REWRITE模式(需要URL_REWRITE支持)</label>
-								<div>REWRITE模式和PATHINFO模式功能一样,需开启URL_REWRITE模块(隐藏index.php),如：<br/>http://www.xyhcms.com/List/index/id/1/</div>
+								<div>REWRITE模式和PATHINFO模式功能一样,需开启URL_REWRITE模块(隐藏index.php),如:<br/>http://www.xyhcms.com/List/index/id/1/</div>
 								<label class="radio-inline"><input type="radio" name="config[HOME_URL_MODEL]" value="3" <if condition="$vo['HOME_URL_MODEL'] eq 3">checked="checked"</if>>兼容模式</label>
-								<div>兼容模式：http://www.xyhcms.com/index.php?s=/List/index/id/1</div> 
+								<div>兼容模式:http://www.xyhcms.com/index.php?s=/List/index/id/1</div>
 							</div>
 						</div>	
 						<div class="form-group">
 							<label for="" class="col-sm-2 control-label">参数分割符</label>
 							<div class="col-sm-9">
 								<input type="text" name="config[HOME_URL_PATHINFO_DEPR]" value="{$vo.HOME_URL_PATHINFO_DEPR}" class="form-control" />
-								<div>针对PATHINFO模式,默认为"/",如改为"-"：http://www.xyhcms.com/index.php/List-index-id-1</div> 
+								<div>针对PATHINFO模式,默认为"/",如改为"-":http://www.xyhcms.com/index.php/List-index-id-1</div>
 							</div>
 						</div>	
 

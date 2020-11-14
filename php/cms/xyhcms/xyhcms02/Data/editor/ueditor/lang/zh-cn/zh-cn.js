@@ -259,14 +259,14 @@ UE.I18N['zh-cn'] = {
             'lang_tab_upload':"本地上传",
             'lang_tab_online':"在线管理",
             'lang_tab_search':"图片搜索",
-            'lang_input_url':"地 址：",
-            'lang_input_size':"大 小：",
+            'lang_input_url':"地 址:",
+            'lang_input_size':"大 小:",
             'lang_input_width':"宽度",
             'lang_input_height':"高度",
-            'lang_input_border':"边 框：",
-            'lang_input_vhspace':"边 距：",
-            'lang_input_title':"描 述：",
-            'lang_input_align':'图片浮动方式：',
+            'lang_input_border':"边 框:",
+            'lang_input_vhspace':"边 距:",
+            'lang_input_title':"描 述:",
+            'lang_input_align':'图片浮动方式:',
             'lang_imgLoading':"　图片加载中……",
             'lang_start_upload':"开始上传",
             'lock':{'title':"锁定宽高比例"}, //属性
@@ -303,7 +303,7 @@ UE.I18N['zh-cn'] = {
         'errorHttp':'http请求错误',
         'errorServerUpload':'服务器返回出错',
         'remoteLockError':"宽高不正确,不能所定比例",
-        'numError':"请输入正确的长度或者宽度值！例如：123，400",
+        'numError':"请输入正确的长度或者宽度值！例如:123，400",
         'imageUrlError':"不允许的图片格式或者图片域！",
         'imageLoadError':"图片加载失败！请检查链接地址或网络状态！",
         'searchRemind':"请输入搜索关键词",
@@ -475,28 +475,28 @@ UE.I18N['zh-cn'] = {
     },
     'anchor':{
         'static':{
-            'lang_input_anchorName':'锚点名字：'
+            'lang_input_anchorName':'锚点名字:'
         }
     },
     'charts':{
         'static':{
-            'lang_data_source':'数据源：',
-            'lang_chart_format': '图表格式：',
+            'lang_data_source':'数据源:',
+            'lang_chart_format': '图表格式:',
             'lang_data_align': '数据对齐方式',
             'lang_chart_align_same': '数据源与图表X轴Y轴一致',
             'lang_chart_align_reverse': '数据源与图表X轴Y轴相反',
             'lang_chart_title': '图表标题',
-            'lang_chart_main_title': '主标题：',
-            'lang_chart_sub_title': '子标题：',
-            'lang_chart_x_title': 'X轴标题：',
-            'lang_chart_y_title': 'Y轴标题：',
+            'lang_chart_main_title': '主标题:',
+            'lang_chart_sub_title': '子标题:',
+            'lang_chart_x_title': 'X轴标题:',
+            'lang_chart_y_title': 'Y轴标题:',
             'lang_chart_tip': '提示文字',
-            'lang_cahrt_tip_prefix': '提示文字前缀：',
+            'lang_cahrt_tip_prefix': '提示文字前缀:',
             'lang_cahrt_tip_description': '仅饼图有效， 当鼠标移动到饼图中相应的块上时，提示框内的文字的前缀',
             'lang_chart_data_unit': '数据单位',
-            'lang_chart_data_unit_title': '单位：',
-            'lang_chart_data_unit_description': '显示在每个数据点上的数据的单位， 比如： 温度的单位 ℃',
-            'lang_chart_type': '图表类型：',
+            'lang_chart_data_unit_title': '单位:',
+            'lang_chart_data_unit_description': '显示在每个数据点上的数据的单位， 比如: 温度的单位 ℃',
+            'lang_chart_type': '图表类型:',
             'lang_prev_btn': '上一个',
             'lang_next_btn': '下一个'
         }
@@ -542,22 +542,22 @@ UE.I18N['zh-cn'] = {
     },
     'insertframe':{
         'static':{
-            'lang_input_address':'地址：',
-            'lang_input_width':'宽度：',
-            'lang_input_height':'高度：',
-            'lang_input_isScroll':'允许滚动条：',
-            'lang_input_frameborder':'显示框架边框：',
-            'lang_input_alignMode':'对齐方式：',
+            'lang_input_address':'地址:',
+            'lang_input_width':'宽度:',
+            'lang_input_height':'高度:',
+            'lang_input_isScroll':'允许滚动条:',
+            'lang_input_frameborder':'显示框架边框:',
+            'lang_input_alignMode':'对齐方式:',
             'align':{title:"对齐方式", options:["默认", "左对齐", "右对齐", "居中"]}
         },
         'enterAddress':'请输入地址!'
     },
     'link':{
         'static':{
-            'lang_input_text':'文本内容：',
-            'lang_input_url':'链接地址：',
-            'lang_input_title':'标题：',
-            'lang_input_target':'是否在新窗口打开：'
+            'lang_input_text':'文本内容:',
+            'lang_input_url':'链接地址:',
+            'lang_input_title':'标题:',
+            'lang_input_target':'是否在新窗口打开:'
         },
         'validLink':'只支持选中一个链接时生效',
         'httpPrompt':'您输入的超链接中不包含http等协议名称，默认将为您添加http://前缀'

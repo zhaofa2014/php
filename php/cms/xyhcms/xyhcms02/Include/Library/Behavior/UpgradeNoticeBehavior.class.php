@@ -10,8 +10,8 @@ namespace Behavior;
 /**
  * 升级短信通知， 如果有ThinkPHP新版升级，或者重要的更新，会发送短信通知你。
  * 需要使用SAE的短信服务。请先找一个SAE的应用开通短信服务。
- * 使用步骤如下：
- * 1，在项目的Conf目录下建立tags.php配置文件，内容如下：
+ * 使用步骤如下:
+ * 1，在项目的Conf目录下建立tags.php配置文件，内容如下:
  * <code>
  * <?php
  * return array(
@@ -20,8 +20,8 @@ namespace Behavior;
  * </code>
  *
  * 2，将此文件放在应用的Lib/Behavior文件夹下。
- *注：在SAE上面使用时，以上两步可以省略 
- * 3，在config.php中配置：
+ *注:在SAE上面使用时，以上两步可以省略 
+ * 3，在config.php中配置:
  *  'UPGRADE_NOTICE_ON'=>true,//开启短信升级提醒功能 
  * 'UPGRADE_NOTICE_AKEY'=>'your akey',//SAE应用的AKEY，如果在SAE上使用可以不填
  * 'UPGRADE_NOTICE_SKEY'=>'your skey',//SAE应用的SKEY，如果在SAE上使用可以不填
@@ -45,7 +45,7 @@ class UpgradeNoticeBehavior {
                 $queue=new SaeTaskQueue(C('UPGRADE_NOTICE_QUEUE'));
                 $queue->addTask('http://'.$_SERVER['HTTP_HOST'].__APP__,'think_upgrade_queque=1');
                 if(!$queue->push()){
-                    trace('升级提醒队列执行失败,错误原因：'.$queue->errmsg(), '升级通知出错', 'NOTIC', true);
+                    trace('升级提醒队列执行失败,错误原因:'.$queue->errmsg(), '升级通知出错', 'NOTIC', true);
                 }
                 return ;
             }

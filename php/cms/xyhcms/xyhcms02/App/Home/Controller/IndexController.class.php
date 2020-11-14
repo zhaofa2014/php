@@ -26,7 +26,7 @@
 namespace Home\Controller;
 
 class IndexController extends HomeCommonController {
-	//方法：index
+	//方法:index
 	Public function index() {
 
 		go_mobile();

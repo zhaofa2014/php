@@ -10,8 +10,9 @@
 // +----------------------------------------------------------------------
 namespace Behavior;
 use Think\Storage;
+
 /**
- * 系统行为扩展：静态缓存读取
+ * 系统行为扩展:静态缓存读取
  */
 class ReadHtmlCacheBehavior {
     // 行为扩展的执行入口必须是run

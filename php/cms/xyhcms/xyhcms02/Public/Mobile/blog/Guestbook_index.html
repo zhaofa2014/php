@@ -21,7 +21,7 @@ function changeVcode(obj){
 <div id="body_margins">
 <include file="Public:header" />
 
-<div class="position">位置：<yang:position ismobile='1' /></div>
+<div class="position">位置:<yang:position ismobile='1' /></div>
 
 
 <dl class="box">
@@ -37,7 +37,7 @@ function changeVcode(obj){
       <li class="li_inputbox"><input type="text" name="email" class="li_input" placeholder="Email" /></li>
       <li class="li_inputbox"><input type="text" name="qq" class="li_input" placeholder="QQ" /></li>      
       <li class="li_inputbox">
-        <textarea name="content" cols="100%" class="li_input" style="width:100%;font-size:100%;" placeholder="留言："></textarea>
+        <textarea name="content" cols="100%" class="li_input" style="width:100%;font-size:100%;" placeholder="留言:"></textarea>
       </li>
       <if condition="C('CFG_VERIFY_GUESTBOOK') eq 1">      
       <li class="li_inputbox"><input type="text" name="vcode" class="li_input" placeholder="验证码" /></li>

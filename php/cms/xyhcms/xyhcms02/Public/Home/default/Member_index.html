@@ -30,17 +30,17 @@
 	<form method='post' id="form_do" name="form_do" action="">
 		<div class="personInfo line200">{:get_cookie('nickname')}，你好！<br/>
 		<a href="{:U('Member/name')}" class="btn_blue">修改昵称</a>	<br/>
-		会员级别：{$user.groupname}
+		会员级别:{$user.groupname}
 		</div>
 		
 		<div class="h3">基本信息</div>
 		<ul class="personInfo">
 
-                <li>邮箱：{:get_cookie('email')}</li>
-                <li>姓名：{$user.detail.realname}</li>
-                <li>生日：{$user.detail.birthday}</li>
-                <li>性别：{$user.detail.sex}</li>
-                <li>生肖：{$user.detail.animal}</li>
+                <li>邮箱:{:get_cookie('email')}</li>
+                <li>姓名:{$user.detail.realname}</li>
+                <li>生日:{$user.detail.birthday}</li>
+                <li>性别:{$user.detail.sex}</li>
+                <li>生肖:{$user.detail.animal}</li>
    		</ul>
    		<if condition="C('CFG_MEMBER_VERIFYEMAIL') eq 1">
 		<div class="h3">邮箱激活状态</div>

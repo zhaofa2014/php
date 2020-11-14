@@ -9,9 +9,8 @@
 // | Author: liu21st <liu21st@gmail.com>
 // +----------------------------------------------------------------------
 namespace Behavior;
-use Think\Log;
 /**
- * 系统行为扩展：页面Trace显示输出
+ * 系统行为扩展:页面Trace显示输出
  */
 class ShowPageTraceBehavior {
     protected $tracePageTabs =  array('BASE'=>'基本','FILE'=>'文件','INFO'=>'流程','ERR|NOTIC'=>'错误','SQL'=>'SQL','DEBUG'=>'调试');

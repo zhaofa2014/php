@@ -25,18 +25,18 @@
 					<form method='post' id="form_do" name="form_do" action="{:U('Member/person')}">		
 						<div class="h3">基本资料</div>
 						<dl>
-							<dt>邮箱：</dt>
+							<dt>邮箱:</dt>
 							<dd>{$vo.email}</dd>
 						</dl>
 						<dl>
-							<dt>姓名：</dt>
+							<dt>姓名:</dt>
 							<dd>
 								<input type="text" name="realname" id="realname" value="{$vo.realname}" class="inp_one" />
 							</dd>
 						</dl>
 
 						<dl>
-							<dt>性别：</dt>
+							<dt>性别:</dt>
 							<dd>
 								<select name="sex">
 									<option value="0" <if condition="$vo.sex eq 0">selected="selected"</if>>&nbsp;男&nbsp;</option>
@@ -46,34 +46,34 @@
 						</dl>
 
 						<dl>
-							<dt>出生年月：</dt>
+							<dt>出生年月:</dt>
 							<dd>
 								<input type="text" name="birthday" id="birthday" value="{$vo.birthday}" />
 							</dd>
 						</dl>
 
 						<dl>
-							<dt>联系地址：</dt>
+							<dt>联系地址:</dt>
 							<dd>
 								<input type="text" name="address" id="address" value="{$vo.address}" />
 							</dd>
 						</dl>
 
 						<dl>
-							<dt>联系电话：</dt>
+							<dt>联系电话:</dt>
 							<dd>
 								<input type="text" name="tel" id="tel" value="{$vo.tel}" />
 							</dd>
 						</dl>
 						<dl>
-							<dt>手机：</dt>
+							<dt>手机:</dt>
 							<dd>
 								<input type="text" name="mobile" id="mobile" value="{$vo.mobile}" />
 							</dd>
 						</dl>
 
 						<dl>
-							<dt>QQ：</dt>
+							<dt>QQ:</dt>
 							<dd>
 								<input type="text" name="qq" id="qq" value="{$vo.qq}" />
 							</dd>

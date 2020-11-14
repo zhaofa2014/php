@@ -10,7 +10,7 @@
             <nav class="navbar navbar-default">
                 <div class="container-fluid">
                     <div class="navbar-header">
-                        <span class="navbar-text">分组：</span>
+                        <span class="navbar-text">分组:</span>
                         <a href="{:U('index',array('group_id'=> 0))}" <if condition="$group_id eq 0">class="btn btn-sm btn-success navbar-btn"<else/>class="btn btn-sm btn-default navbar-btn"</if>>全部</a>
                         <foreach name='configgroup' item='v'>
                         <a href="{:U('index',array('group_id'=> $key))}" <if condition="$key eq $group_id">class="btn btn-sm btn-success navbar-btn"<else/>class="btn btn-sm btn-default navbar-btn"</if>>{$v}</a>&nbsp;

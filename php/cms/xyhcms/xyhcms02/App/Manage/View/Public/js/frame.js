@@ -158,7 +158,7 @@ $(function(){
 
       })
       .fail(function(jqXHR, textStatus, errorThrown) {
-          console.log("error："+textStatus);
+          console.log("error:"+textStatus);
           setTimeout(function(){getStatus();},180000);
       });
     }

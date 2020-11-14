@@ -409,7 +409,7 @@
             return (((1 + Math.random()) * 0x10000) | 0).toString(16).substring(1);
         }
 
-        //js获取项目根路径，如： http://localhost:8083/app
+        //js获取项目根路径，如: http://localhost:8083/app
         function getJsPath(){
             var js = document.scripts || document.getElementsByTagName("script");
             var jsPath;

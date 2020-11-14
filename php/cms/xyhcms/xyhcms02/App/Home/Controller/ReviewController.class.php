@@ -25,7 +25,7 @@
 namespace Home\Controller;
 
 class ReviewController extends HomeCommonController {
-	//方法：index
+	//方法:index
 	Public function index() {
 
 	}

@@ -20,7 +20,7 @@
             <nav class="navbar navbar-default">
                 <div class="container-fluid">
                     <div class="navbar-header">
-                        <span class="navbar-text">子栏目：</span>
+                        <span class="navbar-text">子栏目:</span>
                         <foreach name='subcate' item='v'>
                             <a href="{:U(''. ucfirst($v['table_name']) . '/index', array('pid' => $v['id']))}" class="btn btn-sm btn-default navbar-btn">{$v.name}<notempty name="v['child']">&there4;</notempty></a>
                         </foreach>

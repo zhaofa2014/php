@@ -493,7 +493,7 @@ UE.I18N['en'] = {
             'lang_cahrt_tip_description': '仅饼图有效， 当鼠标移动到饼图中相应的块上时，提示框内的文字的前缀',
             'lang_chart_data_unit': 'Unit',
             'lang_chart_data_unit_title': 'unit:',
-            'lang_chart_data_unit_description': '显示在每个数据点上的数据的单位， 比如： 温度的单位 ℃',
+            'lang_chart_data_unit_description': '显示在每个数据点上的数据的单位， 比如: 温度的单位 ℃',
             'lang_chart_type': 'Chart type:',
             'lang_prev_btn': 'Previous',
             'lang_next_btn': 'Next'
@@ -540,22 +540,22 @@ UE.I18N['en'] = {
     },
     insertframe:{
         'static':{
-            'lang_input_address':'Address：',
-            'lang_input_width':'Width：',
-            'lang_input_height':'height：',
-            'lang_input_isScroll':'Enable scrollbars：',
-            'lang_input_frameborder':'Show frame border：',
-            'lang_input_alignMode':'Alignment：',
+            'lang_input_address':'Address:',
+            'lang_input_width':'Width:',
+            'lang_input_height':'height:',
+            'lang_input_isScroll':'Enable scrollbars:',
+            'lang_input_frameborder':'Show frame border:',
+            'lang_input_alignMode':'Alignment:',
             'align':{title:"Alignment", options:["Default", "Left", "Right", "Center"]}
         },
         'enterAddress':'Please enter an address!'
     },
     link:{
         'static':{
-            'lang_input_text':'Text：',
-            'lang_input_url':'URL：',
-            'lang_input_title':'Title：',
-            'lang_input_target':'open in new window：'
+            'lang_input_text':'Text:',
+            'lang_input_url':'URL:',
+            'lang_input_title':'Title:',
+            'lang_input_target':'open in new window:'
         },
         'validLink':'Supports only effective when a link is selected',
         'httpPrompt':'The hyperlink you enter should start with "http|https|ftp://"!'

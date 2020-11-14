@@ -10,7 +10,7 @@
 // +----------------------------------------------------------------------
 namespace Behavior;
 /**
- * 行为扩展：代理检测
+ * 行为扩展:代理检测
  */
 class AgentCheckBehavior {
     Public function run(&$params) {

@@ -1,8 +1,5 @@
 <?php
 namespace Think\Upload\Driver\Bcs;
-use Think\Upload\Driver\Bcs\BCS_MimeTypes;
-use Think\Upload\Driver\Bcs\BCS_RequestCore;
-use Think\Upload\Driver\Bcs\BCS_ResponseCore;
 
 if (! defined ( 'BCS_API_PATH' )) {
 	define ( 'BCS_API_PATH', dirname ( __FILE__ ) );
@@ -383,7 +380,7 @@ class BaiduBCS {
 	 * @param $dir (Required)
 	 * 目录名，格式为必须以'/'开头和结尾，默认为'/'
 	 * @param string $list_model (Required)
-	 * 目录展现形式，值可以为0,1,2，默认为2，以下对各个值的功能进行介绍：
+	 * 目录展现形式，值可以为0,1,2，默认为2，以下对各个值的功能进行介绍:
 	 * 0->只返回object列表，不返回子目录列表
 	 * 1->只返回子目录列表，不返回object列表
 	 * 2->同时返回子目录列表和object列表
@@ -575,12 +572,12 @@ class BaiduBCS {
 	}
 
 	/**
-	 * 将目录中的所有文件进行上传，每个文件为单独object，object命名方式下详：
+	 * 将目录中的所有文件进行上传，每个文件为单独object，object命名方式下详:
 	 * 如有 /home/worker/a/b/c.txt  需上传目录为$dir=/home/worker/a
 	 * object命令方式为
 	 * 1. object默认命名方式为 “子目录名 +文件名”，如上述文件c.txt，默认为 '/b/c.txt'
 	 * 2. 增强命名模式，在$opt中有可选参数进行配置
-	 * 举例说明 ：prefix . has_sub_directory?"/b":"" . '/c.txt'
+	 * 举例说明 :prefix . has_sub_directory?"/b":"" . '/c.txt'
 	 * @param string $bucket (Required)
 	 * @param string $dir (Required)
 	 * @param array $opt(Optional)
@@ -775,7 +772,7 @@ class BaiduBCS {
 	 * @param string $bucket (Required)
 	 * @param string $object (Required)
 	 * @param array $opt (Optional)
-	 * 目前支持的meta信息如下：
+	 * 目前支持的meta信息如下:
 	 * Content-Type
 	 * Cache-Control
 	 * Content-Disposition
@@ -879,8 +876,8 @@ class BaiduBCS {
 	 * @param array $opt (Optional)
 	 * @throws BCS_Exception
 	 * @return boolean true|boolean false|BCS_ResponseCore
-	 * true：object存在
-	 * false：不存在
+	 * true:object存在
+	 * false:不存在
 	 * BCS_ResponseCore其他错误
 	 */
 	Public function is_object_exist($bucket, $object, $opt = array()) {

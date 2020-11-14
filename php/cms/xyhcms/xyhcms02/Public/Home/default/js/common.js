@@ -165,7 +165,7 @@ function AjaxOnSubmit(form_id, btn_id, send_url) {
 
     //表单提交出错
     function formError(XMLHttpRequest, textStatus, errorThrown) {
-        alert("状态：" + textStatus + "；出错提示：" + errorThrown);
+        alert("状态:" + textStatus + "；出错提示:" + errorThrown);
         $("#" + btn_id).attr("disabled", "");
         $("#" + btn_id).val("再次提交");
     }

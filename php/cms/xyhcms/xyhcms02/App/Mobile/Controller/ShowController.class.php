@@ -25,7 +25,7 @@
 namespace Mobile\Controller;
 
 class ShowController extends MobileCommonController {
-	//方法：index
+	//方法:index
 	Public function index() {
 		A('Home/Show')->index();
 

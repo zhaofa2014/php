@@ -44,8 +44,8 @@
                             <td>{$v.id}</td>
                             <td><if condition="$v['username'] eq ''">{$v.email}<else/>{$v.username}</if></td>
                             <td class="aleft line160">
-                                <p>内容：{$v.content}</p>
-                                文档：{$v.title}[ID:{$v.post_id}]</td>
+                                <p>内容:{$v.content}</p>
+                                文档:{$v.title}[ID:{$v.post_id}]</td>
                             <td>{$v.model_name}</if></td>
                             <td class="">
                                 <notempty name="v['status']"><span class="label label-info">已审核</span><else /><span class="label label-default">未审核</span></notempty>

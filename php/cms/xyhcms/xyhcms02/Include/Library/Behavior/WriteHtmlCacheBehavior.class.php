@@ -10,8 +10,9 @@
 // +----------------------------------------------------------------------
 namespace Behavior;
 use Think\Storage;
+
 /**
- * 系统行为扩展：静态缓存写入
+ * 系统行为扩展:静态缓存写入
  */
 class WriteHtmlCacheBehavior {
 

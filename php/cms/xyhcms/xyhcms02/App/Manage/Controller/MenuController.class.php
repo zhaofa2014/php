@@ -182,7 +182,7 @@ class MenuController extends CommonController
         //查询是否有子类
         $childCate = M('menu')->where(array('pid' => $id))->select();
         if ($childCate) {
-            $this->error('删除失败：请先删除本菜单下的子菜单');
+            $this->error('删除失败:请先删除本菜单下的子菜单');
         }
         if (M('menu')->delete($id)) {
 

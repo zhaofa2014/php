@@ -512,7 +512,7 @@ function M($name='', $tablePrefix='',$connection='') {
 /**
  * 解析资源地址并导入类库文件
  * 例如 module/controller addon://module/behavior
- * @param string $name 资源地址 格式：[扩展://][模块/]资源名
+ * @param string $name 资源地址 格式:[扩展://][模块/]资源名
  * @param string $layer 分层名称
  * @return string
  */
@@ -540,7 +540,7 @@ function parse_res_name($name,$layer,$level=1){
 }
 
 /**
- * A函数用于实例化控制器 格式：[资源://][模块/]控制器
+ * A函数用于实例化控制器 格式:[资源://][模块/]控制器
  * @param string $name 资源地址
  * @param string $layer 控制层名称
  * @param integer $level 控制器层次

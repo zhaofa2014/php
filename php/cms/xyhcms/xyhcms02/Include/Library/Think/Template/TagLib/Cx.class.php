@@ -10,6 +10,7 @@
 // +----------------------------------------------------------------------
 namespace Think\Template\TagLib;
 use Think\Template\TagLib;
+
 /**
  * CX标签库解析类
  */
@@ -17,7 +18,7 @@ class Cx extends TagLib {
 
     // 标签定义
     protected $tags   =  array(
-        // 标签定义： attr 属性列表 close 是否闭合（0 或者1 默认1） alias 标签别名 level 嵌套层次
+        // 标签定义: attr 属性列表 close 是否闭合（0 或者1 默认1） alias 标签别名 level 嵌套层次
         'php'       =>  array(),
         'volist'    =>  array('attr'=>'name,id,offset,length,key,mod','level'=>3,'alias'=>'iterate'),
         'foreach'   =>  array('attr'=>'name,item,key','level'=>3),
@@ -55,7 +56,7 @@ class Cx extends TagLib {
 
     /**
      * volist标签解析 循环输出数据集
-     * 格式：
+     * 格式:
      * <volist name="userList" id="user" empty="" >
      * {user.username}
      * {user.email}
@@ -125,7 +126,7 @@ class Cx extends TagLib {
 
     /**
      * if标签解析
-     * 格式：
+     * 格式:
      * <if condition=" $a eq 1" >
      * <elseif condition="$a eq 2" />
      * <else />
@@ -144,7 +145,7 @@ class Cx extends TagLib {
 
     /**
      * else标签解析
-     * 格式：见if标签
+     * 格式:见if标签
      * @access Public
      * @param array $tag 标签属性
      * @param string $content  标签内容
@@ -169,7 +170,7 @@ class Cx extends TagLib {
 
     /**
      * switch标签解析
-     * 格式：
+     * 格式:
      * <switch name="a.name" >
      * <case value="1" break="false">1</case>
      * <case value="2" >2</case>
@@ -226,7 +227,7 @@ class Cx extends TagLib {
 
     /**
      * default标签解析 需要配合switch才有效
-     * 使用： <default />ddfdf
+     * 使用: <default />ddfdf
      * @access Public
      * @param array $tag 标签属性
      * @param string $content  标签内容
@@ -240,7 +241,7 @@ class Cx extends TagLib {
     /**
      * compare标签解析
      * 用于值的比较 支持 eq neq gt lt egt elt heq nheq 默认是eq
-     * 格式： <compare name="" type="eq" value="" >content</compare>
+     * 格式: <compare name="" type="eq" value="" >content</compare>
      * @access Public
      * @param array $tag 标签属性
      * @param string $content  标签内容
@@ -308,7 +309,7 @@ class Cx extends TagLib {
     /**
      * range标签解析
      * 如果某个变量存在于某个范围 则输出内容 type= in 表示在范围内 否则表示在范围外
-     * 格式： <range name="var|function"  value="val" type='in|notin' >content</range>
+     * 格式: <range name="var|function"  value="val" type='in|notin' >content</range>
      * example: <range name="a"  value="1,2,3" type='in' >content</range>
      * @access Public
      * @param array $tag 标签属性
@@ -366,7 +367,7 @@ class Cx extends TagLib {
     /**
      * present标签解析
      * 如果某个变量已经设置 则输出内容
-     * 格式： <present name="" >content</present>
+     * 格式: <present name="" >content</present>
      * @access Public
      * @param array $tag 标签属性
      * @param string $content  标签内容
@@ -382,7 +383,7 @@ class Cx extends TagLib {
     /**
      * notpresent标签解析
      * 如果某个变量没有设置，则输出内容
-     * 格式： <notpresent name="" >content</notpresent>
+     * 格式: <notpresent name="" >content</notpresent>
      * @access Public
      * @param array $tag 标签属性
      * @param string $content  标签内容
@@ -398,7 +399,7 @@ class Cx extends TagLib {
     /**
      * empty标签解析
      * 如果某个变量为empty 则输出内容
-     * 格式： <empty name="" >content</empty>
+     * 格式: <empty name="" >content</empty>
      * @access Public
      * @param array $tag 标签属性
      * @param string $content  标签内容
@@ -530,7 +531,7 @@ class Cx extends TagLib {
     /**
      * assign标签解析
      * 在模板中给某个变量赋值 支持变量赋值
-     * 格式： <assign name="" value="" />
+     * 格式: <assign name="" value="" />
      * @access Public
      * @param array $tag 标签属性
      * @param string $content  标签内容
@@ -550,7 +551,7 @@ class Cx extends TagLib {
     /**
      * define标签解析
      * 在模板中定义常量 支持变量赋值
-     * 格式： <define name="" value="" />
+     * 格式: <define name="" value="" />
      * @access Public
      * @param array $tag 标签属性
      * @param string $content  标签内容
@@ -569,7 +570,7 @@ class Cx extends TagLib {
     
     /**
      * for标签解析
-     * 格式： <for start="" end="" comparison="" step="" name="" />
+     * 格式: <for start="" end="" comparison="" step="" name="" />
      * @access Public
      * @param array $tag 标签属性
      * @param string $content  标签内容

@@ -86,7 +86,7 @@ class DatabaseController extends CommonController {
 		//表中的数据
 		foreach ($tables as $table) {
 			$backedTable[] = $table;
-			$outstr .= "\n\n# 转存表中的数据：{$table} \n";
+			$outstr .= "\n\n# 转存表中的数据:{$table} \n";
 			$tableInfo = $M->query("SHOW TABLE STATUS LIKE '{$table}'");
 			$page      = ceil($tableInfo[0]['rows'] / 10000) - 1;
 			for ($i = 0; $i <= $page; $i++) {
@@ -107,12 +107,12 @@ class DatabaseController extends CommonController {
 
 					$sqlNo = "\n# Time: " . date("Y-m-d H:i:s") . "\n" .
 						"# -----------------------------------------------------------\n" .
-						"# SQLFile Label：#{$file_n}\n# -----------------------------------------------------------\n\n\n";
+						"# SQLFile Label:#{$file_n}\n# -----------------------------------------------------------\n\n\n";
 					if ($file_n == 1) {
-						$sqlNo = "# Description:备份的数据表[结构]：" . implode(",", $tables) . "\n" .
-						"# Description:备份的数据表[数据]：" . implode(",", $backedTable) . $sqlNo;
+						$sqlNo = "# Description:备份的数据表[结构]:" . implode(",", $tables) . "\n" .
+						"# Description:备份的数据表[数据]:" . implode(",", $backedTable) . $sqlNo;
 					} else {
-						$sqlNo = "# Description:备份的数据表[数据]：" . implode(",", $backedTable) . $sqlNo;
+						$sqlNo = "# Description:备份的数据表[数据]:" . implode(",", $backedTable) . $sqlNo;
 					}
 
 					if (strlen($pre) + strlen($sqlNo) + strlen($sqlTable) + strlen($outstr) + strlen($temSql) > C("CFG_SQL_FILESIZE")) {
@@ -135,7 +135,7 @@ class DatabaseController extends CommonController {
 		if (strlen($sqlTable . $outstr) > 0) {
 			$sqlNo = "\n# Time: " . date("Y-m-d H:i:s") . "\n" .
 				"# -----------------------------------------------------------\n" .
-				"# SQLFile Label：#{$file_n}\n# -----------------------------------------------------------\n\n\n";
+				"# SQLFile Label:#{$file_n}\n# -----------------------------------------------------------\n\n\n";
 			if ($file_n == 1) {
 				$sqlNo = "# Description:备份的数据表[结构] " . implode(",", $tables) . "\n" .
 				"# Description:备份的数据表[数据] " . implode(",", $backedTable) . $sqlNo;
@@ -152,7 +152,7 @@ class DatabaseController extends CommonController {
 			$file_n++;
 		}
 		$time = time() - $time;
-		$this->success("成功备份数据表，本次备份共生成了" . ($file_n - 1) . "个SQL文件。耗时：{$time} 秒", U('Database/restore'));
+		$this->success("成功备份数据表，本次备份共生成了" . ($file_n - 1) . "个SQL文件。耗时:{$time} 秒", U('Database/restore'));
 	}
 
 	/**
@@ -275,8 +275,8 @@ class DatabaseController extends CommonController {
 						$imported                             = isset($_SESSION['cacheRestore']['imported']) ? $_SESSION['cacheRestore']['imported'] : 0;
 						$imported += $execute;
 						$_SESSION['cacheRestore']['imported'] = $imported;
-						//echo json_encode(array("status" => 1, "info" => '如果导入SQL文件卷较大(多)导入时间可能需要几分钟甚至更久，请耐心等待导入完成，导入期间请勿刷新本页，当前导入进度：<font color="red">已经导入' . $imported . '条Sql</font>', "url" => U('Database/restoreData', array(get_randomstr(5) => get_randomstr(5)))));
-						$this->success('如果SQL文件卷较大(多),则可能需要几分钟甚至更久,<br/>请耐心等待完成，<font color="red">请勿刷新本页</font>，<br/>当前导入进度：<font color="red">已经导入' . $imported . '条Sql</font>', U('Database/restoreData', array(get_randomstr(5) => get_randomstr(5))));
+						//echo json_encode(array("status" => 1, "info" => '如果导入SQL文件卷较大(多)导入时间可能需要几分钟甚至更久，请耐心等待导入完成，导入期间请勿刷新本页，当前导入进度:<font color="red">已经导入' . $imported . '条Sql</font>', "url" => U('Database/restoreData', array(get_randomstr(5) => get_randomstr(5)))));
+						$this->success('如果SQL文件卷较大(多),则可能需要几分钟甚至更久,<br/>请耐心等待完成，<font color="red">请勿刷新本页</font>，<br/>当前导入进度:<font color="red">已经导入' . $imported . '条Sql</font>', U('Database/restoreData', array(get_randomstr(5) => get_randomstr(5))));
 						exit();
 					}
 				} else {
@@ -289,7 +289,7 @@ class DatabaseController extends CommonController {
 		}
 		$time = time() - $_SESSION['cacheRestore']['start_time'];
 		unset($_SESSION['cacheRestore']);
-		$this->success("导入成功，耗时：{$time} 秒钟", U('Database/restore'));
+		$this->success("导入成功，耗时:{$time} 秒钟", U('Database/restore'));
 	}
 
 	//删除sql文件
@@ -311,7 +311,7 @@ class DatabaseController extends CommonController {
 		foreach ($files as $file) {
 			unlink($this->getDbPath() . '/' . $file);
 		}
-		$this->success("已删除：" . implode(",", $files), U('Database/restore'));
+		$this->success("已删除:" . implode(",", $files), U('Database/restore'));
 
 	}
 

@@ -59,7 +59,7 @@ class AttachmentController extends CommonController {
 			$this->error('不存在');
 		}
 		if ($vo['file_type'] != 1 || $vo['has_litpic'] != 1) {
-			$this->error('重新生成缩略图失败！原因：原文件不是图片或不包含缩略图！');
+			$this->error('重新生成缩略图失败！原因:原文件不是图片或不包含缩略图！');
 		}
 		//$_SERVER['DOCUMENT_ROOT'];//有的虚拟主机不行
 		$path_upload = C('CFG_UPLOAD_ROOTPATH');
@@ -118,7 +118,7 @@ class AttachmentController extends CommonController {
 			$this->success('重新生成缩略图成功！', U('index'));
 
 		} else {
-			$this->error('重新生成缩略图失败！文件：' . $file . ' 不存在或不是图片文件');
+			$this->error('重新生成缩略图失败！文件:' . $file . ' 不存在或不是图片文件');
 		}
 
 	}
@@ -146,7 +146,7 @@ class AttachmentController extends CommonController {
 				if (is_file($v) && file_exists($v)) {
 					$ret = @unlink($v);
 					if (!$ret) {
-						$this->error('删除文件失败！文件：' . $v);
+						$this->error('删除文件失败！文件:' . $v);
 					}
 				}
 

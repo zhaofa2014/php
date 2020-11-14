@@ -12,6 +12,7 @@
 // +----------------------------------------------------------------------
 namespace Think\Image\Driver;
 use Think\Image;
+
 class Imagick{
     /**
      * 图像资源对象
@@ -462,7 +463,7 @@ class Imagick{
         $locate = Image::IMAGE_WATER_SOUTHEAST, $offset = 0, $angle = 0){
         //资源检测
         if(empty($this->img)) E('没有可以被写入文字的图像资源');
-        if(!is_file($font)) E("不存在的字体文件：{$font}");
+        if(!is_file($font)) E("不存在的字体文件:{$font}");
 
         //获取颜色和透明度
         if(is_array($color)){

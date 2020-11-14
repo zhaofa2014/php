@@ -41,15 +41,15 @@
                             <td>{$v.id}</td>
                             <td>
                                 <p>
-                                <strong>姓名：</strong><if condition="$v['user_id']"><a href="{$v.user_id}" target="_blank">{$v.username}</a><else/>{$v.username}</if>
-                                <strong>来自：</strong>{$v.ip} <strong>电话：</strong>{$v.tel} <strong>QQ：</strong>{$v.qq}<br/>
+                                <strong>姓名:</strong><if condition="$v['user_id']"><a href="{$v.user_id}" target="_blank">{$v.username}</a><else/>{$v.username}</if>
+                                <strong>来自:</strong>{$v.ip} <strong>电话:</strong>{$v.tel} <strong>QQ:</strong>{$v.qq}<br/>
                                 </p>
                                 <p>
-                                <strong>留言：</strong>{$v.content} [{$v.post_time}]<br/>
+                                <strong>留言:</strong>{$v.content} [{$v.post_time}]<br/>
                                 </p>
                                 <notempty name="v['reply_time']">
                                 <div style="border: 1px solid #ccc; background-color: #fcffd0;padding: 5px;">
-                                <strong>回复：</strong>{$v.reply} [{$v.reply_time}]
+                                <strong>回复:</strong>{$v.reply} [{$v.reply_time}]
                                 </div>
                                 </notempty>
                              </td>               

@@ -10,13 +10,14 @@
 // +----------------------------------------------------------------------
 namespace Think\Template\TagLib;
 use Think\Template\TagLib;
+
 /**
  * Html标签库驱动
  */
 class Html extends TagLib{
     // 标签定义
     protected $tags   =  array(
-        // 标签定义： attr 属性列表 close 是否闭合（0 或者1 默认1） alias 标签别名 level 嵌套层次
+        // 标签定义: attr 属性列表 close 是否闭合（0 或者1 默认1） alias 标签别名 level 嵌套层次
         'editor'    => array('attr'=>'id,name,style,width,height,type','close'=>1),
         'select'    => array('attr'=>'name,options,values,output,multiple,id,size,first,change,selected,dblclick','close'=>0),
         'grid'      => array('attr'=>'id,pk,style,action,actionlist,show,datasource','close'=>0),
@@ -28,7 +29,7 @@ class Html extends TagLib{
 
     /**
      * editor标签解析 插入可视化编辑器
-     * 格式： <html:editor id="editor" name="remark" type="FCKeditor" style="" >{$vo.remark}</html:editor>
+     * 格式: <html:editor id="editor" name="remark" type="FCKeditor" style="" >{$vo.remark}</html:editor>
      * @access Public
      * @param array $tag 标签属性
      * @return string|void
@@ -69,7 +70,7 @@ class Html extends TagLib{
 
     /**
      * imageBtn标签解析
-     * 格式： <html:imageBtn type="" value="" />
+     * 格式: <html:imageBtn type="" value="" />
      * @access Public
      * @param array $tag 标签属性
      * @return string|void
@@ -93,7 +94,7 @@ class Html extends TagLib{
 
     /**
      * imageLink标签解析
-     * 格式： <html:imageLink type="" value="" />
+     * 格式: <html:imageLink type="" value="" />
      * @access Public
      * @param array $tag 标签属性
      * @return string|void
@@ -115,7 +116,7 @@ class Html extends TagLib{
 
     /**
      * select标签解析
-     * 格式： <html:select options="name" selected="value" />
+     * 格式: <html:select options="name" selected="value" />
      * @access Public
      * @param array $tag 标签属性
      * @return string|void
@@ -171,7 +172,7 @@ class Html extends TagLib{
 
     /**
      * checkbox标签解析
-     * 格式： <html:checkbox checkboxes="" checked="" />
+     * 格式: <html:checkbox checkboxes="" checked="" />
      * @access Public
      * @param array $tag 标签属性
      * @return string|void
@@ -196,7 +197,7 @@ class Html extends TagLib{
 
     /**
      * radio标签解析
-     * 格式： <html:radio radios="name" checked="value" />
+     * 格式: <html:radio radios="name" checked="value" />
      * @access Public
      * @param array $tag 标签属性
      * @return string|void
@@ -222,7 +223,7 @@ class Html extends TagLib{
 
     /**
      * list标签解析
-     * 格式： <html:grid datasource="" show="vo" />
+     * 格式: <html:grid datasource="" show="vo" />
      * @access Public
      * @param array $tag 标签属性
      * @return string
@@ -361,7 +362,7 @@ class Html extends TagLib{
 
     /**
      * list标签解析
-     * 格式： <html:list datasource="" show="" />
+     * 格式: <html:list datasource="" show="" />
      * @access Public
      * @param array $tag 标签属性
      * @return string

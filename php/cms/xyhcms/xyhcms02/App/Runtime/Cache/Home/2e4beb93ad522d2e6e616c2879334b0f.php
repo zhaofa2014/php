@@ -393,7 +393,7 @@
             </div>
             <script type="text/javascript">
                 $(document).ready(function () {
-                    //创建和初始化地图函数：
+                    //创建和初始化地图函数:
                     function initMap() {
                         createMap();//创建地图
                         setMapEvent();//设置地图事件
@@ -450,16 +450,16 @@
     <div class="Contact pr">
         <div class="row">
             <div class="tact_l col-md-6 col-sm-12 col-xs-12">
-                <div class="compy">地址：
+                <div class="compy">地址:
                     昆明北京路
                     <br>
-                    电话：
+                    电话:
                     0871-66666
                     <br>
-                    手机：
+                    手机:
                     0871-66666
                     <br>
-                    邮箱：
+                    邮箱:
                 </div>
                 <div class="shares"><a
                         href="javascript:(function(){window.open('http://v.t.sina.com.cn/share/share.php?title='+encodeURIComponent(document.title)+'&url='+encodeURIComponent(location.href)+'&source=bookmark','_blank','width=450,height=400');})()"
@@ -490,9 +490,9 @@
                     <input type="hidden" name="do" value="2"/>
                     <span class="input fl">姓名:
               <input name="username" type="text" placeholder="" required="required">
-              </span> <span class="input fr">邮箱：
+              </span> <span class="input fr">邮箱:
               <input id="email" name="email" type="text" placeholder="" required="required">
-              </span> <span class="input2">内容：
+              </span> <span class="input2">内容:
               <input name="content" type="text" placeholder="" required="required">
               </span>
                     <input type="submit" class="btn transition" value="提交" onclick=" return checkemail();">
@@ -507,13 +507,13 @@
   <div class="container">
     <div class="row">
       <div class="foot col-md-12 col-sm-12 col-xs-12 tc">
-        <div class="link hidden-xs">友情链接：
+        <div class="link hidden-xs">友情链接:
 			<?php
  $_type = intval('-1'); if ($_type == 0) { $where = array('is_check'=> 0); }else if ($_type == 1) { $where = array('is_check'=> 1); } else { $where = array('id' => array('gt',0)); } if (0 > 0) { $count = M('link')->where($where)->count(); $thisPage = new \Common\Lib\Page($count, 0); $thisPage->rollPage = 5; $thisPage->setConfig('theme'," %FIRST% %UP_PAGE% %LINK_PAGE% %DOWN_PAGE% %END%"); $limit = $thisPage->firstRow. ',' .$thisPage->listRows; $page = $thisPage->show(); }else { $limit = "10"; } $_flink = M('link')->where($where)->order("sort ASC")->limit($limit)->select(); if (empty($_flink)) { $_flink = array(); } foreach($_flink as $autoindex => $flink): ?><a href="<?php echo ($flink["url"]); ?>" target="_blank">
                     <?php echo ($flink["name"]); ?>
                 </a><?php endforeach;?> 
 		  </div>
-        <div class="copy">  6666666666666666666    备案号：666666666666666666 <br>
+        <div class="copy">  6666666666666666666    备案号:666666666666666666 <br>
         </div>
         <div id="back_top" class="n_top hidden-xs"><img src="/Public/Home/default/images/top.png"></div>
       </div>

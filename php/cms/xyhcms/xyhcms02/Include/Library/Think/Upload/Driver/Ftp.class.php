@@ -145,10 +145,10 @@ class Ftp {
             if (ftp_login($this->link, $username, $password)) {
                return true;
             } else {
-                $this->error = "无法登录到FTP服务器：username - {$username}";
+                $this->error = "无法登录到FTP服务器:username - {$username}";
             }
         } else {
-            $this->error = "无法连接到FTP服务器：{$host}";
+            $this->error = "无法连接到FTP服务器:{$host}";
         }
         return false;
     }

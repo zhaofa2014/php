@@ -247,7 +247,7 @@ class PublicController extends MobileCommonController {
 
 			$subject = "[{$webname}]请激活你的帐号，完成注册";
 			$message = <<<str
-<p>您于 {$regtime} 注册{$webname}帐号 <a href="mailto:{$email}">{$email}</a> ，点击以下链接，即可激活该帐号：</p>
+<p>您于 {$regtime} 注册{$webname}帐号 <a href="mailto:{$email}">{$email}</a> ，点击以下链接，即可激活该帐号:</p>
 <p><a href="{$url}" target="_blank">{$url}</a></p>
 <p>(如果您无法点击此链接，请将它复制到浏览器地址栏后访问)</p>
 <p>为了保障您帐号的安全性，请在 48小时内完成激活，此链接将在您激活过一次后失效！</p>
@@ -319,7 +319,7 @@ str;
 
 		$subject = "[{$webname}]会员邮件验证通知，完成激活";
 		$message = <<<str
-<p>您于 {$regtime} 注册{$webname}帐号 <a href="mailto:{$email}">{$email}</a> ，点击以下链接，即可激活该帐号：</p>
+<p>您于 {$regtime} 注册{$webname}帐号 <a href="mailto:{$email}">{$email}</a> ，点击以下链接，即可激活该帐号:</p>
 <p><a href="{$url}" target="_blank">{$url}</a></p>
 <p>(如果您无法点击此链接，请将它复制到浏览器地址栏后访问)</p>
 <p>为了保障您帐号的安全性，请在 48小时内完成激活，此链接将在您激活过一次后失效！</p>
@@ -429,7 +429,7 @@ str;
 
 		$subject = "[{$webname}]会员注册验证码";
 		$message = <<<str
-<p>您本次申请的验证码为：{$data['code']}</p>
+<p>您本次申请的验证码为:{$data['code']}</p>
 <p> </p>
 <p>1、为了保障您的安全，请不要将以上验证码告诉任何人，本站工作人员不会向您索取验证码。</p>
 <p>2、如果本次验证码并非您本人申请，请忽略本邮件。。</p>
@@ -582,7 +582,7 @@ str;
 			$str .= 'document.write(\'<dd class="title">热线电话</dd>\');';
 			$str .= 'document.write(\'<dd>\');';
 			foreach ($phone as $k => $_phone):
-				$str .= 'document.write(\'<span class="xyh-online-item"><em class="xyh-online-ico-tel">&nbsp;</em><a href="tel:' . $_phone . '">' . (empty($k) ? '' : $k . '：') . $_phone . '</a></span>\');';
+				$str .= 'document.write(\'<span class="xyh-online-item"><em class="xyh-online-ico-tel">&nbsp;</em><a href="tel:' . $_phone . '">' . (empty($k) ? '' : $k . ':') . $_phone . '</a></span>\');';
 			endforeach;
 			$str .= 'document.write(\'</dd>\');';
 

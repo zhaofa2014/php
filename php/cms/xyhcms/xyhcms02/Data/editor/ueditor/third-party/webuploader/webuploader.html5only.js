@@ -169,9 +169,9 @@
      * Web Uploader内部类的详细说明，以下提及的功能类，都可以在`WebUploader`这个变量中访问到。
      *
      * As you know, Web Uploader的每个文件都是用过[AMD](https://github.com/amdjs/amdjs-api/wiki/AMD)规范中的`define`组织起来的, 每个Module都会有个module id.
-     * 默认module id该文件的路径，而此路径将会转化成名字空间存放在WebUploader中。如：
+     * 默认module id该文件的路径，而此路径将会转化成名字空间存放在WebUploader中。如:
      *
-     * * module `base`：WebUploader.Base
+     * * module `base`:WebUploader.Base
      * * module `file`: WebUploader.File
      * * module `lib/dnd`: WebUploader.Lib.Dnd
      * * module `runtime/html5/dnd`: WebUploader.Runtime.Html5.Dnd
@@ -1739,7 +1739,7 @@
              * * `extensions` {String} 允许的文件后缀，不带点，多个用逗号分割。
              * * `mimeTypes` {String} 多个用逗号分割。
              *
-             * 如：
+             * 如:
              *
              * ```
              * {
@@ -1971,7 +1971,7 @@
              * @for Uploader
              * @description 配置生成缩略图的选项。
              *
-             * 默认为：
+             * 默认为:
              *
              * ```javascript
              * {
@@ -2017,7 +2017,7 @@
              * @for Uploader
              * @description 配置压缩的图片的选项。如果此选项为`false`, 则图片在上传前不进行压缩。
              *
-             * 默认为：
+             * 默认为:
              *
              * ```javascript
              * {
@@ -2320,7 +2320,7 @@
              * 获取文件状态
              * @return {File.Status}
              * @example
-                     文件状态具体包括以下几种类型：
+                     文件状态具体包括以下几种类型:
                      {
                          // 初始化
                         INITED:     0,
@@ -2356,7 +2356,7 @@
         Mediator.installTo( WUFile.prototype );
     
         /**
-         * 文件状态值，具体包括以下几种类型：
+         * 文件状态值，具体包括以下几种类型:
          * * `inited` 初始状态
          * * `queued` 已经进入队列, 等待上传
          * * `progress` 上传中
@@ -4650,7 +4650,7 @@
         return api;
     });
     /**
-     * 代码来自于：https://github.com/blueimp/JavaScript-Load-Image
+     * 代码来自于:https://github.com/blueimp/JavaScript-Load-Image
      * 暂时项目中只用了orientation.
      *
      * 去除了 Exif Sub IFD Pointer, GPS Info IFD Pointer, Exif Thumbnail.
@@ -5354,7 +5354,7 @@
     });
     /**
      * @fileOverview Transport
-     * @todo 支持chunked传输，优势：
+     * @todo 支持chunked传输，优势:
      * 可以将大文件分成小块，挨个传输，可以提高大文件成功率，当失败的时候，也只需要重传那小部分，
      * 而不需要重头再传一次。另外断点续传也需要用chunked方式。
      */

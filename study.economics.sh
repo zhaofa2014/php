@@ -102,4 +102,5 @@ docker volume prune
 #解压
 unzip panel.zip
 
+#进入镜像文件在宿主机操作
 cd /var/lib/docker/overlay2/bb7dd38501fc633015a5beb16dedf96ee74ee7f22678a52b471cf9c7afa43ecf/diff/www/wwwroot/study.economics

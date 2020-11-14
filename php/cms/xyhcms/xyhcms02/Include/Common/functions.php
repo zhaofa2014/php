@@ -653,7 +653,7 @@ function M($name = '', $tablePrefix = '', $connection = '') {
 /**
  * 解析资源地址并导入类库文件
  * 例如 module/controller addon://module/behavior
- * @param string $name 资源地址 格式：[扩展://][模块/]资源名
+ * @param string $name 资源地址 格式:[扩展://][模块/]资源名
  * @param string $layer 分层名称
  * @param integer $level 控制器层次
  * @return string
@@ -716,7 +716,7 @@ function controller($name, $path = '') {
 }
 
 /**
- * 实例化多层控制器 格式：[资源://][模块/]控制器
+ * 实例化多层控制器 格式:[资源://][模块/]控制器
  * @param string $name 资源地址
  * @param string $layer 控制层名称
  * @param integer $level 控制器层次
@@ -909,7 +909,7 @@ function layout($layout) {
 
 /**
  * URL组装 支持不同URL模式
- * @param string $url URL表达式，格式：'[模块/控制器/操作#锚点@域名]?参数1=值1&参数2=值2...'
+ * @param string $url URL表达式，格式:'[模块/控制器/操作#锚点@域名]?参数1=值1&参数2=值2...'
  * @param string|array $vars 传入的参数，支持数组和字符串
  * @param string|boolean $suffix 伪静态后缀，默认为true表示获取配置值
  * @param boolean $domain 是否显示域名

@@ -11,7 +11,7 @@
 namespace Think;
 /**
  * 权限认证类
- * 功能特性：
+ * 功能特性:
  * 1，是对规则进行认证，不是对节点进行认证。用户可以把节点当作规则名称实现对节点进行认证。
  *      $auth=new Auth();  $auth->check('规则名称','用户id')
  * 2，可以同时对多条规则进行认证，并设置多条规则的关系（or或者and）
@@ -27,7 +27,7 @@ namespace Think;
 /*
 -- ----------------------------
 -- think_auth_rule，规则表，
--- id:主键，name：规则唯一标识, title：规则中文名称 status 状态：为1正常，为0禁用，condition：规则表达式，为空表示存在就验证，不为空表示按照条件验证
+-- id:主键，name:规则唯一标识, title:规则中文名称 status 状态:为1正常，为0禁用，condition:规则表达式，为空表示存在就验证，不为空表示按照条件验证
 -- ----------------------------
  DROP TABLE IF EXISTS `think_auth_rule`;
 CREATE TABLE `think_auth_rule` (  
@@ -42,7 +42,7 @@ CREATE TABLE `think_auth_rule` (
 ) ENGINE=MyISAM  DEFAULT CHARSET=utf8;
 -- ----------------------------
 -- think_auth_group 用户组表， 
--- id：主键， title:用户组中文名称， rules：用户组拥有的规则id， 多个规则","隔开，status 状态：为1正常，为0禁用
+-- id:主键， title:用户组中文名称， rules:用户组拥有的规则id， 多个规则","隔开，status 状态:为1正常，为0禁用
 -- ----------------------------
  DROP TABLE IF EXISTS `think_auth_group`;
 CREATE TABLE `think_auth_group` ( 
@@ -54,7 +54,7 @@ CREATE TABLE `think_auth_group` (
 ) ENGINE=MyISAM  DEFAULT CHARSET=utf8;
 -- ----------------------------
 -- think_auth_group_access 用户组明细表
--- uid:用户id，group_id：用户组id
+-- uid:用户id，group_id:用户组id
 -- ----------------------------
 DROP TABLE IF EXISTS `think_auth_group_access`;
 CREATE TABLE `think_auth_group_access` (  

@@ -114,7 +114,7 @@ function get_category($status = 0, $update = 0) {
 		if ($status == 1) {
 			$cate_arr = D('CategoryView')->nofield('content')->where(array('category.status' => 1))->order('category.sort,category.id')->select();
 		} else if ($status == 10) {
-			//显示 status：0|1
+			//显示 status:0|1
 			$cate_arr = D('CategoryView')->nofield('content')->where(array('category.status' => array('LT', 2)))->order('category.sort,category.id')->select();
 
 		} else if ($status == 2) {
@@ -1045,7 +1045,7 @@ function get_date($date, $format = 'Y-m-d') {
 }
 
 /**
- * 功能：计算文件大小
+ * 功能:计算文件大小
  * @param int $bytes
  * @return string 转换后的字符串
  */
@@ -1064,7 +1064,7 @@ function get_byte($bytes) {
  * @param     int  $isclose  解析后是否释放资源
  * @param     int  $lang  语言
  * @return    string
- * 用法：$data['EnglishName'] = $this->get_pinyin(iconv('utf-8','gbk//ignore',$utfstr),0);
+ * 用法:$data['EnglishName'] = $this->get_pinyin(iconv('utf-8','gbk//ignore',$utfstr),0);
  */
 function get_pinyin($str, $ishead = 0, $isclose = 1, $lang = 'zh-cn') {
 	//global $pinyins;

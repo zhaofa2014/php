@@ -27,7 +27,7 @@ namespace Home\Controller;
 use Common\Lib\Category;
 
 class ShowController extends HomeCommonController {
-	//方法：index
+	//方法:index
 	Public function index() {
 		$id    = I('id', 0, 'intval');
 		$cid   = I('cid', 0, 'intval');

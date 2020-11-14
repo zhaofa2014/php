@@ -310,7 +310,7 @@ class CategoryController extends CommonController {
 		//查询是否有子类
 		$childnum = M('category')->where(array('pid' => $id))->count();
 		if ($childnum) {
-			$this->error('删除失败：请先删除本栏目下的子栏目');
+			$this->error('删除失败:请先删除本栏目下的子栏目');
 		}
 		$self = D('CategoryView')->field(array('model_id', 'table_name'))->where(array('category.id' => $id))->find();
 		if (!$self) {

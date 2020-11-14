@@ -71,13 +71,13 @@ $(function(){
     	var comment_btn = $(".comment-ft");
     	if (typeof(post_review_url)=="undefined") {
     		//alert('post_review_url 未定义');
-    		comment_btn.find("span").remove().end().append('<span class="error">js错误：post_review_url 未定义</span>');
+    		comment_btn.find("span").remove().end().append('<span class="error">js错误:post_review_url 未定义</span>');
     		return false;
     	}
 
    		if (post_review_url == '') {
    			//alert('提交网址错误');
-    		comment_btn.find("span").remove().end().append('<span class="error">js错误：post_review_url 未定义</span>');
+    		comment_btn.find("span").remove().end().append('<span class="error">js错误:post_review_url 未定义</span>');
     		return false;
     	}
         var content = $("textarea[name='content']");
@@ -164,12 +164,12 @@ $(function(){
     function get_review(){
     	if (typeof(get_review_url)=="undefined") {
     		//alert('get_review_url 未定义');    		
-    		$('.more-comment').before('<p class="error">js加载错误：get_review_url 未定义</p>');
+    		$('.more-comment').before('<p class="error">js加载错误:get_review_url 未定义</p>');
     		return false;
     	}
     	if (get_review_url == '') {
     		//alert('加载错误');
-    		$('.more-comment').before('<p class="error">js加载错误：get_review_url</p>');
+    		$('.more-comment').before('<p class="error">js加载错误:get_review_url</p>');
     		return false;
     	}
         $.get(get_review_url,

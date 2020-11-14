@@ -100,7 +100,7 @@ class Db {
 
     /**
      * DSN解析
-     * 格式： mysql://username:passwd@localhost:3306/DbName?param1=val1&param2=val2#utf8
+     * 格式: mysql://username:passwd@localhost:3306/DbName?param1=val1&param2=val2#utf8
      * @static
      * @access private
      * @param string $dsnStr

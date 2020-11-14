@@ -26,7 +26,7 @@ namespace Mobile\Controller;
 
 class ArchiveController extends MobileCommonController
 {
-    //方法：index
+    //方法:index
     Public function index()
     {
 

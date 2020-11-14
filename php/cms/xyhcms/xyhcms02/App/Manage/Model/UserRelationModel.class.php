@@ -37,7 +37,7 @@ class UserRelationModel extends RelationModel
     protected $_link = array(
         //role为角色表名
         'role' => array(
-            'mapping_type'         => MANY_TO_MANY, //关系类型：多对多
+            'mapping_type'         => MANY_TO_MANY, //关系类型:多对多
             'foreign_key'          => 'user_id', //主表在中间表中的字段名称
             'relation_foreign_key' => 'role_id', //关联表(副表)在中间表中的字段名称(外键)
             //安装的时候表前缀一定要更改//debug//不能使用C()动态改变
