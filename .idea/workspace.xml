@@ -2,252 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f89da9d6-ac46-44e1-a3d3-e4927505b598" name="默认更改列表" comment="一两个vmware虚拟机，三两个JetBrains 编辑器，三四个Adobe软件，用一堆工具加理论知识来创造价值，现在状态盲目学习＝假装努力......">
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/.gitattributes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/01.网络.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/01.网络/01.计算机网络体系结构.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/01.网络/02.用户数据报协议UDP.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/01.网络/03.传输控制协议TCP.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/01.网络/04.TCP粘包拆包.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/01.网络/05.HTTP状态码.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/01.网络/06.HTTP方法详解.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/01.网络/07.HTTPS细节介绍.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/01.网络/08.SSL-TLS协议运行机制的概述.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/01.网络/assets/network-architecture-01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/01.网络/assets/network-architecture-02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/01.网络/assets/network-architecture-03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/01.网络/assets/network-architecture-04.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/01.网络/assets/network-architecture-05.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/01.网络/assets/network-architecture-06.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/01.网络/assets/network-architecture-07.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/01.网络/assets/network-http-message.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/01.网络/assets/network-http-method-01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/01.网络/assets/network-http-method-02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/01.网络/assets/network-http-method-03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/01.网络/assets/network-http-method-04.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/01.网络/assets/network-http-method-05.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/01.网络/assets/network-http-method-06.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/01.网络/assets/network-http-method-07.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/01.网络/assets/network-http-method-08.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/01.网络/assets/network-http-method.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/01.网络/assets/network-https-01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/01.网络/assets/network-https-02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/01.网络/assets/network-https-03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/01.网络/assets/network-https-04.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/01.网络/assets/network-https-05.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/01.网络/assets/network-https.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/01.网络/assets/network-tcp-01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/01.网络/assets/network-tcp-02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/01.网络/assets/network-tcp-03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/01.网络/assets/network-tcp-04.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/01.网络/assets/network-tcp-05.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/01.网络/assets/network-tcp-06.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/01.网络/assets/network-tcp-07.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/01.网络/assets/network-tcp-08.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/01.网络/assets/network-tcp-09.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/01.网络/assets/network-tcp-10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/01.网络/assets/network-tcp-11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/01.网络/assets/network-tcp-12.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/01.网络/assets/network-tcp-13.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/01.网络/assets/network-tcp-14.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/01.网络/assets/network-tcp-15.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/01.网络/assets/network-tcp-16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/01.网络/assets/network-tcp-17.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/01.网络/assets/network-tcp-18.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/01.网络/assets/network-tcp-19.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/01.网络/assets/network-udp-01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/01.网络/assets/network-udp-02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/01.网络/assets/network-udp-03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/01.网络/assets/network-websocket.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/02.数据结构与算法.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/02.数据结构与算法/01.数据结构与算法概述.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/02.数据结构与算法/02.数据结构实现基础.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/02.数据结构与算法/03.线性结构.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/02.数据结构与算法/04.树.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/02.数据结构与算法/07.排序.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/02.数据结构与算法/08.算法补充.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/02.数据结构与算法/09.经典算法题.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/02.数据结构与算法/assets/DSA-double-link.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/02.数据结构与算法/assets/DSA-double-link2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/02.数据结构与算法/assets/DSA-single-link.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/02.数据结构与算法/assets/DSA-stack.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/02.数据结构与算法/assets/DSA-线性表的链表表示.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/02.数据结构与算法/assets/DSA-线性表的顺序存储示意.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/02.数据结构与算法/assets/数据结构.sketch" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/03.PHP/01.PHP数组.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/03.PHP/02.PHP反射详解.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/03.PHP/03.echo、print、print_r、var_dump区别.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/03.PHP/QA.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/03.PHP/assets/php-base64.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/03.PHP/assets/php-ip2long.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/04.Web/01.初探SEO.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/04.Web/02.CSS选择器的分类.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/04.Web/03.CSS-Sprite的应用.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/04.Web/04.CSS盒模型.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/04.Web/05.CSS水平居中设置.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/04.Web/06.CSS垂直居中设置.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/04.Web/07.flex布局的基本概念.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/04.Web/08.CSS-Position学习.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/04.Web/09.JavaScript的性能优化-加载和执行.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/04.Web/10.JavaScript数据类型和数据结构.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/04.Web/11.JavaScript操作DOM常用的API.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/04.Web/12.浏览器的同源策略.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/04.Web/13.前端常见跨域解决方案.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/04.Web/14.JavaScript闭包.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/04.Web/15.jsonp的原理与简单实现.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/04.Web/16.vue的双向绑定原理及实现.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/04.Web/QA.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/04.Web/assets/css-文档树结构.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/04.Web/assets/css-规则的结构.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/04.Web/assets/seo-搜索引擎抓取页面简单流程.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/04.Web/assets/seo-查询处理流程.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/04.Web/assets/seo-网站优化流程.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/04.Web/assets/seo-网页分析处理流程.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/04.Web/assets/web-css-CSS框模型.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/04.Web/assets/web-css-CSS选择器.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/04.Web/assets/web-css-position-01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/04.Web/assets/web-css-position-02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/04.Web/assets/web-css-position-03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/04.Web/assets/web-css-position-04.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/04.Web/assets/web-css-雪碧图1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/04.Web/assets/web-css-雪碧图2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/04.Web/assets/web-css-雪碧图3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/04.Web/assets/web-flex-01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/04.Web/assets/web-flex-02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/04.Web/assets/web-flex-03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/04.Web/assets/web-flex-04.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/04.Web/assets/web-flex-05.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/04.Web/assets/web-flex-06.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/04.Web/assets/web-flex-07.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/04.Web/assets/web-javascript-TypedArray-objects.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/04.Web/assets/web-javascript-dom-01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/04.Web/assets/web-javascript-dom-02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/04.Web/assets/web-javascript-dom-03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/04.Web/assets/web-javascript-dom-04.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/04.Web/assets/web-javascript-dom-05.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/04.Web/assets/web-javascript-dom-06.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/04.Web/assets/web-javascript-dom-07.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/04.Web/assets/web-javascript-dom-08.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/04.Web/assets/web-javascript-dom-09.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/04.Web/assets/web-javascript-dom-10.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/04.Web/assets/web-javascript-dom-11.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/04.Web/assets/web-javascript-dom-12.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/04.Web/assets/web-javascript-dom-13.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/04.Web/assets/web-javascript-dom-14.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/04.Web/assets/web-javascript-dom-15.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/04.Web/assets/web-javascript-性能01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/04.Web/assets/web-javascript-数据类型.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/04.Web/assets/web-vue-bind-01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/04.Web/assets/web-vue-bind-02.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/04.Web/assets/web-vue-bind-03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/04.Web/assets/web-vue-bind-04.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/04.Web/assets/web-vue-bind-05.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/04.Web/assets/web-vue-bind-06.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/04.Web/assets/web-vue-bind-07.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/05.MySQL/01.MySQL连接的使用.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/05.MySQL/02.MySQL体系结构.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/05.MySQL/03.MySQL常用函数.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/05.MySQL/QA.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/05.MySQL/assets/Optimistic-Pessimistic-Locks.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/05.MySQL/assets/index.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/05.MySQL/assets/mysql-join-01.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/05.MySQL/assets/mysql-join-02.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/05.MySQL/assets/mysql-join-03.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/05.MySQL/assets/mysql-system-01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/05.MySQL/assets/mysql-system-02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/05.MySQL/assets/mysql-system-03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/05.MySQL/assets/mysql-system-04.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/05.MySQL/assets/mysql-system-05.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/05.MySQL/assets/mysql-system-06.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/05.MySQL/assets/mysql-system-07.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/05.MySQL/assets/mysql-system-08.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/05.MySQL/assets/mysql-system-09.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/05.MySQL/assets/mysql-system-10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/05.MySQL/assets/mysql-system-11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/05.MySQL/assets/mysql-system-12.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/06.Redis/QA.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/07.Linux/01.GNU-Linux分支图.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/07.Linux/02.Linux基础.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/07.Linux/QA.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/07.Linux/assets/linux-branches-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/07.Linux/assets/linux-branches-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/08.安全/QA.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/08.安全/assets/ddos.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/09.设计模式/QA.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/10.架构/QA.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/10.架构/assets/PHP业务架构图.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/10.架构/assets/consistent-hash.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/10.架构/assets/lvs-architecture.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/10.架构/assets/lvs-web-cluster.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/10.架构/assets/mo-middleware.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/10.架构/assets/reverse-proxy.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/11.业务/QA.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/12.非技术/QA.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/13.面试/QA.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/assets/interview.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/assets/network-architecture-02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/assets/network-http-message.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/assets/network-http-method.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/assets/network-https.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/assets/network-websocket.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/assets/wechat.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/参考资料.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/技能树.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/术语对照表.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redis/target.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/index.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/linux/ctl/Git.txt" beforeDir="false" afterPath="$PROJECT_DIR$/linux/ctl/Git.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysql/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/mysql/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php/target.txt" beforeDir="false" afterPath="$PROJECT_DIR$/php/target.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php/thinkPHP/tp/.example.env" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/php/thinkPHP/tp/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/php/thinkPHP/tp/.travis.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/php/thinkPHP/tp/.user.ini" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/php/thinkPHP/tp/LICENSE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/php/thinkPHP/tp/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/php/thinkPHP/tp/app/.htaccess" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/php/thinkPHP/tp/app/AppService.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/php/thinkPHP/tp/app/BaseController.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/php/thinkPHP/tp/app/ExceptionHandle.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/php/thinkPHP/tp/app/Request.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/php/thinkPHP/tp/app/common.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/php/thinkPHP/tp/app/controller/Index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/php/thinkPHP/tp/app/event.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/php/thinkPHP/tp/app/middleware.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/php/thinkPHP/tp/app/provider.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/php/thinkPHP/tp/app/service.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/php/thinkPHP/tp/composer.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/php/thinkPHP/tp/composer.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/php/thinkPHP/tp/config/app.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/php/thinkPHP/tp/config/cache.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/php/thinkPHP/tp/config/console.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/php/thinkPHP/tp/config/cookie.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/php/thinkPHP/tp/config/database.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/php/thinkPHP/tp/config/filesystem.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/php/thinkPHP/tp/config/lang.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/php/thinkPHP/tp/config/log.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/php/thinkPHP/tp/config/middleware.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/php/thinkPHP/tp/config/route.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/php/thinkPHP/tp/config/session.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/php/thinkPHP/tp/config/view.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/php/thinkPHP/tp/extend/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/php/thinkPHP/tp/public/.htaccess" beforeDir="false" afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/02.数据结构与算法/05.散列查找.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php/thinkPHP/tp/public/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/php/thinkPHP/tp/public/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/php/thinkPHP/tp/public/nginx.htaccess" beforeDir="false" afterPath="$PROJECT_DIR$/php/PHP-Interview-QA/docs/02.数据结构与算法/06.图.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php/thinkPHP/tp/public/robots.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/php/thinkPHP/tp/public/router.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/php/thinkPHP/tp/public/static/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/php/thinkPHP/tp/route/app.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/php/thinkPHP/tp/runtime/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/php/thinkPHP/tp/think" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/php/thinkPHP/tp/view/README.md" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -280,10 +36,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index.php">
+        <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="2" column="2" lean-forward="true" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
+            <state relative-caret-position="1539">
+              <caret line="57" column="24" selection-start-line="57" selection-start-column="24" selection-end-line="57" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -393,7 +149,7 @@
     <other-services-enabled>true</other-services-enabled>
     <auto-save>true</auto-save>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="720" />
@@ -577,7 +333,7 @@
       <workItem from="1605254837264" duration="904000" />
       <workItem from="1605257167675" duration="2989000" />
       <workItem from="1605316228506" duration="927000" />
-      <workItem from="1605319491750" duration="13530000" />
+      <workItem from="1605319491750" duration="14733000" />
     </task>
     <task id="LOCAL-00001" summary="宝塔 usb">
       <created>1601107531113</created>
@@ -866,14 +622,21 @@
       <option name="project" value="LOCAL" />
       <updated>1605260985684</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="一两个vmware虚拟机，三两个JetBrains 编辑器，三四个Adobe软件，用一堆工具加理论知识来创造价值，现在状态盲目学习＝假装努力......">
+      <created>1605340623645</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1605340623645</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="293435000" />
+    <option name="totallyTimeSpent" value="294638000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1066" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49785408" visible="true" weight="0.20788912" />
       <window_info id="Structure" order="1" sideWeight="0.50214595" side_tool="true" weight="0.141258" />
@@ -973,6 +736,8 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="宝塔 usb" />
     <MESSAGE value="nfs" />
     <MESSAGE value="money" />
@@ -1249,17 +1014,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="699">
-          <caret line="57" column="24" selection-start-line="57" selection-start-column="24" selection-end-line="57" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
           <caret line="2" column="2" lean-forward="true" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1539">
+          <caret line="57" column="24" selection-start-line="57" selection-start-column="24" selection-end-line="57" selection-end-column="24" />
         </state>
       </provider>
     </entry>
