@@ -20,12 +20,12 @@ from email.header import Header
 from email.mime.text import MIMEText
 
 # 第三方 SMTP 服务
-mail_host = "smtp.XXX.com"  # 设置服务器
-mail_user = "XXXX"  # 用户名
-mail_pass = "XXXXXX"  # 口令
+mail_host = "smtp.qq.com"  # 设置服务器
+mail_user = "1872220587"  # 用户名
+mail_pass = "tettumgopanzcfac"  # 口令
 
-sender = 'from@runoob.com'
-receivers = ['429240967@qq.com']  # 接收邮件，可设置为你的QQ邮箱或者其他邮箱
+sender = '1872220587@qq.com'
+receivers = ['1844480921@qq.com']  # 接收邮件，可设置为你的QQ邮箱或者其他邮箱
 
 message = MIMEText('Python 邮件发送测试...', 'plain', 'utf-8')
 message['From'] = Header("菜鸟教程", 'utf-8')
