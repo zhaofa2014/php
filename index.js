@@ -12,6 +12,6 @@ function MM_goToURL() { //v3.0
 var obj = {
 	name: '我是对象的属性值，name是属性名，',
 	fn: function() {
-		console.log('我是对象的方法');
+		console.log('我是对象的方法6666666666666');
 	}
 }
