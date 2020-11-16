@@ -7,11 +7,11 @@ echo "hello nfs server" > /root/www/wwwroot/test.txt
 
 
 #复制备份
-mkdir -p /root/nfs_root/www
-nohup cp -r /root/www/wwwroot /root/nfs_root/www &
+mkdir -p /root/nfs_root/www/wwwroot
+nohup cp -r /root/www/wwwroot /root/nfs_rootwww/wwwroot &
 
 showmount -e 172.18.170.65
-showmount -e 172.18.77.122
+showmount -e 172.18.205.47
 
 mkdir -p /www/wwwroot
 mount -t nfs 172.18.77.122:/root/nfs_root/www/wwwroot /www/wwwroot
