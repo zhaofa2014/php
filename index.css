@@ -75,11 +75,6 @@ body {
     height: 100%;
 }
 
-.gungao1 img {
-    width: 100%;
-    height: 100%;
-}
-
 .gungao7 img {
     width: 100%;
     height: 100%;
@@ -94,13 +89,24 @@ body {
     display: inline-block;
 }
 
+.gungao1 img {
+    width: 100%;
+    height: 100%;
+}
+.gungao20 {
+    width: 414px;
+    height: 84px;
+    display: -webkit-flex;
+}
+
 .zhaofa .gungao2 {
-    width: 134px;
-    height: 80px;
+    width: 138px;
+    height: 84px;
     background-color: #0C32E1;
-    display: inline-block;
     border-radius: 14px;
 }
+
+
 
 .gungao2 img {
     width: 100%;
@@ -127,7 +133,7 @@ body {
     height: 119px;
     position: relative;
     background-color: #D49E9F;
-    top: 68px;
+    top: 59px;
     left: -7px;
     border-radius: 19px;
     display: inline-block;
