@@ -1,3 +1,10 @@
+systemctl enable rpcbind
+systemctl enable nfs-server
+
+systemctl start rpcbind
+systemctl start nfs-server
+exportfs -r
+
 #执行以下命令挂载 nfs 服务器上的共享目录到本机路径 /root/www/wwwroot
 mkdir -p /root/www/wwwroot
 # mount -t nfs $(nfs服务器的IP):/root/nfs_root /root/nfsmount
