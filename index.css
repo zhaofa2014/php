@@ -60,6 +60,7 @@ body {
     width: 102px;
     position: relative;
     display: inline-block;
+    margin: auto
 }
 
 
@@ -126,7 +127,7 @@ body {
     height: 119px;
     position: relative;
     background-color: #D49E9F;
-    top: 59px;
+    top: 68px;
     left: -7px;
     border-radius: 19px;
     display: inline-block;
