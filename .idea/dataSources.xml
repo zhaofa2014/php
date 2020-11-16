@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
-    <data-source source="LOCAL" name="study_economics@study.economics" uuid="57e75d4d-0230-4aea-8883-b8bf47a4d2be">
+    <data-source source="LOCAL" name="xyhcms02@192.168.1.88" uuid="57e75d4d-0230-4aea-8883-b8bf47a4d2be">
       <driver-ref>mysql</driver-ref>
       <synchronize>true</synchronize>
       <remarks>ocalhost</remarks>
       <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://study.economics:3306/study_economics</jdbc-url>
+      <jdbc-url>jdbc:mysql://192.168.1.88:3306/xyhcms02</jdbc-url>
       <driver-properties>
         <property name="autoReconnect" value="true" />
         <property name="zeroDateTimeBehavior" value="convertToNull" />
