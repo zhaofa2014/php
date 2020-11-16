@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f89da9d6-ac46-44e1-a3d3-e4927505b598" name="默认更改列表" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.py" beforeDir="false" afterPath="$PROJECT_DIR$/index.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -38,11 +35,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="486">
-              <caret line="19" column="2" selection-start-line="19" selection-start-column="2" selection-end-line="19" selection-end-column="2" />
+            <state relative-caret-position="532">
+              <caret line="28" column="17" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
             </state>
           </provider>
         </entry>
@@ -97,7 +103,6 @@
         <option value="$PROJECT_DIR$/nfs" />
         <option value="$PROJECT_DIR$/mysql.html" />
         <option value="$PROJECT_DIR$/money" />
-        <option value="$PROJECT_DIR$/index.py" />
         <option value="$PROJECT_DIR$/index.js" />
         <option value="$PROJECT_DIR$/python/scrapy/qx/qx/pipelines.py" />
         <option value="$PROJECT_DIR$/python/pandas/Pandas.sh.html" />
@@ -145,6 +150,7 @@
         <option value="$PROJECT_DIR$/index.css" />
         <option value="$PROJECT_DIR$/python/target.txt" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/index.py" />
       </list>
     </option>
   </component>
@@ -168,7 +174,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="NBKnowledgePane" />
       <pane id="ProjectPane">
         <subPane>
@@ -177,10 +182,16 @@
               <item name="study.economics" type="b2602c69:ProjectViewProjectNode" />
               <item name="study.economics" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="study.economics" type="b2602c69:ProjectViewProjectNode" />
+              <item name="study.economics" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -340,21 +351,8 @@
       <workItem from="1605316228506" duration="927000" />
       <workItem from="1605319491750" duration="18657000" />
       <workItem from="1605489640587" duration="3745000" />
-      <workItem from="1605496408415" duration="2668000" />
-    </task>
-    <task id="LOCAL-00004" summary="宝塔 usb">
-      <created>1601275998405</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1601275998405</updated>
-    </task>
-    <task id="LOCAL-00005" summary="宝塔 usb">
-      <created>1601374390941</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1601374390941</updated>
+      <workItem from="1605496408415" duration="4357000" />
+      <workItem from="1605505980840" duration="1243000" />
     </task>
     <task id="LOCAL-00006" summary="nfs">
       <created>1602581191325</created>
@@ -685,17 +683,30 @@
       <option name="project" value="LOCAL" />
       <updated>1605498010747</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="一两个vmware虚拟机，三两个JetBrains 编辑器，三四个Adobe软件，用一堆工具加理论知识来创造价值，现在状态盲目学习＝假装努力......">
+      <created>1605499234060</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1605499234060</updated>
+    </task>
+    <task id="LOCAL-00054" summary="一两个vmware虚拟机，三两个JetBrains 编辑器，三四个Adobe软件，用一堆工具加理论知识来创造价值，现在状态盲目学习＝假装努力......">
+      <created>1605505846532</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1605505846532</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="304975000" />
+    <option name="totallyTimeSpent" value="307907000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49785408" visible="true" weight="0.21215352" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49785408" visible="true" weight="0.21428572" />
       <window_info id="Structure" order="1" sideWeight="0.50214595" side_tool="true" weight="0.141258" />
       <window_info id="Favorites" order="2" sideWeight="0.50110376" side_tool="true" weight="0.13965885" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -707,7 +718,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32832617" />
-      <window_info anchor="bottom" id="File Transfer" order="9" sideWeight="0.4989339" visible="true" weight="0.03642384" />
+      <window_info anchor="bottom" id="File Transfer" order="9" sideWeight="0.4989339" visible="true" weight="0.035407726" />
       <window_info anchor="bottom" id="Database Changes" order="10" weight="0.3289183" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.48675495" />
       <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.5010661" side_tool="true" weight="0.03311258" />
@@ -716,7 +727,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Remote Host" order="3" weight="0.23027718" />
+      <window_info anchor="right" id="Remote Host" order="3" weight="0.12153518" />
       <window_info anchor="right" id="Word Book" order="4" side_tool="true" />
       <window_info anchor="right" id="Database" order="5" weight="0.141258" />
       <window_info anchor="right" id="SciView" order="6" weight="0.32995737" />
@@ -793,7 +804,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="宝塔 usb" />
     <MESSAGE value="nfs" />
@@ -1040,9 +1050,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
@@ -1137,8 +1144,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="19" column="2" selection-start-line="19" selection-start-column="2" selection-end-line="19" selection-end-column="2" />
+        <state relative-caret-position="532">
+          <caret line="28" column="17" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
