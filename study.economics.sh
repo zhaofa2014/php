@@ -54,10 +54,10 @@ docker run \
 
 centos:7.8.2003
 
-docker restart bt #重启
+#docker restart bt #重启
 docker exec -it bt /bin/bash   #使用
 #yum install -y wget && wget -O install.sh http://download.bt.cn/install/install_6.0.sh && sh install.sh
-#ykubectl exec -it   cloud-centos-money-0 /bin/bash
+#kubectl exec -it   cloud-centos-money-0 /bin/bash
 #服务启动
 /etc/init.d/bt start
 /etc/init.d/nginx start
@@ -101,6 +101,7 @@ docker volume prune
 
 #解压
 unzip panel.zip
+unzip data.zip
 
 #进入镜像文件在宿主机操作
 cd /var/lib/docker/overlay2/bb7dd38501fc633015a5beb16dedf96ee74ee7f22678a52b471cf9c7afa43ecf/diff/www/wwwroot/study.economics

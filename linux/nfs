@@ -17,11 +17,16 @@ echo "hello nfs server" > /root/www/wwwroot/test.txt
 mkdir -p /root/nfs_root/www/wwwroot
 nohup cp -r /root/www/wwwroot /root/nfs_rootwww/wwwroot &
 
-showmount -e 172.18.170.65
+mkdir -p /root/nfs_root/www/wwwroot/shelimai.com/upload
+cp -r /root/www/wwwroot/default/upload /root/nfs_root/www/wwwroot/shelimai.com/
+cd /root/nfs_root/www/wwwroot/shelimai.com/upload
+du -s upload
+
 showmount -e 172.18.205.47
+showmount -e 172.18.77.122
 
 mkdir -p /www/wwwroot
-mount -t nfs 172.18.77.122:/root/nfs_root/www/wwwroot /www/wwwroot
+mount -t nfs 172.18.77.122:/root/nfs_root/www/wwwroot/shelimai.com/upload /www/wwwroot/shelimai.com/upload
 
 #卸载
 umount /www/wwwroot

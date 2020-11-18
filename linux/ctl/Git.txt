@@ -29,7 +29,6 @@ cat ~/.ssh/id_rsa.pub
 	git commit -m 'composer自己的配置文件001'
 	git commit -m '第天进步一点点'
 
-
 提交到远程仓库
 	git push https://gitee.com/zhaofafa/tp6.zhaofa.love.git Study
 
