@@ -1,21 +1,6 @@
-server {
-listen       80;
-server_name  localhost;
-
-location / {
-root   /usr/share/nginx/html;
-index  index.php index.html index.htm;
-}
-
-error_page   500 502 503 504  /50x.html;
-location = /50x.html {
-root   /usr/share/nginx/html;
-}
-
-location ~ .php$ {
-fastcgi_pass   PHP:9000;
-fastcgi_index  index.php;
-fastcgi_param  SCRIPT_FILENAME  /var/www/html/$fastcgi_script_name;
-include        fastcgi_params;
-}
-}
+21号请一天事假，提前准备一天，
+22号休息日
+23号   24号   25号 26号 27号  请5天婚假，
+28号请一天事假
+29号休息日
+30   1   2请3天事假
