@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 #修改网卡
 vi /etc/sysconfig/network-scripts/ifcfg-ens33
 systemctl restart network    #重启网卡

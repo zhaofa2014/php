@@ -2,9 +2,9 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/php/PHP-Interview-QA" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/python/scrapy/ScrapyProject" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/python/scrapy/qx" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/python/scrapy/scrapyTest" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/php/PHP-Interview-QA" vcs="" />
+    <mapping directory="$PROJECT_DIR$/python/scrapy/ScrapyProject" vcs="" />
+    <mapping directory="$PROJECT_DIR$/python/scrapy/qx" vcs="" />
+    <mapping directory="$PROJECT_DIR$/python/scrapy/scrapyTest" vcs="" />
   </component>
 </project>
