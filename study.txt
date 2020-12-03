@@ -2,7 +2,7 @@
 项目地址
 gitee:
 https://gitee.com/zhaofafa/php
-
+git clone -b theology https://gitee.com/zhaofafa/php.git study.economics #下载本项目
 github:
 https://github.com/zhaofa2014/php
 
