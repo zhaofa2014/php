@@ -1,14 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="dataSourceStorageLocal">
-    <data-source name="xyhcms02@192.168.1.88" uuid="57e75d4d-0230-4aea-8883-b8bf47a4d2be">
+    <data-source name="mysql_economics@192.168.1.88" uuid="57e75d4d-0230-4aea-8883-b8bf47a4d2be">
       <database-info product="MySQL" version="5.6.49-log" jdbc-version="4.0" driver-name="MySQL Connector Java" driver-version="mysql-connector-java-5.1.47 ( Revision: fe1903b1ecb4a96a917f7ed3190d80c049b1de29 )" dbms="MYSQL" exact-version="5.6.49" exact-driver-version="5.1">
         <extra-name-characters>#@</extra-name-characters>
         <identifier-quote-string>`</identifier-quote-string>
       </database-info>
       <case-sensitivity plain-identifiers="exact" quoted-identifiers="exact" />
       <secret-storage>master_key</secret-storage>
-      <user-name>xyhcms02</user-name>
+      <user-name>mysql_economics</user-name>
+      <introspection-schemas>*:@</introspection-schemas>
+    </data-source>
+    <data-source name="study_economics" uuid="3c556b1e-f4dd-4e85-b3d2-a97555c6cd31">
+      <database-info product="MySQL" version="5.6.49-log" jdbc-version="4.0" driver-name="MySQL Connector Java" driver-version="mysql-connector-java-5.1.47 ( Revision: fe1903b1ecb4a96a917f7ed3190d80c049b1de29 )" dbms="MYSQL" exact-version="5.6.49" exact-driver-version="5.1">
+        <extra-name-characters>#@</extra-name-characters>
+        <identifier-quote-string>`</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="exact" quoted-identifiers="exact" />
+      <secret-storage>master_key</secret-storage>
+      <user-name>study_economics</user-name>
       <introspection-schemas>*:@</introspection-schemas>
     </data-source>
   </component>

@@ -101,6 +101,7 @@ docker container prune
 docker volume prune
 
 #解压
+zip -rP Zhaofa00 shelimai.com.zip shelimai.com
 unzip panel.zip
 unzip data.zip
 
